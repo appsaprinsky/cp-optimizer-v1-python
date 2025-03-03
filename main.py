@@ -140,7 +140,7 @@ def write_timetable_to_file(Globe_solution, output_file_path):
 
     print(f"Timetable written to {output_file_path}")
 
-def solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, forDH=False):
+def solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution, forDH=False):
     max_iterations = 50
     tolerance = 1e-6
     iteration = 0
@@ -159,9 +159,9 @@ def solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airl
                 continue
             if forDH:
                 lc = IsLegal(base)
-                pp = PricingProblemDH(airline_flights, airline_flights_copy, dual_values, base, pc, lc)
+                pp = PricingProblemDH(airline_flights, airline_flights_copy, dual_values, base, pc, lc, Globe_solution)
             else:
-                pp = PricingProblem(airline_flights, dual_values, base)
+                pp = PricingProblem(airline_flights, dual_values, base, Globe_solution)
             new_trip = pp.solve()
 
             if new_trip and len(new_trip.legs) > 1:
@@ -208,74 +208,80 @@ def solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airl
     return global_solution_trip, rmp
 
 def main():
-    pc = CostsPenalties('input_py/cost_penalties.txt')
-    airline_flights = read_flights_from_file('input_py/sam_py.txt', cost_class=pc)
-    airline_flights_copy = read_flights_from_file('input_py/sam_py.txt', cost_class=pc)
-    rmp = RestrictedMasterProblem()
-    global_solution_trip, rmp = trips_Initial_Solution(airline_flights, rmp, pc)
-    monitor1, _ = find_trips_with_UDH(global_solution_trip)
-    Globe_iter = 0
-    Globe_solution = []
-    rest_of_trips = []
-    while len(monitor1) > 0 or Globe_iter < 20:
-        Globe_iter += 1
 
-        global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy)
-        solution_trip, rest_of_trips = find_trips_with_UDH(global_solution_trip)
-        for trip in solution_trip:
-            Globe_solution.append(trip)
-            global_solution_trip.remove(trip)
-        airline_flights = remove_UDH_flights_from_trips_and_generate_flight_list(rest_of_trips)
+    # Define required slices for each aircraft type
+    AIRCRAFT_SLICES = {
+        "737": [1, 1, 0, 1, 1, 0, 0, 0, 0],  # Boeing 737-800
+        "738": [1, 1, 0, 1, 2, 0, 0, 0, 0],  # Boeing 737 MAX 8
+        "787": [1, 1, 1, 2, 3, 0, 0, 0, 0],  # Boeing 787-9
+    }
+
+    AIRCRAFT_taken_RULE = {
+        "737": [737, 738, 787],
+        "738": [738, 787],  # Boeing 737 MAX 8
+        "787": [787],  # Boeing 787-9
+    }
+
+    # Define common slices needed for all flights
+    COMMON_SLICES = [1, 1, 0, 1, 1, 0, 0, 0, 0]
+    ADDITIONAL_SLICES_738 = [0, 0, 0, 0, 1, 0, 0, 0, 0]
+    ADDITIONAL_SLICES_787 = [0, 0, 1, 1, 2, 0, 0, 0, 0]
+
+
+
+    for boe in AIRCRAFT_SLICES:
+        print(f"Boeing {boe} slices: {AIRCRAFT_SLICES[boe]}")
+
+        pc = CostsPenalties('input_py/cost_penalties.txt')
+        # airline_flights = read_flights_from_file('input_py/sam_py.txt', cost_class=pc, aircraft=boe)
+        # airline_flights_copy = read_flights_from_file('input_py/sam_py.txt', cost_class=pc, aircraft=boe)
+        airline_flights = read_flights_from_file('debug/ssim_schedule.txt', cost_class=pc, aircraft=boe, aircraft_rule=AIRCRAFT_taken_RULE[boe])
+        airline_flights_copy = read_flights_from_file('debug/ssim_schedule.txt', cost_class=pc, aircraft=boe, aircraft_rule=AIRCRAFT_taken_RULE[boe])
         rmp = RestrictedMasterProblem()
-        for tr in rest_of_trips:
-            rmp.add_trip(tr)
-    # for trip in Globe_solution:
-    #     print(trip)
+        global_solution_trip, rmp = trips_Initial_Solution(airline_flights, rmp, pc)
+        monitor1, _ = find_trips_with_UDH(global_solution_trip)
+        Globe_iter = 0
+        Globe_solution = []
+        rest_of_trips = []
+        while len(monitor1) > 0 or Globe_iter < 50:
+            Globe_iter += 1
 
-    print('-----------------------------------Deadheads-----------------------------------')
-#######DEADHEADS
-    rmp = RestrictedMasterProblem()
-    global_solution_trip, rmp = trips_Initial_Solution(airline_flights, rmp, pc)
-    monitor1, _ = find_trips_with_UDH(global_solution_trip)
-    Globe_iter = 0
-    rest_of_trips = []
-    while len(monitor1) > 0 or Globe_iter < 20:
-        Globe_iter += 1
+            global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution)
+            solution_trip, rest_of_trips = find_trips_with_UDH(global_solution_trip)
+            for trip in solution_trip:
+                Globe_solution.append(trip)
+                global_solution_trip.remove(trip)
+            airline_flights = remove_UDH_flights_from_trips_and_generate_flight_list(rest_of_trips)
+            rmp = RestrictedMasterProblem()
+            for tr in rest_of_trips:
+                rmp.add_trip(tr)
+        # for trip in Globe_solution:
+        #     print(trip)
 
-        global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, forDH=True)
-        solution_trip, rest_of_trips = find_trips_with_UDH(global_solution_trip)
-        for trip in solution_trip:
-            Globe_solution.append(trip)
-            global_solution_trip.remove(trip)
-        airline_flights = remove_UDH_flights_from_trips_and_generate_flight_list(rest_of_trips)
+        print('-----------------------------------Deadheads-----------------------------------')
+    #######DEADHEADS
         rmp = RestrictedMasterProblem()
-        for tr in rest_of_trips:
-            rmp.add_trip(tr)
+        global_solution_trip, rmp = trips_Initial_Solution(airline_flights, rmp, pc)
+        monitor1, _ = find_trips_with_UDH(global_solution_trip)
+        Globe_iter = 0
+        rest_of_trips = []
+        while len(monitor1) > 0 or Globe_iter < 50:
+            Globe_iter += 1
 
-    # Focus on creating DH solution for uncovered trips
-    # rmp = RestrictedMasterProblem()
-    # for tr in rest_of_trips:
-    #     rmp.add_trip(tr)
+            global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution, forDH=True)
+            solution_trip, rest_of_trips = find_trips_with_UDH(global_solution_trip)
+            for trip in solution_trip:
+                Globe_solution.append(trip)
+                global_solution_trip.remove(trip)
+            airline_flights = remove_UDH_flights_from_trips_and_generate_flight_list(rest_of_trips)
+            rmp = RestrictedMasterProblem()
+            for tr in rest_of_trips:
+                rmp.add_trip(tr)
 
-    # rmp.solve(airline_flights)
-    # dual_values = rmp.get_dual_values()
-    # print(f'Dual Values: {dual_values}')
 
-    # if not dual_values:
-    #     print("No dual values available. Stopping.")
-    #     break
-    # print(airline_flights)
-
-    # for f in airline_flights:
-    #     lc = IsLegal(f.departure_city)
-    #     pp = PricingProblemDH(airline_flights, airline_flights_copy, dual_values, f.departure_city, pc, lc)
-    #     new_trip = pp.solve()
-    #     print('FDFDFDDFDFDFDFDfFfffffffDFDFDFDFDfFfffffffDFDFDFDFDfFfffffffDFDFDFDFDfFfffffffFDFDfFfffffff')
-    #     print(new_trip)
-
-    write_timetable_to_file(Globe_solution, 'output_py/CC_timetable.txt')
-    if len(rest_of_trips)>0:
-        write_timetable_to_file(rest_of_trips, 'output_py/CC_timetable_UNCOVERED.txt')
+        write_timetable_to_file(Globe_solution, f'output_py/CC_timetable_{boe}.txt')
+        if len(rest_of_trips)>0:
+            write_timetable_to_file(rest_of_trips, f'output_py/CC_timetable_UNCOVERED_{boe}.txt')
 
 
 

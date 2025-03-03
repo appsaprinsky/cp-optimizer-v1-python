@@ -80,7 +80,7 @@ def is_base_is_legal(base):
     Check if a base is legal (e.g.,nly from a valid list).
     """
     # Add any specific flight-level checks here if needed
-    if base in ['A', 'B', 'C']:
+    if base in ['JFK', 'ORD', 'AUS', 'LAX', 'SFO', 'SEA', 'MIA', 'BOS', 'ATL', 'DFW', 'DEN', 'PHX', 'LAS', 'MCO', 'MSP', 'DTW', 'CLT', 'EWR', 'PHL', 'IAH', 'SAN']:
         return True
     else:
         return False

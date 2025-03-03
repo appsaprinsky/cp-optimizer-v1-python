@@ -1,10 +1,11 @@
 from datetime import timedelta
 from functions_py.Trip_gl import *
 class PricingProblem:
-    def __init__(self, flights, dual_values, base):
+    def __init__(self, flights, dual_values, base, GLOBAL_SOLUTIONS):
         self.flights = flights
         self.dual_values = dual_values
         self.base = base
+        self.GLOBAL_SOLUTIONS = GLOBAL_SOLUTIONS
 
     def is_valid_extension(self, trip, new_leg):
         # Ensure the new leg is not already in the trip and respects time constraints
@@ -50,9 +51,10 @@ class PricingProblem:
         for start_flight in start_flights:
             current_trip = Trip([start_flight], start_flight.cost, self.base)
             self.generate_all_trips(current_trip, all_trips)
-
+        print('All trips!!!!!!!!!!!!')
         print(all_trips)
         # Evaluate all generated trips and select the best one
+        all_trips = [trip for trip in all_trips if trip not in self.GLOBAL_SOLUTIONS]
         for trip in all_trips:
             reduced_cost = self.calculate_reduced_cost(trip.legs)
             if reduced_cost < best_reduced_cost:

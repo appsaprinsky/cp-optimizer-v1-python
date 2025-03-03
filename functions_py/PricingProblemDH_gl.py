@@ -3,13 +3,14 @@ from datetime import timedelta
 from functions_py.Trip_gl import *
 
 class PricingProblemDH:
-    def __init__(self, airline_flights, airline_flights_copy, dual_values, base, costs_penalties, legality_checker):
+    def __init__(self, airline_flights, airline_flights_copy, dual_values, base, costs_penalties, legality_checker, GLOBAL_SOLUTIONS):
         self.airline_flights = airline_flights  # Flights yet to cover
         self.airline_flights_copy = airline_flights_copy  # All flights (for deadheads)
         self.dual_values = dual_values
         self.base = base
         self.costs_penalties = costs_penalties
         self.legality_checker = legality_checker
+        self.GLOBAL_SOLUTIONS = GLOBAL_SOLUTIONS
 
     def is_valid_extension(self, trip, new_leg, is_deadhead=False):
         """
@@ -138,6 +139,7 @@ class PricingProblemDH:
         print(f"Total trips generated: {all_trips}")
         print(f"Total trips generated: {len(all_trips)}")
         # Evaluate all generated trips and select the best one
+        all_trips = [trip for trip in all_trips if trip not in self.GLOBAL_SOLUTIONS]
         for trip in all_trips:
             reduced_cost = self.calculate_reduced_cost(trip.legs)
             if reduced_cost < best_reduced_cost:
