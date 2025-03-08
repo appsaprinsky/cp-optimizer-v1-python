@@ -1,17 +1,7 @@
 Timetable of Solutions:
-Length:377
+Length:155
 ========================================
 Trip ID: 1
-Cost: 20
-Legs:
-  - Flight ID: FL559
-    Departure: 2025-01-01 07:30:00 from PHL
-    Arrival: 2025-01-01 09:30:00 in BNA
-  - Flight ID: FL590
-    Departure: 2025-01-01 14:00:00 from BNA
-    Arrival: 2025-01-01 16:00:00 in PHL
-========================================
-Trip ID: 2
 Cost: 20
 Legs:
   - Flight ID: FL497
@@ -21,7 +11,7 @@ Legs:
     Departure: 2025-01-01 13:00:00 from SLC
     Arrival: 2025-01-01 14:15:00 in LAS
 ========================================
-Trip ID: 3
+Trip ID: 2
 Cost: 20
 Legs:
   - Flight ID: FL249
@@ -31,67 +21,7 @@ Legs:
     Departure: 2025-01-01 12:00:00 from DCA
     Arrival: 2025-01-01 13:30:00 in BOS
 ========================================
-Trip ID: 4
-Cost: 20
-Legs:
-  - Flight ID: FL187
-    Departure: 2025-01-01 09:00:00 from MIA
-    Arrival: 2025-01-01 11:00:00 in ATL
-  - Flight ID: FL218
-    Departure: 2025-01-01 14:00:00 from ATL
-    Arrival: 2025-01-01 16:00:00 in MIA
-========================================
-Trip ID: 5
-Cost: 20
-Legs:
-  - Flight ID: FL63
-    Departure: 2025-01-01 08:00:00 from ORD
-    Arrival: 2025-01-01 10:30:00 in DFW
-  - Flight ID: FL94
-    Departure: 2025-01-01 13:00:00 from DFW
-    Arrival: 2025-01-01 15:30:00 in ORD
-========================================
-Trip ID: 6
-Cost: 20
-Legs:
-  - Flight ID: FL156
-    Departure: 2025-01-01 14:00:00 from SEA
-    Arrival: 2025-01-01 15:45:00 in SFO
-  - Flight ID: FL126
-    Departure: 2025-01-02 10:00:00 from SFO
-    Arrival: 2025-01-02 11:45:00 in SEA
-========================================
-Trip ID: 7
-Cost: 20
-Legs:
-  - Flight ID: FL342
-    Departure: 2025-01-01 14:00:00 from PHX
-    Arrival: 2025-01-01 15:30:00 in DEN
-  - Flight ID: FL312
-    Departure: 2025-01-02 08:00:00 from DEN
-    Arrival: 2025-01-02 09:30:00 in PHX
-========================================
-Trip ID: 8
-Cost: 20
-Legs:
-  - Flight ID: FL32
-    Departure: 2025-01-01 13:00:00 from LAX
-    Arrival: 2025-01-01 20:00:00 in JFK
-  - Flight ID: FL2
-    Departure: 2025-01-02 07:00:00 from JFK
-    Arrival: 2025-01-02 10:00:00 in LAX
-========================================
-Trip ID: 9
-Cost: 20
-Legs:
-  - Flight ID: FL683
-    Departure: 2025-01-01 08:00:00 from AUS
-    Arrival: 2025-01-01 09:00:00 in DAL
-  - Flight ID: FL714
-    Departure: 2025-01-01 17:00:00 from DAL
-    Arrival: 2025-01-01 18:00:00 in AUS
-========================================
-Trip ID: 10
+Trip ID: 3
 Cost: 20
 Legs:
   - Flight ID: FL621
@@ -101,7 +31,67 @@ Legs:
     Departure: 2025-01-01 16:00:00 from PDX
     Arrival: 2025-01-01 18:00:00 in SAN
 ========================================
-Trip ID: 11
+Trip ID: 4
+Cost: 20
+Legs:
+  - Flight ID: FL683
+    Departure: 2025-01-01 08:00:00 from AUS
+    Arrival: 2025-01-01 09:00:00 in DAL
+  - Flight ID: FL714
+    Departure: 2025-01-01 17:00:00 from DAL
+    Arrival: 2025-01-01 18:00:00 in AUS
+========================================
+Trip ID: 5
+Cost: 20
+Legs:
+  - Flight ID: FL373
+    Departure: 2025-01-01 07:30:00 from IAH
+    Arrival: 2025-01-01 10:00:00 in MSP
+  - Flight ID: FL404
+    Departure: 2025-01-01 13:30:00 from MSP
+    Arrival: 2025-01-01 16:00:00 in IAH
+========================================
+Trip ID: 6
+Cost: 20
+Legs:
+  - Flight ID: FL32
+    Departure: 2025-01-01 13:00:00 from LAX
+    Arrival: 2025-01-01 20:00:00 in JFK
+  - Flight ID: FL2
+    Departure: 2025-01-02 07:00:00 from JFK
+    Arrival: 2025-01-02 10:00:00 in LAX
+========================================
+Trip ID: 7
+Cost: 20
+Legs:
+  - Flight ID: FL218
+    Departure: 2025-01-01 14:00:00 from ATL
+    Arrival: 2025-01-01 16:00:00 in MIA
+  - Flight ID: FL188
+    Departure: 2025-01-02 09:00:00 from MIA
+    Arrival: 2025-01-02 11:00:00 in ATL
+========================================
+Trip ID: 8
+Cost: 20
+Legs:
+  - Flight ID: FL559
+    Departure: 2025-01-01 07:30:00 from PHL
+    Arrival: 2025-01-01 09:30:00 in BNA
+  - Flight ID: FL590
+    Departure: 2025-01-01 14:00:00 from BNA
+    Arrival: 2025-01-01 16:00:00 in PHL
+========================================
+Trip ID: 9
+Cost: 20
+Legs:
+  - Flight ID: FL63
+    Departure: 2025-01-01 08:00:00 from ORD
+    Arrival: 2025-01-01 10:30:00 in DFW
+  - Flight ID: FL94
+    Departure: 2025-01-01 13:00:00 from DFW
+    Arrival: 2025-01-01 15:30:00 in ORD
+========================================
+Trip ID: 10
 Cost: 20
 Legs:
   - Flight ID: FL466
@@ -111,27 +101,27 @@ Legs:
     Departure: 2025-01-02 08:00:00 from CLT
     Arrival: 2025-01-02 09:30:00 in DTW
 ========================================
+Trip ID: 11
+Cost: 20
+Legs:
+  - Flight ID: FL311
+    Departure: 2025-01-01 08:00:00 from DEN
+    Arrival: 2025-01-01 09:30:00 in PHX
+  - Flight ID: FL342
+    Departure: 2025-01-01 14:00:00 from PHX
+    Arrival: 2025-01-01 15:30:00 in DEN
+========================================
 Trip ID: 12
 Cost: 20
 Legs:
-  - Flight ID: FL404
-    Departure: 2025-01-01 13:30:00 from MSP
-    Arrival: 2025-01-01 16:00:00 in IAH
-  - Flight ID: FL374
-    Departure: 2025-01-02 07:30:00 from IAH
-    Arrival: 2025-01-02 10:00:00 in MSP
+  - Flight ID: FL125
+    Departure: 2025-01-01 10:00:00 from SFO
+    Arrival: 2025-01-01 11:45:00 in SEA
+  - Flight ID: FL156
+    Departure: 2025-01-01 14:00:00 from SEA
+    Arrival: 2025-01-01 15:45:00 in SFO
 ========================================
 Trip ID: 13
-Cost: 20
-Legs:
-  - Flight ID: FL560
-    Departure: 2025-01-02 07:30:00 from PHL
-    Arrival: 2025-01-02 09:30:00 in BNA
-  - Flight ID: FL591
-    Departure: 2025-01-02 14:00:00 from BNA
-    Arrival: 2025-01-02 16:00:00 in PHL
-========================================
-Trip ID: 14
 Cost: 20
 Legs:
   - Flight ID: FL498
@@ -141,7 +131,7 @@ Legs:
     Departure: 2025-01-02 13:00:00 from SLC
     Arrival: 2025-01-02 14:15:00 in LAS
 ========================================
-Trip ID: 15
+Trip ID: 14
 Cost: 20
 Legs:
   - Flight ID: FL250
@@ -151,67 +141,7 @@ Legs:
     Departure: 2025-01-02 12:00:00 from DCA
     Arrival: 2025-01-02 13:30:00 in BOS
 ========================================
-Trip ID: 16
-Cost: 20
-Legs:
-  - Flight ID: FL189
-    Departure: 2025-01-03 09:00:00 from MIA
-    Arrival: 2025-01-03 11:00:00 in ATL
-  - Flight ID: FL220
-    Departure: 2025-01-03 14:00:00 from ATL
-    Arrival: 2025-01-03 16:00:00 in MIA
-========================================
-Trip ID: 17
-Cost: 20
-Legs:
-  - Flight ID: FL65
-    Departure: 2025-01-03 08:00:00 from ORD
-    Arrival: 2025-01-03 10:30:00 in DFW
-  - Flight ID: FL96
-    Departure: 2025-01-03 13:00:00 from DFW
-    Arrival: 2025-01-03 15:30:00 in ORD
-========================================
-Trip ID: 18
-Cost: 20
-Legs:
-  - Flight ID: FL157
-    Departure: 2025-01-02 14:00:00 from SEA
-    Arrival: 2025-01-02 15:45:00 in SFO
-  - Flight ID: FL127
-    Departure: 2025-01-03 10:00:00 from SFO
-    Arrival: 2025-01-03 11:45:00 in SEA
-========================================
-Trip ID: 19
-Cost: 20
-Legs:
-  - Flight ID: FL343
-    Departure: 2025-01-02 14:00:00 from PHX
-    Arrival: 2025-01-02 15:30:00 in DEN
-  - Flight ID: FL313
-    Departure: 2025-01-03 08:00:00 from DEN
-    Arrival: 2025-01-03 09:30:00 in PHX
-========================================
-Trip ID: 20
-Cost: 20
-Legs:
-  - Flight ID: FL33
-    Departure: 2025-01-02 13:00:00 from LAX
-    Arrival: 2025-01-02 20:00:00 in JFK
-  - Flight ID: FL3
-    Departure: 2025-01-03 07:00:00 from JFK
-    Arrival: 2025-01-03 10:00:00 in LAX
-========================================
-Trip ID: 21
-Cost: 20
-Legs:
-  - Flight ID: FL684
-    Departure: 2025-01-02 08:00:00 from AUS
-    Arrival: 2025-01-02 09:00:00 in DAL
-  - Flight ID: FL715
-    Departure: 2025-01-02 17:00:00 from DAL
-    Arrival: 2025-01-02 18:00:00 in AUS
-========================================
-Trip ID: 22
+Trip ID: 15
 Cost: 20
 Legs:
   - Flight ID: FL622
@@ -221,7 +151,67 @@ Legs:
     Departure: 2025-01-02 16:00:00 from PDX
     Arrival: 2025-01-02 18:00:00 in SAN
 ========================================
-Trip ID: 23
+Trip ID: 16
+Cost: 20
+Legs:
+  - Flight ID: FL684
+    Departure: 2025-01-02 08:00:00 from AUS
+    Arrival: 2025-01-02 09:00:00 in DAL
+  - Flight ID: FL715
+    Departure: 2025-01-02 17:00:00 from DAL
+    Arrival: 2025-01-02 18:00:00 in AUS
+========================================
+Trip ID: 17
+Cost: 20
+Legs:
+  - Flight ID: FL375
+    Departure: 2025-01-03 07:30:00 from IAH
+    Arrival: 2025-01-03 10:00:00 in MSP
+  - Flight ID: FL406
+    Departure: 2025-01-03 13:30:00 from MSP
+    Arrival: 2025-01-03 16:00:00 in IAH
+========================================
+Trip ID: 18
+Cost: 20
+Legs:
+  - Flight ID: FL33
+    Departure: 2025-01-02 13:00:00 from LAX
+    Arrival: 2025-01-02 20:00:00 in JFK
+  - Flight ID: FL3
+    Departure: 2025-01-03 07:00:00 from JFK
+    Arrival: 2025-01-03 10:00:00 in LAX
+========================================
+Trip ID: 19
+Cost: 20
+Legs:
+  - Flight ID: FL219
+    Departure: 2025-01-02 14:00:00 from ATL
+    Arrival: 2025-01-02 16:00:00 in MIA
+  - Flight ID: FL189
+    Departure: 2025-01-03 09:00:00 from MIA
+    Arrival: 2025-01-03 11:00:00 in ATL
+========================================
+Trip ID: 20
+Cost: 20
+Legs:
+  - Flight ID: FL560
+    Departure: 2025-01-02 07:30:00 from PHL
+    Arrival: 2025-01-02 09:30:00 in BNA
+  - Flight ID: FL591
+    Departure: 2025-01-02 14:00:00 from BNA
+    Arrival: 2025-01-02 16:00:00 in PHL
+========================================
+Trip ID: 21
+Cost: 20
+Legs:
+  - Flight ID: FL65
+    Departure: 2025-01-03 08:00:00 from ORD
+    Arrival: 2025-01-03 10:30:00 in DFW
+  - Flight ID: FL96
+    Departure: 2025-01-03 13:00:00 from DFW
+    Arrival: 2025-01-03 15:30:00 in ORD
+========================================
+Trip ID: 22
 Cost: 20
 Legs:
   - Flight ID: FL467
@@ -231,27 +221,27 @@ Legs:
     Departure: 2025-01-03 08:00:00 from CLT
     Arrival: 2025-01-03 09:30:00 in DTW
 ========================================
+Trip ID: 23
+Cost: 20
+Legs:
+  - Flight ID: FL313
+    Departure: 2025-01-03 08:00:00 from DEN
+    Arrival: 2025-01-03 09:30:00 in PHX
+  - Flight ID: FL344
+    Departure: 2025-01-03 14:00:00 from PHX
+    Arrival: 2025-01-03 15:30:00 in DEN
+========================================
 Trip ID: 24
 Cost: 20
 Legs:
-  - Flight ID: FL405
-    Departure: 2025-01-02 13:30:00 from MSP
-    Arrival: 2025-01-02 16:00:00 in IAH
-  - Flight ID: FL375
-    Departure: 2025-01-03 07:30:00 from IAH
-    Arrival: 2025-01-03 10:00:00 in MSP
+  - Flight ID: FL127
+    Departure: 2025-01-03 10:00:00 from SFO
+    Arrival: 2025-01-03 11:45:00 in SEA
+  - Flight ID: FL158
+    Departure: 2025-01-03 14:00:00 from SEA
+    Arrival: 2025-01-03 15:45:00 in SFO
 ========================================
 Trip ID: 25
-Cost: 20
-Legs:
-  - Flight ID: FL561
-    Departure: 2025-01-03 07:30:00 from PHL
-    Arrival: 2025-01-03 09:30:00 in BNA
-  - Flight ID: FL592
-    Departure: 2025-01-03 14:00:00 from BNA
-    Arrival: 2025-01-03 16:00:00 in PHL
-========================================
-Trip ID: 26
 Cost: 20
 Legs:
   - Flight ID: FL499
@@ -261,7 +251,7 @@ Legs:
     Departure: 2025-01-03 13:00:00 from SLC
     Arrival: 2025-01-03 14:15:00 in LAS
 ========================================
-Trip ID: 27
+Trip ID: 26
 Cost: 20
 Legs:
   - Flight ID: FL251
@@ -271,67 +261,7 @@ Legs:
     Departure: 2025-01-03 12:00:00 from DCA
     Arrival: 2025-01-03 13:30:00 in BOS
 ========================================
-Trip ID: 28
-Cost: 20
-Legs:
-  - Flight ID: FL190
-    Departure: 2025-01-04 09:00:00 from MIA
-    Arrival: 2025-01-04 11:00:00 in ATL
-  - Flight ID: FL221
-    Departure: 2025-01-04 14:00:00 from ATL
-    Arrival: 2025-01-04 16:00:00 in MIA
-========================================
-Trip ID: 29
-Cost: 20
-Legs:
-  - Flight ID: FL66
-    Departure: 2025-01-04 08:00:00 from ORD
-    Arrival: 2025-01-04 10:30:00 in DFW
-  - Flight ID: FL97
-    Departure: 2025-01-04 13:00:00 from DFW
-    Arrival: 2025-01-04 15:30:00 in ORD
-========================================
-Trip ID: 30
-Cost: 20
-Legs:
-  - Flight ID: FL159
-    Departure: 2025-01-04 14:00:00 from SEA
-    Arrival: 2025-01-04 15:45:00 in SFO
-  - Flight ID: FL129
-    Departure: 2025-01-05 10:00:00 from SFO
-    Arrival: 2025-01-05 11:45:00 in SEA
-========================================
-Trip ID: 31
-Cost: 20
-Legs:
-  - Flight ID: FL345
-    Departure: 2025-01-04 14:00:00 from PHX
-    Arrival: 2025-01-04 15:30:00 in DEN
-  - Flight ID: FL315
-    Departure: 2025-01-05 08:00:00 from DEN
-    Arrival: 2025-01-05 09:30:00 in PHX
-========================================
-Trip ID: 32
-Cost: 20
-Legs:
-  - Flight ID: FL35
-    Departure: 2025-01-04 13:00:00 from LAX
-    Arrival: 2025-01-04 20:00:00 in JFK
-  - Flight ID: FL5
-    Departure: 2025-01-05 07:00:00 from JFK
-    Arrival: 2025-01-05 10:00:00 in LAX
-========================================
-Trip ID: 33
-Cost: 20
-Legs:
-  - Flight ID: FL685
-    Departure: 2025-01-03 08:00:00 from AUS
-    Arrival: 2025-01-03 09:00:00 in DAL
-  - Flight ID: FL716
-    Departure: 2025-01-03 17:00:00 from DAL
-    Arrival: 2025-01-03 18:00:00 in AUS
-========================================
-Trip ID: 34
+Trip ID: 27
 Cost: 20
 Legs:
   - Flight ID: FL623
@@ -341,7 +271,67 @@ Legs:
     Departure: 2025-01-03 16:00:00 from PDX
     Arrival: 2025-01-03 18:00:00 in SAN
 ========================================
-Trip ID: 35
+Trip ID: 28
+Cost: 20
+Legs:
+  - Flight ID: FL685
+    Departure: 2025-01-03 08:00:00 from AUS
+    Arrival: 2025-01-03 09:00:00 in DAL
+  - Flight ID: FL716
+    Departure: 2025-01-03 17:00:00 from DAL
+    Arrival: 2025-01-03 18:00:00 in AUS
+========================================
+Trip ID: 29
+Cost: 20
+Legs:
+  - Flight ID: FL376
+    Departure: 2025-01-04 07:30:00 from IAH
+    Arrival: 2025-01-04 10:00:00 in MSP
+  - Flight ID: FL407
+    Departure: 2025-01-04 13:30:00 from MSP
+    Arrival: 2025-01-04 16:00:00 in IAH
+========================================
+Trip ID: 30
+Cost: 20
+Legs:
+  - Flight ID: FL35
+    Departure: 2025-01-04 13:00:00 from LAX
+    Arrival: 2025-01-04 20:00:00 in JFK
+  - Flight ID: FL5
+    Departure: 2025-01-05 07:00:00 from JFK
+    Arrival: 2025-01-05 10:00:00 in LAX
+========================================
+Trip ID: 31
+Cost: 20
+Legs:
+  - Flight ID: FL221
+    Departure: 2025-01-04 14:00:00 from ATL
+    Arrival: 2025-01-04 16:00:00 in MIA
+  - Flight ID: FL191
+    Departure: 2025-01-05 09:00:00 from MIA
+    Arrival: 2025-01-05 11:00:00 in ATL
+========================================
+Trip ID: 32
+Cost: 20
+Legs:
+  - Flight ID: FL561
+    Departure: 2025-01-03 07:30:00 from PHL
+    Arrival: 2025-01-03 09:30:00 in BNA
+  - Flight ID: FL592
+    Departure: 2025-01-03 14:00:00 from BNA
+    Arrival: 2025-01-03 16:00:00 in PHL
+========================================
+Trip ID: 33
+Cost: 20
+Legs:
+  - Flight ID: FL66
+    Departure: 2025-01-04 08:00:00 from ORD
+    Arrival: 2025-01-04 10:30:00 in DFW
+  - Flight ID: FL97
+    Departure: 2025-01-04 13:00:00 from DFW
+    Arrival: 2025-01-04 15:30:00 in ORD
+========================================
+Trip ID: 34
 Cost: 20
 Legs:
   - Flight ID: FL469
@@ -351,27 +341,27 @@ Legs:
     Departure: 2025-01-05 08:00:00 from CLT
     Arrival: 2025-01-05 09:30:00 in DTW
 ========================================
+Trip ID: 35
+Cost: 20
+Legs:
+  - Flight ID: FL314
+    Departure: 2025-01-04 08:00:00 from DEN
+    Arrival: 2025-01-04 09:30:00 in PHX
+  - Flight ID: FL345
+    Departure: 2025-01-04 14:00:00 from PHX
+    Arrival: 2025-01-04 15:30:00 in DEN
+========================================
 Trip ID: 36
 Cost: 20
 Legs:
-  - Flight ID: FL407
-    Departure: 2025-01-04 13:30:00 from MSP
-    Arrival: 2025-01-04 16:00:00 in IAH
-  - Flight ID: FL377
-    Departure: 2025-01-05 07:30:00 from IAH
-    Arrival: 2025-01-05 10:00:00 in MSP
+  - Flight ID: FL128
+    Departure: 2025-01-04 10:00:00 from SFO
+    Arrival: 2025-01-04 11:45:00 in SEA
+  - Flight ID: FL159
+    Departure: 2025-01-04 14:00:00 from SEA
+    Arrival: 2025-01-04 15:45:00 in SFO
 ========================================
 Trip ID: 37
-Cost: 20
-Legs:
-  - Flight ID: FL562
-    Departure: 2025-01-04 07:30:00 from PHL
-    Arrival: 2025-01-04 09:30:00 in BNA
-  - Flight ID: FL593
-    Departure: 2025-01-04 14:00:00 from BNA
-    Arrival: 2025-01-04 16:00:00 in PHL
-========================================
-Trip ID: 38
 Cost: 20
 Legs:
   - Flight ID: FL500
@@ -381,7 +371,7 @@ Legs:
     Departure: 2025-01-04 13:00:00 from SLC
     Arrival: 2025-01-04 14:15:00 in LAS
 ========================================
-Trip ID: 39
+Trip ID: 38
 Cost: 20
 Legs:
   - Flight ID: FL252
@@ -391,67 +381,7 @@ Legs:
     Departure: 2025-01-04 12:00:00 from DCA
     Arrival: 2025-01-04 13:30:00 in BOS
 ========================================
-Trip ID: 40
-Cost: 20
-Legs:
-  - Flight ID: FL192
-    Departure: 2025-01-06 09:00:00 from MIA
-    Arrival: 2025-01-06 11:00:00 in ATL
-  - Flight ID: FL223
-    Departure: 2025-01-06 14:00:00 from ATL
-    Arrival: 2025-01-06 16:00:00 in MIA
-========================================
-Trip ID: 41
-Cost: 20
-Legs:
-  - Flight ID: FL68
-    Departure: 2025-01-06 08:00:00 from ORD
-    Arrival: 2025-01-06 10:30:00 in DFW
-  - Flight ID: FL99
-    Departure: 2025-01-06 13:00:00 from DFW
-    Arrival: 2025-01-06 15:30:00 in ORD
-========================================
-Trip ID: 42
-Cost: 20
-Legs:
-  - Flight ID: FL160
-    Departure: 2025-01-05 14:00:00 from SEA
-    Arrival: 2025-01-05 15:45:00 in SFO
-  - Flight ID: FL130
-    Departure: 2025-01-06 10:00:00 from SFO
-    Arrival: 2025-01-06 11:45:00 in SEA
-========================================
-Trip ID: 43
-Cost: 20
-Legs:
-  - Flight ID: FL346
-    Departure: 2025-01-05 14:00:00 from PHX
-    Arrival: 2025-01-05 15:30:00 in DEN
-  - Flight ID: FL316
-    Departure: 2025-01-06 08:00:00 from DEN
-    Arrival: 2025-01-06 09:30:00 in PHX
-========================================
-Trip ID: 44
-Cost: 20
-Legs:
-  - Flight ID: FL36
-    Departure: 2025-01-05 13:00:00 from LAX
-    Arrival: 2025-01-05 20:00:00 in JFK
-  - Flight ID: FL6
-    Departure: 2025-01-06 07:00:00 from JFK
-    Arrival: 2025-01-06 10:00:00 in LAX
-========================================
-Trip ID: 45
-Cost: 20
-Legs:
-  - Flight ID: FL686
-    Departure: 2025-01-04 08:00:00 from AUS
-    Arrival: 2025-01-04 09:00:00 in DAL
-  - Flight ID: FL717
-    Departure: 2025-01-04 17:00:00 from DAL
-    Arrival: 2025-01-04 18:00:00 in AUS
-========================================
-Trip ID: 46
+Trip ID: 39
 Cost: 20
 Legs:
   - Flight ID: FL624
@@ -461,7 +391,67 @@ Legs:
     Departure: 2025-01-04 16:00:00 from PDX
     Arrival: 2025-01-04 18:00:00 in SAN
 ========================================
-Trip ID: 47
+Trip ID: 40
+Cost: 20
+Legs:
+  - Flight ID: FL686
+    Departure: 2025-01-04 08:00:00 from AUS
+    Arrival: 2025-01-04 09:00:00 in DAL
+  - Flight ID: FL717
+    Departure: 2025-01-04 17:00:00 from DAL
+    Arrival: 2025-01-04 18:00:00 in AUS
+========================================
+Trip ID: 41
+Cost: 20
+Legs:
+  - Flight ID: FL378
+    Departure: 2025-01-06 07:30:00 from IAH
+    Arrival: 2025-01-06 10:00:00 in MSP
+  - Flight ID: FL409
+    Departure: 2025-01-06 13:30:00 from MSP
+    Arrival: 2025-01-06 16:00:00 in IAH
+========================================
+Trip ID: 42
+Cost: 20
+Legs:
+  - Flight ID: FL36
+    Departure: 2025-01-05 13:00:00 from LAX
+    Arrival: 2025-01-05 20:00:00 in JFK
+  - Flight ID: FL6
+    Departure: 2025-01-06 07:00:00 from JFK
+    Arrival: 2025-01-06 10:00:00 in LAX
+========================================
+Trip ID: 43
+Cost: 20
+Legs:
+  - Flight ID: FL222
+    Departure: 2025-01-05 14:00:00 from ATL
+    Arrival: 2025-01-05 16:00:00 in MIA
+  - Flight ID: FL192
+    Departure: 2025-01-06 09:00:00 from MIA
+    Arrival: 2025-01-06 11:00:00 in ATL
+========================================
+Trip ID: 44
+Cost: 20
+Legs:
+  - Flight ID: FL562
+    Departure: 2025-01-04 07:30:00 from PHL
+    Arrival: 2025-01-04 09:30:00 in BNA
+  - Flight ID: FL593
+    Departure: 2025-01-04 14:00:00 from BNA
+    Arrival: 2025-01-04 16:00:00 in PHL
+========================================
+Trip ID: 45
+Cost: 20
+Legs:
+  - Flight ID: FL68
+    Departure: 2025-01-06 08:00:00 from ORD
+    Arrival: 2025-01-06 10:30:00 in DFW
+  - Flight ID: FL99
+    Departure: 2025-01-06 13:00:00 from DFW
+    Arrival: 2025-01-06 15:30:00 in ORD
+========================================
+Trip ID: 46
 Cost: 20
 Legs:
   - Flight ID: FL470
@@ -471,27 +461,27 @@ Legs:
     Departure: 2025-01-06 08:00:00 from CLT
     Arrival: 2025-01-06 09:30:00 in DTW
 ========================================
+Trip ID: 47
+Cost: 20
+Legs:
+  - Flight ID: FL316
+    Departure: 2025-01-06 08:00:00 from DEN
+    Arrival: 2025-01-06 09:30:00 in PHX
+  - Flight ID: FL347
+    Departure: 2025-01-06 14:00:00 from PHX
+    Arrival: 2025-01-06 15:30:00 in DEN
+========================================
 Trip ID: 48
 Cost: 20
 Legs:
-  - Flight ID: FL408
-    Departure: 2025-01-05 13:30:00 from MSP
-    Arrival: 2025-01-05 16:00:00 in IAH
-  - Flight ID: FL378
-    Departure: 2025-01-06 07:30:00 from IAH
-    Arrival: 2025-01-06 10:00:00 in MSP
+  - Flight ID: FL130
+    Departure: 2025-01-06 10:00:00 from SFO
+    Arrival: 2025-01-06 11:45:00 in SEA
+  - Flight ID: FL161
+    Departure: 2025-01-06 14:00:00 from SEA
+    Arrival: 2025-01-06 15:45:00 in SFO
 ========================================
 Trip ID: 49
-Cost: 20
-Legs:
-  - Flight ID: FL563
-    Departure: 2025-01-05 07:30:00 from PHL
-    Arrival: 2025-01-05 09:30:00 in BNA
-  - Flight ID: FL594
-    Departure: 2025-01-05 14:00:00 from BNA
-    Arrival: 2025-01-05 16:00:00 in PHL
-========================================
-Trip ID: 50
 Cost: 20
 Legs:
   - Flight ID: FL501
@@ -501,7 +491,7 @@ Legs:
     Departure: 2025-01-05 13:00:00 from SLC
     Arrival: 2025-01-05 14:15:00 in LAS
 ========================================
-Trip ID: 51
+Trip ID: 50
 Cost: 20
 Legs:
   - Flight ID: FL253
@@ -511,67 +501,7 @@ Legs:
     Departure: 2025-01-05 12:00:00 from DCA
     Arrival: 2025-01-05 13:30:00 in BOS
 ========================================
-Trip ID: 52
-Cost: 20
-Legs:
-  - Flight ID: FL193
-    Departure: 2025-01-07 09:00:00 from MIA
-    Arrival: 2025-01-07 11:00:00 in ATL
-  - Flight ID: FL224
-    Departure: 2025-01-07 14:00:00 from ATL
-    Arrival: 2025-01-07 16:00:00 in MIA
-========================================
-Trip ID: 53
-Cost: 20
-Legs:
-  - Flight ID: FL69
-    Departure: 2025-01-07 08:00:00 from ORD
-    Arrival: 2025-01-07 10:30:00 in DFW
-  - Flight ID: FL100
-    Departure: 2025-01-07 13:00:00 from DFW
-    Arrival: 2025-01-07 15:30:00 in ORD
-========================================
-Trip ID: 54
-Cost: 20
-Legs:
-  - Flight ID: FL162
-    Departure: 2025-01-07 14:00:00 from SEA
-    Arrival: 2025-01-07 15:45:00 in SFO
-  - Flight ID: FL132
-    Departure: 2025-01-08 10:00:00 from SFO
-    Arrival: 2025-01-08 11:45:00 in SEA
-========================================
-Trip ID: 55
-Cost: 20
-Legs:
-  - Flight ID: FL348
-    Departure: 2025-01-07 14:00:00 from PHX
-    Arrival: 2025-01-07 15:30:00 in DEN
-  - Flight ID: FL318
-    Departure: 2025-01-08 08:00:00 from DEN
-    Arrival: 2025-01-08 09:30:00 in PHX
-========================================
-Trip ID: 56
-Cost: 20
-Legs:
-  - Flight ID: FL38
-    Departure: 2025-01-07 13:00:00 from LAX
-    Arrival: 2025-01-07 20:00:00 in JFK
-  - Flight ID: FL8
-    Departure: 2025-01-08 07:00:00 from JFK
-    Arrival: 2025-01-08 10:00:00 in LAX
-========================================
-Trip ID: 57
-Cost: 20
-Legs:
-  - Flight ID: FL687
-    Departure: 2025-01-05 08:00:00 from AUS
-    Arrival: 2025-01-05 09:00:00 in DAL
-  - Flight ID: FL718
-    Departure: 2025-01-05 17:00:00 from DAL
-    Arrival: 2025-01-05 18:00:00 in AUS
-========================================
-Trip ID: 58
+Trip ID: 51
 Cost: 20
 Legs:
   - Flight ID: FL625
@@ -581,7 +511,67 @@ Legs:
     Departure: 2025-01-05 16:00:00 from PDX
     Arrival: 2025-01-05 18:00:00 in SAN
 ========================================
-Trip ID: 59
+Trip ID: 52
+Cost: 20
+Legs:
+  - Flight ID: FL687
+    Departure: 2025-01-05 08:00:00 from AUS
+    Arrival: 2025-01-05 09:00:00 in DAL
+  - Flight ID: FL718
+    Departure: 2025-01-05 17:00:00 from DAL
+    Arrival: 2025-01-05 18:00:00 in AUS
+========================================
+Trip ID: 53
+Cost: 20
+Legs:
+  - Flight ID: FL379
+    Departure: 2025-01-07 07:30:00 from IAH
+    Arrival: 2025-01-07 10:00:00 in MSP
+  - Flight ID: FL410
+    Departure: 2025-01-07 13:30:00 from MSP
+    Arrival: 2025-01-07 16:00:00 in IAH
+========================================
+Trip ID: 54
+Cost: 20
+Legs:
+  - Flight ID: FL38
+    Departure: 2025-01-07 13:00:00 from LAX
+    Arrival: 2025-01-07 20:00:00 in JFK
+  - Flight ID: FL8
+    Departure: 2025-01-08 07:00:00 from JFK
+    Arrival: 2025-01-08 10:00:00 in LAX
+========================================
+Trip ID: 55
+Cost: 20
+Legs:
+  - Flight ID: FL224
+    Departure: 2025-01-07 14:00:00 from ATL
+    Arrival: 2025-01-07 16:00:00 in MIA
+  - Flight ID: FL194
+    Departure: 2025-01-08 09:00:00 from MIA
+    Arrival: 2025-01-08 11:00:00 in ATL
+========================================
+Trip ID: 56
+Cost: 20
+Legs:
+  - Flight ID: FL563
+    Departure: 2025-01-05 07:30:00 from PHL
+    Arrival: 2025-01-05 09:30:00 in BNA
+  - Flight ID: FL594
+    Departure: 2025-01-05 14:00:00 from BNA
+    Arrival: 2025-01-05 16:00:00 in PHL
+========================================
+Trip ID: 57
+Cost: 20
+Legs:
+  - Flight ID: FL69
+    Departure: 2025-01-07 08:00:00 from ORD
+    Arrival: 2025-01-07 10:30:00 in DFW
+  - Flight ID: FL100
+    Departure: 2025-01-07 13:00:00 from DFW
+    Arrival: 2025-01-07 15:30:00 in ORD
+========================================
+Trip ID: 58
 Cost: 20
 Legs:
   - Flight ID: FL472
@@ -591,3183 +581,973 @@ Legs:
     Departure: 2025-01-08 08:00:00 from CLT
     Arrival: 2025-01-08 09:30:00 in DTW
 ========================================
+Trip ID: 59
+Cost: 20
+Legs:
+  - Flight ID: FL317
+    Departure: 2025-01-07 08:00:00 from DEN
+    Arrival: 2025-01-07 09:30:00 in PHX
+  - Flight ID: FL348
+    Departure: 2025-01-07 14:00:00 from PHX
+    Arrival: 2025-01-07 15:30:00 in DEN
+========================================
 Trip ID: 60
 Cost: 20
 Legs:
-  - Flight ID: FL410
-    Departure: 2025-01-07 13:30:00 from MSP
-    Arrival: 2025-01-07 16:00:00 in IAH
-  - Flight ID: FL380
-    Departure: 2025-01-08 07:30:00 from IAH
-    Arrival: 2025-01-08 10:00:00 in MSP
+  - Flight ID: FL131
+    Departure: 2025-01-07 10:00:00 from SFO
+    Arrival: 2025-01-07 11:45:00 in SEA
+  - Flight ID: FL162
+    Departure: 2025-01-07 14:00:00 from SEA
+    Arrival: 2025-01-07 15:45:00 in SFO
 ========================================
 Trip ID: 61
-Cost: 20
-Legs:
-  - Flight ID: FL564
-    Departure: 2025-01-06 07:30:00 from PHL
-    Arrival: 2025-01-06 09:30:00 in BNA
-  - Flight ID: FL595
-    Departure: 2025-01-06 14:00:00 from BNA
-    Arrival: 2025-01-06 16:00:00 in PHL
-========================================
-Trip ID: 62
-Cost: 20
+Cost: 1010.0
 Legs:
   - Flight ID: FL502
     Departure: 2025-01-06 09:00:00 from LAS
     Arrival: 2025-01-06 10:15:00 in SLC
-  - Flight ID: FL533
+  - Flight ID: FL533_DH
     Departure: 2025-01-06 13:00:00 from SLC
     Arrival: 2025-01-06 14:15:00 in LAS
 ========================================
+Trip ID: 62
+Cost: 1010.0
+Legs:
+  - Flight ID: FL443
+    Departure: 2025-01-09 08:00:00 from CLT
+    Arrival: 2025-01-09 09:30:00 in DTW
+  - Flight ID: FL474_DH
+    Departure: 2025-01-09 14:00:00 from DTW
+    Arrival: 2025-01-09 15:30:00 in CLT
+========================================
 Trip ID: 63
-Cost: 20
+Cost: 1010.0
+Legs:
+  - Flight ID: FL9
+    Departure: 2025-01-09 07:00:00 from JFK
+    Arrival: 2025-01-09 10:00:00 in LAX
+  - Flight ID: FL40_DH
+    Departure: 2025-01-09 13:00:00 from LAX
+    Arrival: 2025-01-09 20:00:00 in JFK
+========================================
+Trip ID: 64
+Cost: 1010.0
 Legs:
   - Flight ID: FL254
     Departure: 2025-01-06 07:00:00 from BOS
     Arrival: 2025-01-06 08:30:00 in DCA
-  - Flight ID: FL285
+  - Flight ID: FL285_DH
     Departure: 2025-01-06 12:00:00 from DCA
     Arrival: 2025-01-06 13:30:00 in BOS
 ========================================
-Trip ID: 64
-Cost: 20
-Legs:
-  - Flight ID: FL195
-    Departure: 2025-01-09 09:00:00 from MIA
-    Arrival: 2025-01-09 11:00:00 in ATL
-  - Flight ID: FL226
-    Departure: 2025-01-09 14:00:00 from ATL
-    Arrival: 2025-01-09 16:00:00 in MIA
-========================================
 Trip ID: 65
-Cost: 20
-Legs:
-  - Flight ID: FL71
-    Departure: 2025-01-09 08:00:00 from ORD
-    Arrival: 2025-01-09 10:30:00 in DFW
-  - Flight ID: FL102
-    Departure: 2025-01-09 13:00:00 from DFW
-    Arrival: 2025-01-09 15:30:00 in ORD
-========================================
-Trip ID: 66
-Cost: 20
-Legs:
-  - Flight ID: FL163
-    Departure: 2025-01-08 14:00:00 from SEA
-    Arrival: 2025-01-08 15:45:00 in SFO
-  - Flight ID: FL133
-    Departure: 2025-01-09 10:00:00 from SFO
-    Arrival: 2025-01-09 11:45:00 in SEA
-========================================
-Trip ID: 67
-Cost: 20
-Legs:
-  - Flight ID: FL349
-    Departure: 2025-01-08 14:00:00 from PHX
-    Arrival: 2025-01-08 15:30:00 in DEN
-  - Flight ID: FL319
-    Departure: 2025-01-09 08:00:00 from DEN
-    Arrival: 2025-01-09 09:30:00 in PHX
-========================================
-Trip ID: 68
-Cost: 20
-Legs:
-  - Flight ID: FL39
-    Departure: 2025-01-08 13:00:00 from LAX
-    Arrival: 2025-01-08 20:00:00 in JFK
-  - Flight ID: FL9
-    Departure: 2025-01-09 07:00:00 from JFK
-    Arrival: 2025-01-09 10:00:00 in LAX
-========================================
-Trip ID: 69
-Cost: 20
-Legs:
-  - Flight ID: FL688
-    Departure: 2025-01-06 08:00:00 from AUS
-    Arrival: 2025-01-06 09:00:00 in DAL
-  - Flight ID: FL719
-    Departure: 2025-01-06 17:00:00 from DAL
-    Arrival: 2025-01-06 18:00:00 in AUS
-========================================
-Trip ID: 70
-Cost: 20
-Legs:
-  - Flight ID: FL626
-    Departure: 2025-01-06 10:00:00 from SAN
-    Arrival: 2025-01-06 12:00:00 in PDX
-  - Flight ID: FL657
-    Departure: 2025-01-06 16:00:00 from PDX
-    Arrival: 2025-01-06 18:00:00 in SAN
-========================================
-Trip ID: 71
-Cost: 20
-Legs:
-  - Flight ID: FL473
-    Departure: 2025-01-08 14:00:00 from DTW
-    Arrival: 2025-01-08 15:30:00 in CLT
-  - Flight ID: FL443
-    Departure: 2025-01-09 08:00:00 from CLT
-    Arrival: 2025-01-09 09:30:00 in DTW
-========================================
-Trip ID: 72
-Cost: 20
+Cost: 1010.0
 Legs:
   - Flight ID: FL411
     Departure: 2025-01-08 13:30:00 from MSP
     Arrival: 2025-01-08 16:00:00 in IAH
-  - Flight ID: FL381
+  - Flight ID: FL381_DH
     Departure: 2025-01-09 07:30:00 from IAH
     Arrival: 2025-01-09 10:00:00 in MSP
 ========================================
-Trip ID: 73
-Cost: 20
+Trip ID: 66
+Cost: 1010.0
 Legs:
-  - Flight ID: FL565
-    Departure: 2025-01-07 07:30:00 from PHL
-    Arrival: 2025-01-07 09:30:00 in BNA
-  - Flight ID: FL596
-    Departure: 2025-01-07 14:00:00 from BNA
-    Arrival: 2025-01-07 16:00:00 in PHL
+  - Flight ID: FL626
+    Departure: 2025-01-06 10:00:00 from SAN
+    Arrival: 2025-01-06 12:00:00 in PDX
+  - Flight ID: FL657_DH
+    Departure: 2025-01-06 16:00:00 from PDX
+    Arrival: 2025-01-06 18:00:00 in SAN
+========================================
+Trip ID: 67
+Cost: 1010.0
+Legs:
+  - Flight ID: FL195
+    Departure: 2025-01-09 09:00:00 from MIA
+    Arrival: 2025-01-09 11:00:00 in ATL
+  - Flight ID: FL226_DH
+    Departure: 2025-01-09 14:00:00 from ATL
+    Arrival: 2025-01-09 16:00:00 in MIA
+========================================
+Trip ID: 68
+Cost: 1010.0
+Legs:
+  - Flight ID: FL688
+    Departure: 2025-01-06 08:00:00 from AUS
+    Arrival: 2025-01-06 09:00:00 in DAL
+  - Flight ID: FL719_DH
+    Departure: 2025-01-06 17:00:00 from DAL
+    Arrival: 2025-01-06 18:00:00 in AUS
+========================================
+Trip ID: 69
+Cost: 1010.0
+Legs:
+  - Flight ID: FL381
+    Departure: 2025-01-09 07:30:00 from IAH
+    Arrival: 2025-01-09 10:00:00 in MSP
+  - Flight ID: FL412_DH
+    Departure: 2025-01-09 13:30:00 from MSP
+    Arrival: 2025-01-09 16:00:00 in IAH
+========================================
+Trip ID: 70
+Cost: 1010.0
+Legs:
+  - Flight ID: FL39
+    Departure: 2025-01-08 13:00:00 from LAX
+    Arrival: 2025-01-08 20:00:00 in JFK
+  - Flight ID: FL9_DH
+    Departure: 2025-01-09 07:00:00 from JFK
+    Arrival: 2025-01-09 10:00:00 in LAX
+========================================
+Trip ID: 71
+Cost: 1010.0
+Legs:
+  - Flight ID: FL225
+    Departure: 2025-01-08 14:00:00 from ATL
+    Arrival: 2025-01-08 16:00:00 in MIA
+  - Flight ID: FL195_DH
+    Departure: 2025-01-09 09:00:00 from MIA
+    Arrival: 2025-01-09 11:00:00 in ATL
+========================================
+Trip ID: 72
+Cost: 1010.0
+Legs:
+  - Flight ID: FL349
+    Departure: 2025-01-08 14:00:00 from PHX
+    Arrival: 2025-01-08 15:30:00 in DEN
+  - Flight ID: FL319_DH
+    Departure: 2025-01-09 08:00:00 from DEN
+    Arrival: 2025-01-09 09:30:00 in PHX
+========================================
+Trip ID: 73
+Cost: 1010.0
+Legs:
+  - Flight ID: FL564
+    Departure: 2025-01-06 07:30:00 from PHL
+    Arrival: 2025-01-06 09:30:00 in BNA
+  - Flight ID: FL595_DH
+    Departure: 2025-01-06 14:00:00 from BNA
+    Arrival: 2025-01-06 16:00:00 in PHL
 ========================================
 Trip ID: 74
-Cost: 20
+Cost: 1010.0
+Legs:
+  - Flight ID: FL163
+    Departure: 2025-01-08 14:00:00 from SEA
+    Arrival: 2025-01-08 15:45:00 in SFO
+  - Flight ID: FL133_DH
+    Departure: 2025-01-09 10:00:00 from SFO
+    Arrival: 2025-01-09 11:45:00 in SEA
+========================================
+Trip ID: 75
+Cost: 1010.0
+Legs:
+  - Flight ID: FL101
+    Departure: 2025-01-08 13:00:00 from DFW
+    Arrival: 2025-01-08 15:30:00 in ORD
+  - Flight ID: FL71_DH
+    Departure: 2025-01-09 08:00:00 from ORD
+    Arrival: 2025-01-09 10:30:00 in DFW
+========================================
+Trip ID: 76
+Cost: 1010.0
+Legs:
+  - Flight ID: FL71
+    Departure: 2025-01-09 08:00:00 from ORD
+    Arrival: 2025-01-09 10:30:00 in DFW
+  - Flight ID: FL102_DH
+    Departure: 2025-01-09 13:00:00 from DFW
+    Arrival: 2025-01-09 15:30:00 in ORD
+========================================
+Trip ID: 77
+Cost: 1010.0
+Legs:
+  - Flight ID: FL473
+    Departure: 2025-01-08 14:00:00 from DTW
+    Arrival: 2025-01-08 15:30:00 in CLT
+  - Flight ID: FL443_DH
+    Departure: 2025-01-09 08:00:00 from CLT
+    Arrival: 2025-01-09 09:30:00 in DTW
+========================================
+Trip ID: 78
+Cost: 1010.0
+Legs:
+  - Flight ID: FL319
+    Departure: 2025-01-09 08:00:00 from DEN
+    Arrival: 2025-01-09 09:30:00 in PHX
+  - Flight ID: FL350_DH
+    Departure: 2025-01-09 14:00:00 from PHX
+    Arrival: 2025-01-09 15:30:00 in DEN
+========================================
+Trip ID: 79
+Cost: 1010.0
+Legs:
+  - Flight ID: FL133
+    Departure: 2025-01-09 10:00:00 from SFO
+    Arrival: 2025-01-09 11:45:00 in SEA
+  - Flight ID: FL164_DH
+    Departure: 2025-01-09 14:00:00 from SEA
+    Arrival: 2025-01-09 15:45:00 in SFO
+========================================
+Trip ID: 80
+Cost: 1010.0
 Legs:
   - Flight ID: FL503
     Departure: 2025-01-07 09:00:00 from LAS
     Arrival: 2025-01-07 10:15:00 in SLC
-  - Flight ID: FL534
+  - Flight ID: FL534_DH
     Departure: 2025-01-07 13:00:00 from SLC
     Arrival: 2025-01-07 14:15:00 in LAS
 ========================================
-Trip ID: 75
-Cost: 20
+Trip ID: 81
+Cost: 1010.0
+Legs:
+  - Flight ID: FL444
+    Departure: 2025-01-10 08:00:00 from CLT
+    Arrival: 2025-01-10 09:30:00 in DTW
+  - Flight ID: FL475_DH
+    Departure: 2025-01-10 14:00:00 from DTW
+    Arrival: 2025-01-10 15:30:00 in CLT
+========================================
+Trip ID: 82
+Cost: 1010.0
+Legs:
+  - Flight ID: FL10
+    Departure: 2025-01-10 07:00:00 from JFK
+    Arrival: 2025-01-10 10:00:00 in LAX
+  - Flight ID: FL41_DH
+    Departure: 2025-01-10 13:00:00 from LAX
+    Arrival: 2025-01-10 20:00:00 in JFK
+========================================
+Trip ID: 83
+Cost: 1010.0
 Legs:
   - Flight ID: FL255
     Departure: 2025-01-07 07:00:00 from BOS
     Arrival: 2025-01-07 08:30:00 in DCA
-  - Flight ID: FL286
+  - Flight ID: FL286_DH
     Departure: 2025-01-07 12:00:00 from DCA
     Arrival: 2025-01-07 13:30:00 in BOS
 ========================================
-Trip ID: 76
-Cost: 20
-Legs:
-  - Flight ID: FL196
-    Departure: 2025-01-10 09:00:00 from MIA
-    Arrival: 2025-01-10 11:00:00 in ATL
-  - Flight ID: FL227
-    Departure: 2025-01-10 14:00:00 from ATL
-    Arrival: 2025-01-10 16:00:00 in MIA
-========================================
-Trip ID: 77
-Cost: 20
-Legs:
-  - Flight ID: FL72
-    Departure: 2025-01-10 08:00:00 from ORD
-    Arrival: 2025-01-10 10:30:00 in DFW
-  - Flight ID: FL103
-    Departure: 2025-01-10 13:00:00 from DFW
-    Arrival: 2025-01-10 15:30:00 in ORD
-========================================
-Trip ID: 78
-Cost: 20
-Legs:
-  - Flight ID: FL165
-    Departure: 2025-01-10 14:00:00 from SEA
-    Arrival: 2025-01-10 15:45:00 in SFO
-  - Flight ID: FL135
-    Departure: 2025-01-11 10:00:00 from SFO
-    Arrival: 2025-01-11 11:45:00 in SEA
-========================================
-Trip ID: 79
-Cost: 20
-Legs:
-  - Flight ID: FL351
-    Departure: 2025-01-10 14:00:00 from PHX
-    Arrival: 2025-01-10 15:30:00 in DEN
-  - Flight ID: FL321
-    Departure: 2025-01-11 08:00:00 from DEN
-    Arrival: 2025-01-11 09:30:00 in PHX
-========================================
-Trip ID: 80
-Cost: 20
-Legs:
-  - Flight ID: FL41
-    Departure: 2025-01-10 13:00:00 from LAX
-    Arrival: 2025-01-10 20:00:00 in JFK
-  - Flight ID: FL11
-    Departure: 2025-01-11 07:00:00 from JFK
-    Arrival: 2025-01-11 10:00:00 in LAX
-========================================
-Trip ID: 81
-Cost: 20
-Legs:
-  - Flight ID: FL689
-    Departure: 2025-01-07 08:00:00 from AUS
-    Arrival: 2025-01-07 09:00:00 in DAL
-  - Flight ID: FL720
-    Departure: 2025-01-07 17:00:00 from DAL
-    Arrival: 2025-01-07 18:00:00 in AUS
-========================================
-Trip ID: 82
-Cost: 20
-Legs:
-  - Flight ID: FL627
-    Departure: 2025-01-07 10:00:00 from SAN
-    Arrival: 2025-01-07 12:00:00 in PDX
-  - Flight ID: FL658
-    Departure: 2025-01-07 16:00:00 from PDX
-    Arrival: 2025-01-07 18:00:00 in SAN
-========================================
-Trip ID: 83
-Cost: 20
-Legs:
-  - Flight ID: FL475
-    Departure: 2025-01-10 14:00:00 from DTW
-    Arrival: 2025-01-10 15:30:00 in CLT
-  - Flight ID: FL445
-    Departure: 2025-01-11 08:00:00 from CLT
-    Arrival: 2025-01-11 09:30:00 in DTW
-========================================
 Trip ID: 84
-Cost: 20
-Legs:
-  - Flight ID: FL413
-    Departure: 2025-01-10 13:30:00 from MSP
-    Arrival: 2025-01-10 16:00:00 in IAH
-  - Flight ID: FL383
-    Departure: 2025-01-11 07:30:00 from IAH
-    Arrival: 2025-01-11 10:00:00 in MSP
-========================================
-Trip ID: 85
-Cost: 20
-Legs:
-  - Flight ID: FL566
-    Departure: 2025-01-08 07:30:00 from PHL
-    Arrival: 2025-01-08 09:30:00 in BNA
-  - Flight ID: FL597
-    Departure: 2025-01-08 14:00:00 from BNA
-    Arrival: 2025-01-08 16:00:00 in PHL
-========================================
-Trip ID: 86
-Cost: 20
-Legs:
-  - Flight ID: FL504
-    Departure: 2025-01-08 09:00:00 from LAS
-    Arrival: 2025-01-08 10:15:00 in SLC
-  - Flight ID: FL535
-    Departure: 2025-01-08 13:00:00 from SLC
-    Arrival: 2025-01-08 14:15:00 in LAS
-========================================
-Trip ID: 87
-Cost: 20
-Legs:
-  - Flight ID: FL256
-    Departure: 2025-01-08 07:00:00 from BOS
-    Arrival: 2025-01-08 08:30:00 in DCA
-  - Flight ID: FL287
-    Departure: 2025-01-08 12:00:00 from DCA
-    Arrival: 2025-01-08 13:30:00 in BOS
-========================================
-Trip ID: 88
-Cost: 20
-Legs:
-  - Flight ID: FL198
-    Departure: 2025-01-12 09:00:00 from MIA
-    Arrival: 2025-01-12 11:00:00 in ATL
-  - Flight ID: FL229
-    Departure: 2025-01-12 14:00:00 from ATL
-    Arrival: 2025-01-12 16:00:00 in MIA
-========================================
-Trip ID: 89
-Cost: 20
-Legs:
-  - Flight ID: FL74
-    Departure: 2025-01-12 08:00:00 from ORD
-    Arrival: 2025-01-12 10:30:00 in DFW
-  - Flight ID: FL105
-    Departure: 2025-01-12 13:00:00 from DFW
-    Arrival: 2025-01-12 15:30:00 in ORD
-========================================
-Trip ID: 90
-Cost: 20
-Legs:
-  - Flight ID: FL166
-    Departure: 2025-01-11 14:00:00 from SEA
-    Arrival: 2025-01-11 15:45:00 in SFO
-  - Flight ID: FL136
-    Departure: 2025-01-12 10:00:00 from SFO
-    Arrival: 2025-01-12 11:45:00 in SEA
-========================================
-Trip ID: 91
-Cost: 20
-Legs:
-  - Flight ID: FL352
-    Departure: 2025-01-11 14:00:00 from PHX
-    Arrival: 2025-01-11 15:30:00 in DEN
-  - Flight ID: FL322
-    Departure: 2025-01-12 08:00:00 from DEN
-    Arrival: 2025-01-12 09:30:00 in PHX
-========================================
-Trip ID: 92
-Cost: 20
-Legs:
-  - Flight ID: FL42
-    Departure: 2025-01-11 13:00:00 from LAX
-    Arrival: 2025-01-11 20:00:00 in JFK
-  - Flight ID: FL12
-    Departure: 2025-01-12 07:00:00 from JFK
-    Arrival: 2025-01-12 10:00:00 in LAX
-========================================
-Trip ID: 93
-Cost: 20
-Legs:
-  - Flight ID: FL690
-    Departure: 2025-01-08 08:00:00 from AUS
-    Arrival: 2025-01-08 09:00:00 in DAL
-  - Flight ID: FL721
-    Departure: 2025-01-08 17:00:00 from DAL
-    Arrival: 2025-01-08 18:00:00 in AUS
-========================================
-Trip ID: 94
-Cost: 20
-Legs:
-  - Flight ID: FL628
-    Departure: 2025-01-08 10:00:00 from SAN
-    Arrival: 2025-01-08 12:00:00 in PDX
-  - Flight ID: FL659
-    Departure: 2025-01-08 16:00:00 from PDX
-    Arrival: 2025-01-08 18:00:00 in SAN
-========================================
-Trip ID: 95
-Cost: 20
-Legs:
-  - Flight ID: FL476
-    Departure: 2025-01-11 14:00:00 from DTW
-    Arrival: 2025-01-11 15:30:00 in CLT
-  - Flight ID: FL446
-    Departure: 2025-01-12 08:00:00 from CLT
-    Arrival: 2025-01-12 09:30:00 in DTW
-========================================
-Trip ID: 96
-Cost: 20
-Legs:
-  - Flight ID: FL414
-    Departure: 2025-01-11 13:30:00 from MSP
-    Arrival: 2025-01-11 16:00:00 in IAH
-  - Flight ID: FL384
-    Departure: 2025-01-12 07:30:00 from IAH
-    Arrival: 2025-01-12 10:00:00 in MSP
-========================================
-Trip ID: 97
-Cost: 20
-Legs:
-  - Flight ID: FL567
-    Departure: 2025-01-09 07:30:00 from PHL
-    Arrival: 2025-01-09 09:30:00 in BNA
-  - Flight ID: FL598
-    Departure: 2025-01-09 14:00:00 from BNA
-    Arrival: 2025-01-09 16:00:00 in PHL
-========================================
-Trip ID: 98
-Cost: 20
-Legs:
-  - Flight ID: FL505
-    Departure: 2025-01-09 09:00:00 from LAS
-    Arrival: 2025-01-09 10:15:00 in SLC
-  - Flight ID: FL536
-    Departure: 2025-01-09 13:00:00 from SLC
-    Arrival: 2025-01-09 14:15:00 in LAS
-========================================
-Trip ID: 99
-Cost: 20
-Legs:
-  - Flight ID: FL257
-    Departure: 2025-01-09 07:00:00 from BOS
-    Arrival: 2025-01-09 08:30:00 in DCA
-  - Flight ID: FL288
-    Departure: 2025-01-09 12:00:00 from DCA
-    Arrival: 2025-01-09 13:30:00 in BOS
-========================================
-Trip ID: 100
-Cost: 20
-Legs:
-  - Flight ID: FL199
-    Departure: 2025-01-13 09:00:00 from MIA
-    Arrival: 2025-01-13 11:00:00 in ATL
-  - Flight ID: FL230
-    Departure: 2025-01-13 14:00:00 from ATL
-    Arrival: 2025-01-13 16:00:00 in MIA
-========================================
-Trip ID: 101
-Cost: 20
-Legs:
-  - Flight ID: FL75
-    Departure: 2025-01-13 08:00:00 from ORD
-    Arrival: 2025-01-13 10:30:00 in DFW
-  - Flight ID: FL106
-    Departure: 2025-01-13 13:00:00 from DFW
-    Arrival: 2025-01-13 15:30:00 in ORD
-========================================
-Trip ID: 102
-Cost: 20
-Legs:
-  - Flight ID: FL168
-    Departure: 2025-01-13 14:00:00 from SEA
-    Arrival: 2025-01-13 15:45:00 in SFO
-  - Flight ID: FL138
-    Departure: 2025-01-14 10:00:00 from SFO
-    Arrival: 2025-01-14 11:45:00 in SEA
-========================================
-Trip ID: 103
-Cost: 20
-Legs:
-  - Flight ID: FL354
-    Departure: 2025-01-13 14:00:00 from PHX
-    Arrival: 2025-01-13 15:30:00 in DEN
-  - Flight ID: FL324
-    Departure: 2025-01-14 08:00:00 from DEN
-    Arrival: 2025-01-14 09:30:00 in PHX
-========================================
-Trip ID: 104
-Cost: 20
-Legs:
-  - Flight ID: FL44
-    Departure: 2025-01-13 13:00:00 from LAX
-    Arrival: 2025-01-13 20:00:00 in JFK
-  - Flight ID: FL14
-    Departure: 2025-01-14 07:00:00 from JFK
-    Arrival: 2025-01-14 10:00:00 in LAX
-========================================
-Trip ID: 105
-Cost: 20
-Legs:
-  - Flight ID: FL691
-    Departure: 2025-01-09 08:00:00 from AUS
-    Arrival: 2025-01-09 09:00:00 in DAL
-  - Flight ID: FL722
-    Departure: 2025-01-09 17:00:00 from DAL
-    Arrival: 2025-01-09 18:00:00 in AUS
-========================================
-Trip ID: 106
-Cost: 20
-Legs:
-  - Flight ID: FL629
-    Departure: 2025-01-09 10:00:00 from SAN
-    Arrival: 2025-01-09 12:00:00 in PDX
-  - Flight ID: FL660
-    Departure: 2025-01-09 16:00:00 from PDX
-    Arrival: 2025-01-09 18:00:00 in SAN
-========================================
-Trip ID: 107
-Cost: 20
-Legs:
-  - Flight ID: FL478
-    Departure: 2025-01-13 14:00:00 from DTW
-    Arrival: 2025-01-13 15:30:00 in CLT
-  - Flight ID: FL448
-    Departure: 2025-01-14 08:00:00 from CLT
-    Arrival: 2025-01-14 09:30:00 in DTW
-========================================
-Trip ID: 108
-Cost: 20
-Legs:
-  - Flight ID: FL416
-    Departure: 2025-01-13 13:30:00 from MSP
-    Arrival: 2025-01-13 16:00:00 in IAH
-  - Flight ID: FL386
-    Departure: 2025-01-14 07:30:00 from IAH
-    Arrival: 2025-01-14 10:00:00 in MSP
-========================================
-Trip ID: 109
-Cost: 20
-Legs:
-  - Flight ID: FL568
-    Departure: 2025-01-10 07:30:00 from PHL
-    Arrival: 2025-01-10 09:30:00 in BNA
-  - Flight ID: FL599
-    Departure: 2025-01-10 14:00:00 from BNA
-    Arrival: 2025-01-10 16:00:00 in PHL
-========================================
-Trip ID: 110
-Cost: 20
-Legs:
-  - Flight ID: FL506
-    Departure: 2025-01-10 09:00:00 from LAS
-    Arrival: 2025-01-10 10:15:00 in SLC
-  - Flight ID: FL537
-    Departure: 2025-01-10 13:00:00 from SLC
-    Arrival: 2025-01-10 14:15:00 in LAS
-========================================
-Trip ID: 111
-Cost: 20
-Legs:
-  - Flight ID: FL258
-    Departure: 2025-01-10 07:00:00 from BOS
-    Arrival: 2025-01-10 08:30:00 in DCA
-  - Flight ID: FL289
-    Departure: 2025-01-10 12:00:00 from DCA
-    Arrival: 2025-01-10 13:30:00 in BOS
-========================================
-Trip ID: 112
-Cost: 20
-Legs:
-  - Flight ID: FL201
-    Departure: 2025-01-15 09:00:00 from MIA
-    Arrival: 2025-01-15 11:00:00 in ATL
-  - Flight ID: FL232
-    Departure: 2025-01-15 14:00:00 from ATL
-    Arrival: 2025-01-15 16:00:00 in MIA
-========================================
-Trip ID: 113
-Cost: 20
-Legs:
-  - Flight ID: FL77
-    Departure: 2025-01-15 08:00:00 from ORD
-    Arrival: 2025-01-15 10:30:00 in DFW
-  - Flight ID: FL108
-    Departure: 2025-01-15 13:00:00 from DFW
-    Arrival: 2025-01-15 15:30:00 in ORD
-========================================
-Trip ID: 114
-Cost: 20
-Legs:
-  - Flight ID: FL169
-    Departure: 2025-01-14 14:00:00 from SEA
-    Arrival: 2025-01-14 15:45:00 in SFO
-  - Flight ID: FL139
-    Departure: 2025-01-15 10:00:00 from SFO
-    Arrival: 2025-01-15 11:45:00 in SEA
-========================================
-Trip ID: 115
-Cost: 20
-Legs:
-  - Flight ID: FL355
-    Departure: 2025-01-14 14:00:00 from PHX
-    Arrival: 2025-01-14 15:30:00 in DEN
-  - Flight ID: FL325
-    Departure: 2025-01-15 08:00:00 from DEN
-    Arrival: 2025-01-15 09:30:00 in PHX
-========================================
-Trip ID: 116
-Cost: 20
-Legs:
-  - Flight ID: FL45
-    Departure: 2025-01-14 13:00:00 from LAX
-    Arrival: 2025-01-14 20:00:00 in JFK
-  - Flight ID: FL15
-    Departure: 2025-01-15 07:00:00 from JFK
-    Arrival: 2025-01-15 10:00:00 in LAX
-========================================
-Trip ID: 117
-Cost: 20
-Legs:
-  - Flight ID: FL692
-    Departure: 2025-01-10 08:00:00 from AUS
-    Arrival: 2025-01-10 09:00:00 in DAL
-  - Flight ID: FL723
-    Departure: 2025-01-10 17:00:00 from DAL
-    Arrival: 2025-01-10 18:00:00 in AUS
-========================================
-Trip ID: 118
-Cost: 20
-Legs:
-  - Flight ID: FL630
-    Departure: 2025-01-10 10:00:00 from SAN
-    Arrival: 2025-01-10 12:00:00 in PDX
-  - Flight ID: FL661
-    Departure: 2025-01-10 16:00:00 from PDX
-    Arrival: 2025-01-10 18:00:00 in SAN
-========================================
-Trip ID: 119
-Cost: 20
-Legs:
-  - Flight ID: FL479
-    Departure: 2025-01-14 14:00:00 from DTW
-    Arrival: 2025-01-14 15:30:00 in CLT
-  - Flight ID: FL449
-    Departure: 2025-01-15 08:00:00 from CLT
-    Arrival: 2025-01-15 09:30:00 in DTW
-========================================
-Trip ID: 120
-Cost: 20
-Legs:
-  - Flight ID: FL417
-    Departure: 2025-01-14 13:30:00 from MSP
-    Arrival: 2025-01-14 16:00:00 in IAH
-  - Flight ID: FL387
-    Departure: 2025-01-15 07:30:00 from IAH
-    Arrival: 2025-01-15 10:00:00 in MSP
-========================================
-Trip ID: 121
-Cost: 20
-Legs:
-  - Flight ID: FL569
-    Departure: 2025-01-11 07:30:00 from PHL
-    Arrival: 2025-01-11 09:30:00 in BNA
-  - Flight ID: FL600
-    Departure: 2025-01-11 14:00:00 from BNA
-    Arrival: 2025-01-11 16:00:00 in PHL
-========================================
-Trip ID: 122
-Cost: 20
-Legs:
-  - Flight ID: FL507
-    Departure: 2025-01-11 09:00:00 from LAS
-    Arrival: 2025-01-11 10:15:00 in SLC
-  - Flight ID: FL538
-    Departure: 2025-01-11 13:00:00 from SLC
-    Arrival: 2025-01-11 14:15:00 in LAS
-========================================
-Trip ID: 123
-Cost: 20
-Legs:
-  - Flight ID: FL259
-    Departure: 2025-01-11 07:00:00 from BOS
-    Arrival: 2025-01-11 08:30:00 in DCA
-  - Flight ID: FL290
-    Departure: 2025-01-11 12:00:00 from DCA
-    Arrival: 2025-01-11 13:30:00 in BOS
-========================================
-Trip ID: 124
-Cost: 20
-Legs:
-  - Flight ID: FL202
-    Departure: 2025-01-16 09:00:00 from MIA
-    Arrival: 2025-01-16 11:00:00 in ATL
-  - Flight ID: FL233
-    Departure: 2025-01-16 14:00:00 from ATL
-    Arrival: 2025-01-16 16:00:00 in MIA
-========================================
-Trip ID: 125
-Cost: 20
-Legs:
-  - Flight ID: FL78
-    Departure: 2025-01-16 08:00:00 from ORD
-    Arrival: 2025-01-16 10:30:00 in DFW
-  - Flight ID: FL109
-    Departure: 2025-01-16 13:00:00 from DFW
-    Arrival: 2025-01-16 15:30:00 in ORD
-========================================
-Trip ID: 126
-Cost: 20
-Legs:
-  - Flight ID: FL171
-    Departure: 2025-01-16 14:00:00 from SEA
-    Arrival: 2025-01-16 15:45:00 in SFO
-  - Flight ID: FL141
-    Departure: 2025-01-17 10:00:00 from SFO
-    Arrival: 2025-01-17 11:45:00 in SEA
-========================================
-Trip ID: 127
-Cost: 20
-Legs:
-  - Flight ID: FL357
-    Departure: 2025-01-16 14:00:00 from PHX
-    Arrival: 2025-01-16 15:30:00 in DEN
-  - Flight ID: FL327
-    Departure: 2025-01-17 08:00:00 from DEN
-    Arrival: 2025-01-17 09:30:00 in PHX
-========================================
-Trip ID: 128
-Cost: 20
-Legs:
-  - Flight ID: FL47
-    Departure: 2025-01-16 13:00:00 from LAX
-    Arrival: 2025-01-16 20:00:00 in JFK
-  - Flight ID: FL17
-    Departure: 2025-01-17 07:00:00 from JFK
-    Arrival: 2025-01-17 10:00:00 in LAX
-========================================
-Trip ID: 129
-Cost: 20
-Legs:
-  - Flight ID: FL693
-    Departure: 2025-01-11 08:00:00 from AUS
-    Arrival: 2025-01-11 09:00:00 in DAL
-  - Flight ID: FL724
-    Departure: 2025-01-11 17:00:00 from DAL
-    Arrival: 2025-01-11 18:00:00 in AUS
-========================================
-Trip ID: 130
-Cost: 20
-Legs:
-  - Flight ID: FL631
-    Departure: 2025-01-11 10:00:00 from SAN
-    Arrival: 2025-01-11 12:00:00 in PDX
-  - Flight ID: FL662
-    Departure: 2025-01-11 16:00:00 from PDX
-    Arrival: 2025-01-11 18:00:00 in SAN
-========================================
-Trip ID: 131
-Cost: 20
-Legs:
-  - Flight ID: FL481
-    Departure: 2025-01-16 14:00:00 from DTW
-    Arrival: 2025-01-16 15:30:00 in CLT
-  - Flight ID: FL451
-    Departure: 2025-01-17 08:00:00 from CLT
-    Arrival: 2025-01-17 09:30:00 in DTW
-========================================
-Trip ID: 132
-Cost: 20
-Legs:
-  - Flight ID: FL419
-    Departure: 2025-01-16 13:30:00 from MSP
-    Arrival: 2025-01-16 16:00:00 in IAH
-  - Flight ID: FL389
-    Departure: 2025-01-17 07:30:00 from IAH
-    Arrival: 2025-01-17 10:00:00 in MSP
-========================================
-Trip ID: 133
-Cost: 20
-Legs:
-  - Flight ID: FL570
-    Departure: 2025-01-12 07:30:00 from PHL
-    Arrival: 2025-01-12 09:30:00 in BNA
-  - Flight ID: FL601
-    Departure: 2025-01-12 14:00:00 from BNA
-    Arrival: 2025-01-12 16:00:00 in PHL
-========================================
-Trip ID: 134
-Cost: 20
-Legs:
-  - Flight ID: FL508
-    Departure: 2025-01-12 09:00:00 from LAS
-    Arrival: 2025-01-12 10:15:00 in SLC
-  - Flight ID: FL539
-    Departure: 2025-01-12 13:00:00 from SLC
-    Arrival: 2025-01-12 14:15:00 in LAS
-========================================
-Trip ID: 135
-Cost: 20
-Legs:
-  - Flight ID: FL260
-    Departure: 2025-01-12 07:00:00 from BOS
-    Arrival: 2025-01-12 08:30:00 in DCA
-  - Flight ID: FL291
-    Departure: 2025-01-12 12:00:00 from DCA
-    Arrival: 2025-01-12 13:30:00 in BOS
-========================================
-Trip ID: 136
-Cost: 20
-Legs:
-  - Flight ID: FL204
-    Departure: 2025-01-18 09:00:00 from MIA
-    Arrival: 2025-01-18 11:00:00 in ATL
-  - Flight ID: FL235
-    Departure: 2025-01-18 14:00:00 from ATL
-    Arrival: 2025-01-18 16:00:00 in MIA
-========================================
-Trip ID: 137
-Cost: 20
-Legs:
-  - Flight ID: FL80
-    Departure: 2025-01-18 08:00:00 from ORD
-    Arrival: 2025-01-18 10:30:00 in DFW
-  - Flight ID: FL111
-    Departure: 2025-01-18 13:00:00 from DFW
-    Arrival: 2025-01-18 15:30:00 in ORD
-========================================
-Trip ID: 138
-Cost: 20
-Legs:
-  - Flight ID: FL172
-    Departure: 2025-01-17 14:00:00 from SEA
-    Arrival: 2025-01-17 15:45:00 in SFO
-  - Flight ID: FL142
-    Departure: 2025-01-18 10:00:00 from SFO
-    Arrival: 2025-01-18 11:45:00 in SEA
-========================================
-Trip ID: 139
-Cost: 20
-Legs:
-  - Flight ID: FL358
-    Departure: 2025-01-17 14:00:00 from PHX
-    Arrival: 2025-01-17 15:30:00 in DEN
-  - Flight ID: FL328
-    Departure: 2025-01-18 08:00:00 from DEN
-    Arrival: 2025-01-18 09:30:00 in PHX
-========================================
-Trip ID: 140
-Cost: 20
-Legs:
-  - Flight ID: FL48
-    Departure: 2025-01-17 13:00:00 from LAX
-    Arrival: 2025-01-17 20:00:00 in JFK
-  - Flight ID: FL18
-    Departure: 2025-01-18 07:00:00 from JFK
-    Arrival: 2025-01-18 10:00:00 in LAX
-========================================
-Trip ID: 141
-Cost: 20
-Legs:
-  - Flight ID: FL694
-    Departure: 2025-01-12 08:00:00 from AUS
-    Arrival: 2025-01-12 09:00:00 in DAL
-  - Flight ID: FL725
-    Departure: 2025-01-12 17:00:00 from DAL
-    Arrival: 2025-01-12 18:00:00 in AUS
-========================================
-Trip ID: 142
-Cost: 20
-Legs:
-  - Flight ID: FL632
-    Departure: 2025-01-12 10:00:00 from SAN
-    Arrival: 2025-01-12 12:00:00 in PDX
-  - Flight ID: FL663
-    Departure: 2025-01-12 16:00:00 from PDX
-    Arrival: 2025-01-12 18:00:00 in SAN
-========================================
-Trip ID: 143
-Cost: 20
-Legs:
-  - Flight ID: FL482
-    Departure: 2025-01-17 14:00:00 from DTW
-    Arrival: 2025-01-17 15:30:00 in CLT
-  - Flight ID: FL452
-    Departure: 2025-01-18 08:00:00 from CLT
-    Arrival: 2025-01-18 09:30:00 in DTW
-========================================
-Trip ID: 144
-Cost: 20
-Legs:
-  - Flight ID: FL420
-    Departure: 2025-01-17 13:30:00 from MSP
-    Arrival: 2025-01-17 16:00:00 in IAH
-  - Flight ID: FL390
-    Departure: 2025-01-18 07:30:00 from IAH
-    Arrival: 2025-01-18 10:00:00 in MSP
-========================================
-Trip ID: 145
-Cost: 20
-Legs:
-  - Flight ID: FL571
-    Departure: 2025-01-13 07:30:00 from PHL
-    Arrival: 2025-01-13 09:30:00 in BNA
-  - Flight ID: FL602
-    Departure: 2025-01-13 14:00:00 from BNA
-    Arrival: 2025-01-13 16:00:00 in PHL
-========================================
-Trip ID: 146
-Cost: 20
-Legs:
-  - Flight ID: FL509
-    Departure: 2025-01-13 09:00:00 from LAS
-    Arrival: 2025-01-13 10:15:00 in SLC
-  - Flight ID: FL540
-    Departure: 2025-01-13 13:00:00 from SLC
-    Arrival: 2025-01-13 14:15:00 in LAS
-========================================
-Trip ID: 147
-Cost: 20
-Legs:
-  - Flight ID: FL261
-    Departure: 2025-01-13 07:00:00 from BOS
-    Arrival: 2025-01-13 08:30:00 in DCA
-  - Flight ID: FL292
-    Departure: 2025-01-13 12:00:00 from DCA
-    Arrival: 2025-01-13 13:30:00 in BOS
-========================================
-Trip ID: 148
-Cost: 20
-Legs:
-  - Flight ID: FL205
-    Departure: 2025-01-19 09:00:00 from MIA
-    Arrival: 2025-01-19 11:00:00 in ATL
-  - Flight ID: FL236
-    Departure: 2025-01-19 14:00:00 from ATL
-    Arrival: 2025-01-19 16:00:00 in MIA
-========================================
-Trip ID: 149
-Cost: 20
-Legs:
-  - Flight ID: FL81
-    Departure: 2025-01-19 08:00:00 from ORD
-    Arrival: 2025-01-19 10:30:00 in DFW
-  - Flight ID: FL112
-    Departure: 2025-01-19 13:00:00 from DFW
-    Arrival: 2025-01-19 15:30:00 in ORD
-========================================
-Trip ID: 150
-Cost: 20
-Legs:
-  - Flight ID: FL174
-    Departure: 2025-01-19 14:00:00 from SEA
-    Arrival: 2025-01-19 15:45:00 in SFO
-  - Flight ID: FL144
-    Departure: 2025-01-20 10:00:00 from SFO
-    Arrival: 2025-01-20 11:45:00 in SEA
-========================================
-Trip ID: 151
-Cost: 20
-Legs:
-  - Flight ID: FL360
-    Departure: 2025-01-19 14:00:00 from PHX
-    Arrival: 2025-01-19 15:30:00 in DEN
-  - Flight ID: FL330
-    Departure: 2025-01-20 08:00:00 from DEN
-    Arrival: 2025-01-20 09:30:00 in PHX
-========================================
-Trip ID: 152
-Cost: 20
-Legs:
-  - Flight ID: FL50
-    Departure: 2025-01-19 13:00:00 from LAX
-    Arrival: 2025-01-19 20:00:00 in JFK
-  - Flight ID: FL20
-    Departure: 2025-01-20 07:00:00 from JFK
-    Arrival: 2025-01-20 10:00:00 in LAX
-========================================
-Trip ID: 153
-Cost: 20
-Legs:
-  - Flight ID: FL695
-    Departure: 2025-01-13 08:00:00 from AUS
-    Arrival: 2025-01-13 09:00:00 in DAL
-  - Flight ID: FL726
-    Departure: 2025-01-13 17:00:00 from DAL
-    Arrival: 2025-01-13 18:00:00 in AUS
-========================================
-Trip ID: 154
-Cost: 20
-Legs:
-  - Flight ID: FL633
-    Departure: 2025-01-13 10:00:00 from SAN
-    Arrival: 2025-01-13 12:00:00 in PDX
-  - Flight ID: FL664
-    Departure: 2025-01-13 16:00:00 from PDX
-    Arrival: 2025-01-13 18:00:00 in SAN
-========================================
-Trip ID: 155
-Cost: 20
-Legs:
-  - Flight ID: FL484
-    Departure: 2025-01-19 14:00:00 from DTW
-    Arrival: 2025-01-19 15:30:00 in CLT
-  - Flight ID: FL454
-    Departure: 2025-01-20 08:00:00 from CLT
-    Arrival: 2025-01-20 09:30:00 in DTW
-========================================
-Trip ID: 156
-Cost: 20
-Legs:
-  - Flight ID: FL422
-    Departure: 2025-01-19 13:30:00 from MSP
-    Arrival: 2025-01-19 16:00:00 in IAH
-  - Flight ID: FL392
-    Departure: 2025-01-20 07:30:00 from IAH
-    Arrival: 2025-01-20 10:00:00 in MSP
-========================================
-Trip ID: 157
-Cost: 20
-Legs:
-  - Flight ID: FL572
-    Departure: 2025-01-14 07:30:00 from PHL
-    Arrival: 2025-01-14 09:30:00 in BNA
-  - Flight ID: FL603
-    Departure: 2025-01-14 14:00:00 from BNA
-    Arrival: 2025-01-14 16:00:00 in PHL
-========================================
-Trip ID: 158
-Cost: 20
-Legs:
-  - Flight ID: FL510
-    Departure: 2025-01-14 09:00:00 from LAS
-    Arrival: 2025-01-14 10:15:00 in SLC
-  - Flight ID: FL541
-    Departure: 2025-01-14 13:00:00 from SLC
-    Arrival: 2025-01-14 14:15:00 in LAS
-========================================
-Trip ID: 159
-Cost: 20
-Legs:
-  - Flight ID: FL262
-    Departure: 2025-01-14 07:00:00 from BOS
-    Arrival: 2025-01-14 08:30:00 in DCA
-  - Flight ID: FL293
-    Departure: 2025-01-14 12:00:00 from DCA
-    Arrival: 2025-01-14 13:30:00 in BOS
-========================================
-Trip ID: 160
-Cost: 20
-Legs:
-  - Flight ID: FL207
-    Departure: 2025-01-21 09:00:00 from MIA
-    Arrival: 2025-01-21 11:00:00 in ATL
-  - Flight ID: FL238
-    Departure: 2025-01-21 14:00:00 from ATL
-    Arrival: 2025-01-21 16:00:00 in MIA
-========================================
-Trip ID: 161
-Cost: 20
-Legs:
-  - Flight ID: FL83
-    Departure: 2025-01-21 08:00:00 from ORD
-    Arrival: 2025-01-21 10:30:00 in DFW
-  - Flight ID: FL114
-    Departure: 2025-01-21 13:00:00 from DFW
-    Arrival: 2025-01-21 15:30:00 in ORD
-========================================
-Trip ID: 162
-Cost: 20
-Legs:
-  - Flight ID: FL175
-    Departure: 2025-01-20 14:00:00 from SEA
-    Arrival: 2025-01-20 15:45:00 in SFO
-  - Flight ID: FL145
-    Departure: 2025-01-21 10:00:00 from SFO
-    Arrival: 2025-01-21 11:45:00 in SEA
-========================================
-Trip ID: 163
-Cost: 20
-Legs:
-  - Flight ID: FL361
-    Departure: 2025-01-20 14:00:00 from PHX
-    Arrival: 2025-01-20 15:30:00 in DEN
-  - Flight ID: FL331
-    Departure: 2025-01-21 08:00:00 from DEN
-    Arrival: 2025-01-21 09:30:00 in PHX
-========================================
-Trip ID: 164
-Cost: 20
-Legs:
-  - Flight ID: FL51
-    Departure: 2025-01-20 13:00:00 from LAX
-    Arrival: 2025-01-20 20:00:00 in JFK
-  - Flight ID: FL21
-    Departure: 2025-01-21 07:00:00 from JFK
-    Arrival: 2025-01-21 10:00:00 in LAX
-========================================
-Trip ID: 165
-Cost: 20
-Legs:
-  - Flight ID: FL696
-    Departure: 2025-01-14 08:00:00 from AUS
-    Arrival: 2025-01-14 09:00:00 in DAL
-  - Flight ID: FL727
-    Departure: 2025-01-14 17:00:00 from DAL
-    Arrival: 2025-01-14 18:00:00 in AUS
-========================================
-Trip ID: 166
-Cost: 20
-Legs:
-  - Flight ID: FL634
-    Departure: 2025-01-14 10:00:00 from SAN
-    Arrival: 2025-01-14 12:00:00 in PDX
-  - Flight ID: FL665
-    Departure: 2025-01-14 16:00:00 from PDX
-    Arrival: 2025-01-14 18:00:00 in SAN
-========================================
-Trip ID: 167
-Cost: 20
-Legs:
-  - Flight ID: FL485
-    Departure: 2025-01-20 14:00:00 from DTW
-    Arrival: 2025-01-20 15:30:00 in CLT
-  - Flight ID: FL455
-    Departure: 2025-01-21 08:00:00 from CLT
-    Arrival: 2025-01-21 09:30:00 in DTW
-========================================
-Trip ID: 168
-Cost: 20
-Legs:
-  - Flight ID: FL423
-    Departure: 2025-01-20 13:30:00 from MSP
-    Arrival: 2025-01-20 16:00:00 in IAH
-  - Flight ID: FL393
-    Departure: 2025-01-21 07:30:00 from IAH
-    Arrival: 2025-01-21 10:00:00 in MSP
-========================================
-Trip ID: 169
-Cost: 20
-Legs:
-  - Flight ID: FL573
-    Departure: 2025-01-15 07:30:00 from PHL
-    Arrival: 2025-01-15 09:30:00 in BNA
-  - Flight ID: FL604
-    Departure: 2025-01-15 14:00:00 from BNA
-    Arrival: 2025-01-15 16:00:00 in PHL
-========================================
-Trip ID: 170
-Cost: 20
-Legs:
-  - Flight ID: FL511
-    Departure: 2025-01-15 09:00:00 from LAS
-    Arrival: 2025-01-15 10:15:00 in SLC
-  - Flight ID: FL542
-    Departure: 2025-01-15 13:00:00 from SLC
-    Arrival: 2025-01-15 14:15:00 in LAS
-========================================
-Trip ID: 171
-Cost: 20
-Legs:
-  - Flight ID: FL263
-    Departure: 2025-01-15 07:00:00 from BOS
-    Arrival: 2025-01-15 08:30:00 in DCA
-  - Flight ID: FL294
-    Departure: 2025-01-15 12:00:00 from DCA
-    Arrival: 2025-01-15 13:30:00 in BOS
-========================================
-Trip ID: 172
-Cost: 20
-Legs:
-  - Flight ID: FL208
-    Departure: 2025-01-22 09:00:00 from MIA
-    Arrival: 2025-01-22 11:00:00 in ATL
-  - Flight ID: FL239
-    Departure: 2025-01-22 14:00:00 from ATL
-    Arrival: 2025-01-22 16:00:00 in MIA
-========================================
-Trip ID: 173
-Cost: 20
-Legs:
-  - Flight ID: FL84
-    Departure: 2025-01-22 08:00:00 from ORD
-    Arrival: 2025-01-22 10:30:00 in DFW
-  - Flight ID: FL115
-    Departure: 2025-01-22 13:00:00 from DFW
-    Arrival: 2025-01-22 15:30:00 in ORD
-========================================
-Trip ID: 174
-Cost: 20
-Legs:
-  - Flight ID: FL177
-    Departure: 2025-01-22 14:00:00 from SEA
-    Arrival: 2025-01-22 15:45:00 in SFO
-  - Flight ID: FL147
-    Departure: 2025-01-23 10:00:00 from SFO
-    Arrival: 2025-01-23 11:45:00 in SEA
-========================================
-Trip ID: 175
-Cost: 20
-Legs:
-  - Flight ID: FL363
-    Departure: 2025-01-22 14:00:00 from PHX
-    Arrival: 2025-01-22 15:30:00 in DEN
-  - Flight ID: FL333
-    Departure: 2025-01-23 08:00:00 from DEN
-    Arrival: 2025-01-23 09:30:00 in PHX
-========================================
-Trip ID: 176
-Cost: 20
-Legs:
-  - Flight ID: FL53
-    Departure: 2025-01-22 13:00:00 from LAX
-    Arrival: 2025-01-22 20:00:00 in JFK
-  - Flight ID: FL23
-    Departure: 2025-01-23 07:00:00 from JFK
-    Arrival: 2025-01-23 10:00:00 in LAX
-========================================
-Trip ID: 177
-Cost: 20
-Legs:
-  - Flight ID: FL697
-    Departure: 2025-01-15 08:00:00 from AUS
-    Arrival: 2025-01-15 09:00:00 in DAL
-  - Flight ID: FL728
-    Departure: 2025-01-15 17:00:00 from DAL
-    Arrival: 2025-01-15 18:00:00 in AUS
-========================================
-Trip ID: 178
-Cost: 20
-Legs:
-  - Flight ID: FL635
-    Departure: 2025-01-15 10:00:00 from SAN
-    Arrival: 2025-01-15 12:00:00 in PDX
-  - Flight ID: FL666
-    Departure: 2025-01-15 16:00:00 from PDX
-    Arrival: 2025-01-15 18:00:00 in SAN
-========================================
-Trip ID: 179
-Cost: 20
-Legs:
-  - Flight ID: FL487
-    Departure: 2025-01-22 14:00:00 from DTW
-    Arrival: 2025-01-22 15:30:00 in CLT
-  - Flight ID: FL457
-    Departure: 2025-01-23 08:00:00 from CLT
-    Arrival: 2025-01-23 09:30:00 in DTW
-========================================
-Trip ID: 180
-Cost: 20
-Legs:
-  - Flight ID: FL425
-    Departure: 2025-01-22 13:30:00 from MSP
-    Arrival: 2025-01-22 16:00:00 in IAH
-  - Flight ID: FL395
-    Departure: 2025-01-23 07:30:00 from IAH
-    Arrival: 2025-01-23 10:00:00 in MSP
-========================================
-Trip ID: 181
-Cost: 20
-Legs:
-  - Flight ID: FL574
-    Departure: 2025-01-16 07:30:00 from PHL
-    Arrival: 2025-01-16 09:30:00 in BNA
-  - Flight ID: FL605
-    Departure: 2025-01-16 14:00:00 from BNA
-    Arrival: 2025-01-16 16:00:00 in PHL
-========================================
-Trip ID: 182
-Cost: 20
-Legs:
-  - Flight ID: FL512
-    Departure: 2025-01-16 09:00:00 from LAS
-    Arrival: 2025-01-16 10:15:00 in SLC
-  - Flight ID: FL543
-    Departure: 2025-01-16 13:00:00 from SLC
-    Arrival: 2025-01-16 14:15:00 in LAS
-========================================
-Trip ID: 183
-Cost: 20
-Legs:
-  - Flight ID: FL264
-    Departure: 2025-01-16 07:00:00 from BOS
-    Arrival: 2025-01-16 08:30:00 in DCA
-  - Flight ID: FL295
-    Departure: 2025-01-16 12:00:00 from DCA
-    Arrival: 2025-01-16 13:30:00 in BOS
-========================================
-Trip ID: 184
-Cost: 20
-Legs:
-  - Flight ID: FL210
-    Departure: 2025-01-24 09:00:00 from MIA
-    Arrival: 2025-01-24 11:00:00 in ATL
-  - Flight ID: FL241
-    Departure: 2025-01-24 14:00:00 from ATL
-    Arrival: 2025-01-24 16:00:00 in MIA
-========================================
-Trip ID: 185
-Cost: 20
-Legs:
-  - Flight ID: FL86
-    Departure: 2025-01-24 08:00:00 from ORD
-    Arrival: 2025-01-24 10:30:00 in DFW
-  - Flight ID: FL117
-    Departure: 2025-01-24 13:00:00 from DFW
-    Arrival: 2025-01-24 15:30:00 in ORD
-========================================
-Trip ID: 186
-Cost: 20
-Legs:
-  - Flight ID: FL178
-    Departure: 2025-01-23 14:00:00 from SEA
-    Arrival: 2025-01-23 15:45:00 in SFO
-  - Flight ID: FL148
-    Departure: 2025-01-24 10:00:00 from SFO
-    Arrival: 2025-01-24 11:45:00 in SEA
-========================================
-Trip ID: 187
-Cost: 20
-Legs:
-  - Flight ID: FL364
-    Departure: 2025-01-23 14:00:00 from PHX
-    Arrival: 2025-01-23 15:30:00 in DEN
-  - Flight ID: FL334
-    Departure: 2025-01-24 08:00:00 from DEN
-    Arrival: 2025-01-24 09:30:00 in PHX
-========================================
-Trip ID: 188
-Cost: 20
-Legs:
-  - Flight ID: FL54
-    Departure: 2025-01-23 13:00:00 from LAX
-    Arrival: 2025-01-23 20:00:00 in JFK
-  - Flight ID: FL24
-    Departure: 2025-01-24 07:00:00 from JFK
-    Arrival: 2025-01-24 10:00:00 in LAX
-========================================
-Trip ID: 189
-Cost: 20
-Legs:
-  - Flight ID: FL698
-    Departure: 2025-01-16 08:00:00 from AUS
-    Arrival: 2025-01-16 09:00:00 in DAL
-  - Flight ID: FL729
-    Departure: 2025-01-16 17:00:00 from DAL
-    Arrival: 2025-01-16 18:00:00 in AUS
-========================================
-Trip ID: 190
-Cost: 20
-Legs:
-  - Flight ID: FL636
-    Departure: 2025-01-16 10:00:00 from SAN
-    Arrival: 2025-01-16 12:00:00 in PDX
-  - Flight ID: FL667
-    Departure: 2025-01-16 16:00:00 from PDX
-    Arrival: 2025-01-16 18:00:00 in SAN
-========================================
-Trip ID: 191
-Cost: 20
-Legs:
-  - Flight ID: FL488
-    Departure: 2025-01-23 14:00:00 from DTW
-    Arrival: 2025-01-23 15:30:00 in CLT
-  - Flight ID: FL458
-    Departure: 2025-01-24 08:00:00 from CLT
-    Arrival: 2025-01-24 09:30:00 in DTW
-========================================
-Trip ID: 192
-Cost: 20
-Legs:
-  - Flight ID: FL426
-    Departure: 2025-01-23 13:30:00 from MSP
-    Arrival: 2025-01-23 16:00:00 in IAH
-  - Flight ID: FL396
-    Departure: 2025-01-24 07:30:00 from IAH
-    Arrival: 2025-01-24 10:00:00 in MSP
-========================================
-Trip ID: 193
-Cost: 20
-Legs:
-  - Flight ID: FL575
-    Departure: 2025-01-17 07:30:00 from PHL
-    Arrival: 2025-01-17 09:30:00 in BNA
-  - Flight ID: FL606
-    Departure: 2025-01-17 14:00:00 from BNA
-    Arrival: 2025-01-17 16:00:00 in PHL
-========================================
-Trip ID: 194
-Cost: 20
-Legs:
-  - Flight ID: FL513
-    Departure: 2025-01-17 09:00:00 from LAS
-    Arrival: 2025-01-17 10:15:00 in SLC
-  - Flight ID: FL544
-    Departure: 2025-01-17 13:00:00 from SLC
-    Arrival: 2025-01-17 14:15:00 in LAS
-========================================
-Trip ID: 195
-Cost: 20
-Legs:
-  - Flight ID: FL265
-    Departure: 2025-01-17 07:00:00 from BOS
-    Arrival: 2025-01-17 08:30:00 in DCA
-  - Flight ID: FL296
-    Departure: 2025-01-17 12:00:00 from DCA
-    Arrival: 2025-01-17 13:30:00 in BOS
-========================================
-Trip ID: 196
-Cost: 20
-Legs:
-  - Flight ID: FL211
-    Departure: 2025-01-25 09:00:00 from MIA
-    Arrival: 2025-01-25 11:00:00 in ATL
-  - Flight ID: FL242
-    Departure: 2025-01-25 14:00:00 from ATL
-    Arrival: 2025-01-25 16:00:00 in MIA
-========================================
-Trip ID: 197
-Cost: 20
-Legs:
-  - Flight ID: FL87
-    Departure: 2025-01-25 08:00:00 from ORD
-    Arrival: 2025-01-25 10:30:00 in DFW
-  - Flight ID: FL118
-    Departure: 2025-01-25 13:00:00 from DFW
-    Arrival: 2025-01-25 15:30:00 in ORD
-========================================
-Trip ID: 198
-Cost: 20
-Legs:
-  - Flight ID: FL180
-    Departure: 2025-01-25 14:00:00 from SEA
-    Arrival: 2025-01-25 15:45:00 in SFO
-  - Flight ID: FL150
-    Departure: 2025-01-26 10:00:00 from SFO
-    Arrival: 2025-01-26 11:45:00 in SEA
-========================================
-Trip ID: 199
-Cost: 20
-Legs:
-  - Flight ID: FL366
-    Departure: 2025-01-25 14:00:00 from PHX
-    Arrival: 2025-01-25 15:30:00 in DEN
-  - Flight ID: FL336
-    Departure: 2025-01-26 08:00:00 from DEN
-    Arrival: 2025-01-26 09:30:00 in PHX
-========================================
-Trip ID: 200
-Cost: 20
-Legs:
-  - Flight ID: FL56
-    Departure: 2025-01-25 13:00:00 from LAX
-    Arrival: 2025-01-25 20:00:00 in JFK
-  - Flight ID: FL26
-    Departure: 2025-01-26 07:00:00 from JFK
-    Arrival: 2025-01-26 10:00:00 in LAX
-========================================
-Trip ID: 201
-Cost: 20
-Legs:
-  - Flight ID: FL699
-    Departure: 2025-01-17 08:00:00 from AUS
-    Arrival: 2025-01-17 09:00:00 in DAL
-  - Flight ID: FL730
-    Departure: 2025-01-17 17:00:00 from DAL
-    Arrival: 2025-01-17 18:00:00 in AUS
-========================================
-Trip ID: 202
-Cost: 20
-Legs:
-  - Flight ID: FL637
-    Departure: 2025-01-17 10:00:00 from SAN
-    Arrival: 2025-01-17 12:00:00 in PDX
-  - Flight ID: FL668
-    Departure: 2025-01-17 16:00:00 from PDX
-    Arrival: 2025-01-17 18:00:00 in SAN
-========================================
-Trip ID: 203
-Cost: 20
-Legs:
-  - Flight ID: FL490
-    Departure: 2025-01-25 14:00:00 from DTW
-    Arrival: 2025-01-25 15:30:00 in CLT
-  - Flight ID: FL460
-    Departure: 2025-01-26 08:00:00 from CLT
-    Arrival: 2025-01-26 09:30:00 in DTW
-========================================
-Trip ID: 204
-Cost: 20
-Legs:
-  - Flight ID: FL428
-    Departure: 2025-01-25 13:30:00 from MSP
-    Arrival: 2025-01-25 16:00:00 in IAH
-  - Flight ID: FL398
-    Departure: 2025-01-26 07:30:00 from IAH
-    Arrival: 2025-01-26 10:00:00 in MSP
-========================================
-Trip ID: 205
-Cost: 20
-Legs:
-  - Flight ID: FL576
-    Departure: 2025-01-18 07:30:00 from PHL
-    Arrival: 2025-01-18 09:30:00 in BNA
-  - Flight ID: FL607
-    Departure: 2025-01-18 14:00:00 from BNA
-    Arrival: 2025-01-18 16:00:00 in PHL
-========================================
-Trip ID: 206
-Cost: 20
-Legs:
-  - Flight ID: FL514
-    Departure: 2025-01-18 09:00:00 from LAS
-    Arrival: 2025-01-18 10:15:00 in SLC
-  - Flight ID: FL545
-    Departure: 2025-01-18 13:00:00 from SLC
-    Arrival: 2025-01-18 14:15:00 in LAS
-========================================
-Trip ID: 207
-Cost: 20
-Legs:
-  - Flight ID: FL266
-    Departure: 2025-01-18 07:00:00 from BOS
-    Arrival: 2025-01-18 08:30:00 in DCA
-  - Flight ID: FL297
-    Departure: 2025-01-18 12:00:00 from DCA
-    Arrival: 2025-01-18 13:30:00 in BOS
-========================================
-Trip ID: 208
-Cost: 20
-Legs:
-  - Flight ID: FL213
-    Departure: 2025-01-27 09:00:00 from MIA
-    Arrival: 2025-01-27 11:00:00 in ATL
-  - Flight ID: FL244
-    Departure: 2025-01-27 14:00:00 from ATL
-    Arrival: 2025-01-27 16:00:00 in MIA
-========================================
-Trip ID: 209
-Cost: 20
-Legs:
-  - Flight ID: FL89
-    Departure: 2025-01-27 08:00:00 from ORD
-    Arrival: 2025-01-27 10:30:00 in DFW
-  - Flight ID: FL120
-    Departure: 2025-01-27 13:00:00 from DFW
-    Arrival: 2025-01-27 15:30:00 in ORD
-========================================
-Trip ID: 210
-Cost: 20
-Legs:
-  - Flight ID: FL181
-    Departure: 2025-01-26 14:00:00 from SEA
-    Arrival: 2025-01-26 15:45:00 in SFO
-  - Flight ID: FL151
-    Departure: 2025-01-27 10:00:00 from SFO
-    Arrival: 2025-01-27 11:45:00 in SEA
-========================================
-Trip ID: 211
-Cost: 20
-Legs:
-  - Flight ID: FL367
-    Departure: 2025-01-26 14:00:00 from PHX
-    Arrival: 2025-01-26 15:30:00 in DEN
-  - Flight ID: FL337
-    Departure: 2025-01-27 08:00:00 from DEN
-    Arrival: 2025-01-27 09:30:00 in PHX
-========================================
-Trip ID: 212
-Cost: 20
-Legs:
-  - Flight ID: FL57
-    Departure: 2025-01-26 13:00:00 from LAX
-    Arrival: 2025-01-26 20:00:00 in JFK
-  - Flight ID: FL27
-    Departure: 2025-01-27 07:00:00 from JFK
-    Arrival: 2025-01-27 10:00:00 in LAX
-========================================
-Trip ID: 213
-Cost: 20
-Legs:
-  - Flight ID: FL700
-    Departure: 2025-01-18 08:00:00 from AUS
-    Arrival: 2025-01-18 09:00:00 in DAL
-  - Flight ID: FL731
-    Departure: 2025-01-18 17:00:00 from DAL
-    Arrival: 2025-01-18 18:00:00 in AUS
-========================================
-Trip ID: 214
-Cost: 20
-Legs:
-  - Flight ID: FL638
-    Departure: 2025-01-18 10:00:00 from SAN
-    Arrival: 2025-01-18 12:00:00 in PDX
-  - Flight ID: FL669
-    Departure: 2025-01-18 16:00:00 from PDX
-    Arrival: 2025-01-18 18:00:00 in SAN
-========================================
-Trip ID: 215
-Cost: 20
-Legs:
-  - Flight ID: FL491
-    Departure: 2025-01-26 14:00:00 from DTW
-    Arrival: 2025-01-26 15:30:00 in CLT
-  - Flight ID: FL461
-    Departure: 2025-01-27 08:00:00 from CLT
-    Arrival: 2025-01-27 09:30:00 in DTW
-========================================
-Trip ID: 216
-Cost: 20
-Legs:
-  - Flight ID: FL429
-    Departure: 2025-01-26 13:30:00 from MSP
-    Arrival: 2025-01-26 16:00:00 in IAH
-  - Flight ID: FL399
-    Departure: 2025-01-27 07:30:00 from IAH
-    Arrival: 2025-01-27 10:00:00 in MSP
-========================================
-Trip ID: 217
-Cost: 20
-Legs:
-  - Flight ID: FL577
-    Departure: 2025-01-19 07:30:00 from PHL
-    Arrival: 2025-01-19 09:30:00 in BNA
-  - Flight ID: FL608
-    Departure: 2025-01-19 14:00:00 from BNA
-    Arrival: 2025-01-19 16:00:00 in PHL
-========================================
-Trip ID: 218
-Cost: 20
-Legs:
-  - Flight ID: FL515
-    Departure: 2025-01-19 09:00:00 from LAS
-    Arrival: 2025-01-19 10:15:00 in SLC
-  - Flight ID: FL546
-    Departure: 2025-01-19 13:00:00 from SLC
-    Arrival: 2025-01-19 14:15:00 in LAS
-========================================
-Trip ID: 219
-Cost: 20
-Legs:
-  - Flight ID: FL267
-    Departure: 2025-01-19 07:00:00 from BOS
-    Arrival: 2025-01-19 08:30:00 in DCA
-  - Flight ID: FL298
-    Departure: 2025-01-19 12:00:00 from DCA
-    Arrival: 2025-01-19 13:30:00 in BOS
-========================================
-Trip ID: 220
-Cost: 20
-Legs:
-  - Flight ID: FL214
-    Departure: 2025-01-28 09:00:00 from MIA
-    Arrival: 2025-01-28 11:00:00 in ATL
-  - Flight ID: FL245
-    Departure: 2025-01-28 14:00:00 from ATL
-    Arrival: 2025-01-28 16:00:00 in MIA
-========================================
-Trip ID: 221
-Cost: 20
-Legs:
-  - Flight ID: FL90
-    Departure: 2025-01-28 08:00:00 from ORD
-    Arrival: 2025-01-28 10:30:00 in DFW
-  - Flight ID: FL121
-    Departure: 2025-01-28 13:00:00 from DFW
-    Arrival: 2025-01-28 15:30:00 in ORD
-========================================
-Trip ID: 222
-Cost: 20
-Legs:
-  - Flight ID: FL183
-    Departure: 2025-01-28 14:00:00 from SEA
-    Arrival: 2025-01-28 15:45:00 in SFO
-  - Flight ID: FL153
-    Departure: 2025-01-29 10:00:00 from SFO
-    Arrival: 2025-01-29 11:45:00 in SEA
-========================================
-Trip ID: 223
-Cost: 20
-Legs:
-  - Flight ID: FL369
-    Departure: 2025-01-28 14:00:00 from PHX
-    Arrival: 2025-01-28 15:30:00 in DEN
-  - Flight ID: FL339
-    Departure: 2025-01-29 08:00:00 from DEN
-    Arrival: 2025-01-29 09:30:00 in PHX
-========================================
-Trip ID: 224
-Cost: 20
-Legs:
-  - Flight ID: FL59
-    Departure: 2025-01-28 13:00:00 from LAX
-    Arrival: 2025-01-28 20:00:00 in JFK
-  - Flight ID: FL29
-    Departure: 2025-01-29 07:00:00 from JFK
-    Arrival: 2025-01-29 10:00:00 in LAX
-========================================
-Trip ID: 225
-Cost: 20
-Legs:
-  - Flight ID: FL701
-    Departure: 2025-01-19 08:00:00 from AUS
-    Arrival: 2025-01-19 09:00:00 in DAL
-  - Flight ID: FL732
-    Departure: 2025-01-19 17:00:00 from DAL
-    Arrival: 2025-01-19 18:00:00 in AUS
-========================================
-Trip ID: 226
-Cost: 20
-Legs:
-  - Flight ID: FL639
-    Departure: 2025-01-19 10:00:00 from SAN
-    Arrival: 2025-01-19 12:00:00 in PDX
-  - Flight ID: FL670
-    Departure: 2025-01-19 16:00:00 from PDX
-    Arrival: 2025-01-19 18:00:00 in SAN
-========================================
-Trip ID: 227
-Cost: 20
-Legs:
-  - Flight ID: FL493
-    Departure: 2025-01-28 14:00:00 from DTW
-    Arrival: 2025-01-28 15:30:00 in CLT
-  - Flight ID: FL463
-    Departure: 2025-01-29 08:00:00 from CLT
-    Arrival: 2025-01-29 09:30:00 in DTW
-========================================
-Trip ID: 228
-Cost: 20
-Legs:
-  - Flight ID: FL431
-    Departure: 2025-01-28 13:30:00 from MSP
-    Arrival: 2025-01-28 16:00:00 in IAH
-  - Flight ID: FL401
-    Departure: 2025-01-29 07:30:00 from IAH
-    Arrival: 2025-01-29 10:00:00 in MSP
-========================================
-Trip ID: 229
-Cost: 20
-Legs:
-  - Flight ID: FL578
-    Departure: 2025-01-20 07:30:00 from PHL
-    Arrival: 2025-01-20 09:30:00 in BNA
-  - Flight ID: FL609
-    Departure: 2025-01-20 14:00:00 from BNA
-    Arrival: 2025-01-20 16:00:00 in PHL
-========================================
-Trip ID: 230
-Cost: 20
-Legs:
-  - Flight ID: FL516
-    Departure: 2025-01-20 09:00:00 from LAS
-    Arrival: 2025-01-20 10:15:00 in SLC
-  - Flight ID: FL547
-    Departure: 2025-01-20 13:00:00 from SLC
-    Arrival: 2025-01-20 14:15:00 in LAS
-========================================
-Trip ID: 231
-Cost: 20
-Legs:
-  - Flight ID: FL268
-    Departure: 2025-01-20 07:00:00 from BOS
-    Arrival: 2025-01-20 08:30:00 in DCA
-  - Flight ID: FL299
-    Departure: 2025-01-20 12:00:00 from DCA
-    Arrival: 2025-01-20 13:30:00 in BOS
-========================================
-Trip ID: 232
-Cost: 20
-Legs:
-  - Flight ID: FL216
-    Departure: 2025-01-30 09:00:00 from MIA
-    Arrival: 2025-01-30 11:00:00 in ATL
-  - Flight ID: FL247
-    Departure: 2025-01-30 14:00:00 from ATL
-    Arrival: 2025-01-30 16:00:00 in MIA
-========================================
-Trip ID: 233
-Cost: 20
-Legs:
-  - Flight ID: FL92
-    Departure: 2025-01-30 08:00:00 from ORD
-    Arrival: 2025-01-30 10:30:00 in DFW
-  - Flight ID: FL123
-    Departure: 2025-01-30 13:00:00 from DFW
-    Arrival: 2025-01-30 15:30:00 in ORD
-========================================
-Trip ID: 234
-Cost: 20
-Legs:
-  - Flight ID: FL184
-    Departure: 2025-01-29 14:00:00 from SEA
-    Arrival: 2025-01-29 15:45:00 in SFO
-  - Flight ID: FL154
-    Departure: 2025-01-30 10:00:00 from SFO
-    Arrival: 2025-01-30 11:45:00 in SEA
-========================================
-Trip ID: 235
-Cost: 20
-Legs:
-  - Flight ID: FL370
-    Departure: 2025-01-29 14:00:00 from PHX
-    Arrival: 2025-01-29 15:30:00 in DEN
-  - Flight ID: FL340
-    Departure: 2025-01-30 08:00:00 from DEN
-    Arrival: 2025-01-30 09:30:00 in PHX
-========================================
-Trip ID: 236
-Cost: 20
-Legs:
-  - Flight ID: FL60
-    Departure: 2025-01-29 13:00:00 from LAX
-    Arrival: 2025-01-29 20:00:00 in JFK
-  - Flight ID: FL30
-    Departure: 2025-01-30 07:00:00 from JFK
-    Arrival: 2025-01-30 10:00:00 in LAX
-========================================
-Trip ID: 237
-Cost: 20
-Legs:
-  - Flight ID: FL702
-    Departure: 2025-01-20 08:00:00 from AUS
-    Arrival: 2025-01-20 09:00:00 in DAL
-  - Flight ID: FL733
-    Departure: 2025-01-20 17:00:00 from DAL
-    Arrival: 2025-01-20 18:00:00 in AUS
-========================================
-Trip ID: 238
-Cost: 20
-Legs:
-  - Flight ID: FL640
-    Departure: 2025-01-20 10:00:00 from SAN
-    Arrival: 2025-01-20 12:00:00 in PDX
-  - Flight ID: FL671
-    Departure: 2025-01-20 16:00:00 from PDX
-    Arrival: 2025-01-20 18:00:00 in SAN
-========================================
-Trip ID: 239
-Cost: 20
-Legs:
-  - Flight ID: FL494
-    Departure: 2025-01-29 14:00:00 from DTW
-    Arrival: 2025-01-29 15:30:00 in CLT
-  - Flight ID: FL464
-    Departure: 2025-01-30 08:00:00 from CLT
-    Arrival: 2025-01-30 09:30:00 in DTW
-========================================
-Trip ID: 240
-Cost: 20
-Legs:
-  - Flight ID: FL432
-    Departure: 2025-01-29 13:30:00 from MSP
-    Arrival: 2025-01-29 16:00:00 in IAH
-  - Flight ID: FL402
-    Departure: 2025-01-30 07:30:00 from IAH
-    Arrival: 2025-01-30 10:00:00 in MSP
-========================================
-Trip ID: 241
-Cost: 20
-Legs:
-  - Flight ID: FL31
-    Departure: 2025-01-31 07:00:00 from JFK
-    Arrival: 2025-01-31 10:00:00 in LAX
-  - Flight ID: FL62
-    Departure: 2025-01-31 13:00:00 from LAX
-    Arrival: 2025-01-31 20:00:00 in JFK
-========================================
-Trip ID: 242
-Cost: 20
-Legs:
-  - Flight ID: FL465
-    Departure: 2025-01-31 08:00:00 from CLT
-    Arrival: 2025-01-31 09:30:00 in DTW
-  - Flight ID: FL496
-    Departure: 2025-01-31 14:00:00 from DTW
-    Arrival: 2025-01-31 15:30:00 in CLT
-========================================
-Trip ID: 243
-Cost: 20
-Legs:
-  - Flight ID: FL95
-    Departure: 2025-01-02 13:00:00 from DFW
-    Arrival: 2025-01-02 15:30:00 in ORD
-  - Flight ID: FL67
-    Departure: 2025-01-05 08:00:00 from ORD
-    Arrival: 2025-01-05 10:30:00 in DFW
-========================================
-Trip ID: 244
-Cost: 20
-Legs:
-  - Flight ID: FL341
-    Departure: 2025-01-31 08:00:00 from DEN
-    Arrival: 2025-01-31 09:30:00 in PHX
-  - Flight ID: FL372
-    Departure: 2025-01-31 14:00:00 from PHX
-    Arrival: 2025-01-31 15:30:00 in DEN
-========================================
-Trip ID: 245
-Cost: 20
-Legs:
-  - Flight ID: FL155
-    Departure: 2025-01-31 10:00:00 from SFO
-    Arrival: 2025-01-31 11:45:00 in SEA
-  - Flight ID: FL186
-    Departure: 2025-01-31 14:00:00 from SEA
-    Arrival: 2025-01-31 15:45:00 in SFO
-========================================
-Trip ID: 246
-Cost: 20
-Legs:
-  - Flight ID: FL219
-    Departure: 2025-01-02 14:00:00 from ATL
-    Arrival: 2025-01-02 16:00:00 in MIA
-  - Flight ID: FL191
-    Departure: 2025-01-05 09:00:00 from MIA
-    Arrival: 2025-01-05 11:00:00 in ATL
-========================================
-Trip ID: 247
-Cost: 20
-Legs:
-  - Flight ID: FL579
-    Departure: 2025-01-21 07:30:00 from PHL
-    Arrival: 2025-01-21 09:30:00 in BNA
-  - Flight ID: FL610
-    Departure: 2025-01-21 14:00:00 from BNA
-    Arrival: 2025-01-21 16:00:00 in PHL
-========================================
-Trip ID: 248
-Cost: 20
-Legs:
-  - Flight ID: FL403
-    Departure: 2025-01-31 07:30:00 from IAH
-    Arrival: 2025-01-31 10:00:00 in MSP
-  - Flight ID: FL434
-    Departure: 2025-01-31 13:30:00 from MSP
-    Arrival: 2025-01-31 16:00:00 in IAH
-========================================
-Trip ID: 249
-Cost: 20
-Legs:
-  - Flight ID: FL517
-    Departure: 2025-01-21 09:00:00 from LAS
-    Arrival: 2025-01-21 10:15:00 in SLC
-  - Flight ID: FL548
-    Departure: 2025-01-21 13:00:00 from SLC
-    Arrival: 2025-01-21 14:15:00 in LAS
-========================================
-Trip ID: 250
-Cost: 20
-Legs:
-  - Flight ID: FL269
-    Departure: 2025-01-21 07:00:00 from BOS
-    Arrival: 2025-01-21 08:30:00 in DCA
-  - Flight ID: FL300
-    Departure: 2025-01-21 12:00:00 from DCA
-    Arrival: 2025-01-21 13:30:00 in BOS
-========================================
-Trip ID: 251
-Cost: 20
-Legs:
-  - Flight ID: FL217
-    Departure: 2025-01-31 09:00:00 from MIA
-    Arrival: 2025-01-31 11:00:00 in ATL
-  - Flight ID: FL248
-    Departure: 2025-01-31 14:00:00 from ATL
-    Arrival: 2025-01-31 16:00:00 in MIA
-========================================
-Trip ID: 252
-Cost: 20
-Legs:
-  - Flight ID: FL93
-    Departure: 2025-01-31 08:00:00 from ORD
-    Arrival: 2025-01-31 10:30:00 in DFW
-  - Flight ID: FL124
-    Departure: 2025-01-31 13:00:00 from DFW
-    Arrival: 2025-01-31 15:30:00 in ORD
-========================================
-Trip ID: 253
-Cost: 20
-Legs:
-  - Flight ID: FL158
-    Departure: 2025-01-03 14:00:00 from SEA
-    Arrival: 2025-01-03 15:45:00 in SFO
-  - Flight ID: FL128
-    Departure: 2025-01-04 10:00:00 from SFO
-    Arrival: 2025-01-04 11:45:00 in SEA
-========================================
-Trip ID: 254
-Cost: 20
-Legs:
-  - Flight ID: FL344
-    Departure: 2025-01-03 14:00:00 from PHX
-    Arrival: 2025-01-03 15:30:00 in DEN
-  - Flight ID: FL314
-    Departure: 2025-01-04 08:00:00 from DEN
-    Arrival: 2025-01-04 09:30:00 in PHX
-========================================
-Trip ID: 255
-Cost: 20
-Legs:
-  - Flight ID: FL34
-    Departure: 2025-01-03 13:00:00 from LAX
-    Arrival: 2025-01-03 20:00:00 in JFK
-  - Flight ID: FL4
-    Departure: 2025-01-04 07:00:00 from JFK
-    Arrival: 2025-01-04 10:00:00 in LAX
-========================================
-Trip ID: 256
-Cost: 20
-Legs:
-  - Flight ID: FL703
-    Departure: 2025-01-21 08:00:00 from AUS
-    Arrival: 2025-01-21 09:00:00 in DAL
-  - Flight ID: FL734
-    Departure: 2025-01-21 17:00:00 from DAL
-    Arrival: 2025-01-21 18:00:00 in AUS
-========================================
-Trip ID: 257
-Cost: 20
-Legs:
-  - Flight ID: FL641
-    Departure: 2025-01-21 10:00:00 from SAN
-    Arrival: 2025-01-21 12:00:00 in PDX
-  - Flight ID: FL672
-    Departure: 2025-01-21 16:00:00 from PDX
-    Arrival: 2025-01-21 18:00:00 in SAN
-========================================
-Trip ID: 258
-Cost: 20
-Legs:
-  - Flight ID: FL468
-    Departure: 2025-01-03 14:00:00 from DTW
-    Arrival: 2025-01-03 15:30:00 in CLT
-  - Flight ID: FL438
-    Departure: 2025-01-04 08:00:00 from CLT
-    Arrival: 2025-01-04 09:30:00 in DTW
-========================================
-Trip ID: 259
-Cost: 20
-Legs:
-  - Flight ID: FL406
-    Departure: 2025-01-03 13:30:00 from MSP
-    Arrival: 2025-01-03 16:00:00 in IAH
-  - Flight ID: FL376
-    Departure: 2025-01-04 07:30:00 from IAH
-    Arrival: 2025-01-04 10:00:00 in MSP
-========================================
-Trip ID: 260
-Cost: 20
-Legs:
-  - Flight ID: FL580
-    Departure: 2025-01-22 07:30:00 from PHL
-    Arrival: 2025-01-22 09:30:00 in BNA
-  - Flight ID: FL611
-    Departure: 2025-01-22 14:00:00 from BNA
-    Arrival: 2025-01-22 16:00:00 in PHL
-========================================
-Trip ID: 261
-Cost: 20
-Legs:
-  - Flight ID: FL518
-    Departure: 2025-01-22 09:00:00 from LAS
-    Arrival: 2025-01-22 10:15:00 in SLC
-  - Flight ID: FL549
-    Departure: 2025-01-22 13:00:00 from SLC
-    Arrival: 2025-01-22 14:15:00 in LAS
-========================================
-Trip ID: 262
-Cost: 20
-Legs:
-  - Flight ID: FL270
-    Departure: 2025-01-22 07:00:00 from BOS
-    Arrival: 2025-01-22 08:30:00 in DCA
-  - Flight ID: FL301
-    Departure: 2025-01-22 12:00:00 from DCA
-    Arrival: 2025-01-22 13:30:00 in BOS
-========================================
-Trip ID: 263
-Cost: 20
-Legs:
-  - Flight ID: FL188
-    Departure: 2025-01-02 09:00:00 from MIA
-    Arrival: 2025-01-02 11:00:00 in ATL
-  - Flight ID: FL222
-    Departure: 2025-01-05 14:00:00 from ATL
-    Arrival: 2025-01-05 16:00:00 in MIA
-========================================
-Trip ID: 264
-Cost: 20
-Legs:
-  - Flight ID: FL64
-    Departure: 2025-01-02 08:00:00 from ORD
-    Arrival: 2025-01-02 10:30:00 in DFW
-  - Flight ID: FL98
-    Departure: 2025-01-05 13:00:00 from DFW
-    Arrival: 2025-01-05 15:30:00 in ORD
-========================================
-Trip ID: 265
-Cost: 20
-Legs:
-  - Flight ID: FL161
-    Departure: 2025-01-06 14:00:00 from SEA
-    Arrival: 2025-01-06 15:45:00 in SFO
-  - Flight ID: FL131
-    Departure: 2025-01-07 10:00:00 from SFO
-    Arrival: 2025-01-07 11:45:00 in SEA
-========================================
-Trip ID: 266
-Cost: 20
-Legs:
-  - Flight ID: FL347
-    Departure: 2025-01-06 14:00:00 from PHX
-    Arrival: 2025-01-06 15:30:00 in DEN
-  - Flight ID: FL317
-    Departure: 2025-01-07 08:00:00 from DEN
-    Arrival: 2025-01-07 09:30:00 in PHX
-========================================
-Trip ID: 267
-Cost: 20
-Legs:
-  - Flight ID: FL37
-    Departure: 2025-01-06 13:00:00 from LAX
-    Arrival: 2025-01-06 20:00:00 in JFK
-  - Flight ID: FL7
-    Departure: 2025-01-07 07:00:00 from JFK
-    Arrival: 2025-01-07 10:00:00 in LAX
-========================================
-Trip ID: 268
-Cost: 20
-Legs:
-  - Flight ID: FL704
-    Departure: 2025-01-22 08:00:00 from AUS
-    Arrival: 2025-01-22 09:00:00 in DAL
-  - Flight ID: FL735
-    Departure: 2025-01-22 17:00:00 from DAL
-    Arrival: 2025-01-22 18:00:00 in AUS
-========================================
-Trip ID: 269
-Cost: 20
-Legs:
-  - Flight ID: FL642
-    Departure: 2025-01-22 10:00:00 from SAN
-    Arrival: 2025-01-22 12:00:00 in PDX
-  - Flight ID: FL673
-    Departure: 2025-01-22 16:00:00 from PDX
-    Arrival: 2025-01-22 18:00:00 in SAN
-========================================
-Trip ID: 270
-Cost: 20
-Legs:
-  - Flight ID: FL471
-    Departure: 2025-01-06 14:00:00 from DTW
-    Arrival: 2025-01-06 15:30:00 in CLT
-  - Flight ID: FL441
-    Departure: 2025-01-07 08:00:00 from CLT
-    Arrival: 2025-01-07 09:30:00 in DTW
-========================================
-Trip ID: 271
-Cost: 20
-Legs:
-  - Flight ID: FL409
-    Departure: 2025-01-06 13:30:00 from MSP
-    Arrival: 2025-01-06 16:00:00 in IAH
-  - Flight ID: FL379
-    Departure: 2025-01-07 07:30:00 from IAH
-    Arrival: 2025-01-07 10:00:00 in MSP
-========================================
-Trip ID: 272
-Cost: 20
-Legs:
-  - Flight ID: FL581
-    Departure: 2025-01-23 07:30:00 from PHL
-    Arrival: 2025-01-23 09:30:00 in BNA
-  - Flight ID: FL612
-    Departure: 2025-01-23 14:00:00 from BNA
-    Arrival: 2025-01-23 16:00:00 in PHL
-========================================
-Trip ID: 273
-Cost: 20
-Legs:
-  - Flight ID: FL519
-    Departure: 2025-01-23 09:00:00 from LAS
-    Arrival: 2025-01-23 10:15:00 in SLC
-  - Flight ID: FL550
-    Departure: 2025-01-23 13:00:00 from SLC
-    Arrival: 2025-01-23 14:15:00 in LAS
-========================================
-Trip ID: 274
-Cost: 20
-Legs:
-  - Flight ID: FL271
-    Departure: 2025-01-23 07:00:00 from BOS
-    Arrival: 2025-01-23 08:30:00 in DCA
-  - Flight ID: FL302
-    Departure: 2025-01-23 12:00:00 from DCA
-    Arrival: 2025-01-23 13:30:00 in BOS
-========================================
-Trip ID: 275
-Cost: 20
-Legs:
-  - Flight ID: FL197
-    Departure: 2025-01-11 09:00:00 from MIA
-    Arrival: 2025-01-11 11:00:00 in ATL
-  - Flight ID: FL228
-    Departure: 2025-01-11 14:00:00 from ATL
-    Arrival: 2025-01-11 16:00:00 in MIA
-========================================
-Trip ID: 276
-Cost: 20
-Legs:
-  - Flight ID: FL73
-    Departure: 2025-01-11 08:00:00 from ORD
-    Arrival: 2025-01-11 10:30:00 in DFW
-  - Flight ID: FL104
-    Departure: 2025-01-11 13:00:00 from DFW
-    Arrival: 2025-01-11 15:30:00 in ORD
-========================================
-Trip ID: 277
-Cost: 20
-Legs:
-  - Flight ID: FL164
-    Departure: 2025-01-09 14:00:00 from SEA
-    Arrival: 2025-01-09 15:45:00 in SFO
-  - Flight ID: FL134
-    Departure: 2025-01-10 10:00:00 from SFO
-    Arrival: 2025-01-10 11:45:00 in SEA
-========================================
-Trip ID: 278
-Cost: 20
-Legs:
-  - Flight ID: FL350
-    Departure: 2025-01-09 14:00:00 from PHX
-    Arrival: 2025-01-09 15:30:00 in DEN
-  - Flight ID: FL320
-    Departure: 2025-01-10 08:00:00 from DEN
-    Arrival: 2025-01-10 09:30:00 in PHX
-========================================
-Trip ID: 279
-Cost: 20
-Legs:
-  - Flight ID: FL40
-    Departure: 2025-01-09 13:00:00 from LAX
-    Arrival: 2025-01-09 20:00:00 in JFK
-  - Flight ID: FL10
-    Departure: 2025-01-10 07:00:00 from JFK
-    Arrival: 2025-01-10 10:00:00 in LAX
-========================================
-Trip ID: 280
-Cost: 20
-Legs:
-  - Flight ID: FL705
-    Departure: 2025-01-23 08:00:00 from AUS
-    Arrival: 2025-01-23 09:00:00 in DAL
-  - Flight ID: FL736
-    Departure: 2025-01-23 17:00:00 from DAL
-    Arrival: 2025-01-23 18:00:00 in AUS
-========================================
-Trip ID: 281
-Cost: 20
-Legs:
-  - Flight ID: FL643
-    Departure: 2025-01-23 10:00:00 from SAN
-    Arrival: 2025-01-23 12:00:00 in PDX
-  - Flight ID: FL674
-    Departure: 2025-01-23 16:00:00 from PDX
-    Arrival: 2025-01-23 18:00:00 in SAN
-========================================
-Trip ID: 282
-Cost: 20
-Legs:
-  - Flight ID: FL474
-    Departure: 2025-01-09 14:00:00 from DTW
-    Arrival: 2025-01-09 15:30:00 in CLT
-  - Flight ID: FL444
-    Departure: 2025-01-10 08:00:00 from CLT
-    Arrival: 2025-01-10 09:30:00 in DTW
-========================================
-Trip ID: 283
-Cost: 20
+Cost: 1010.0
 Legs:
   - Flight ID: FL412
     Departure: 2025-01-09 13:30:00 from MSP
     Arrival: 2025-01-09 16:00:00 in IAH
-  - Flight ID: FL382
+  - Flight ID: FL382_DH
     Departure: 2025-01-10 07:30:00 from IAH
     Arrival: 2025-01-10 10:00:00 in MSP
 ========================================
-Trip ID: 284
-Cost: 20
+Trip ID: 85
+Cost: 1010.0
 Legs:
-  - Flight ID: FL582
-    Departure: 2025-01-24 07:30:00 from PHL
-    Arrival: 2025-01-24 09:30:00 in BNA
-  - Flight ID: FL613
-    Departure: 2025-01-24 14:00:00 from BNA
-    Arrival: 2025-01-24 16:00:00 in PHL
+  - Flight ID: FL627
+    Departure: 2025-01-07 10:00:00 from SAN
+    Arrival: 2025-01-07 12:00:00 in PDX
+  - Flight ID: FL658_DH
+    Departure: 2025-01-07 16:00:00 from PDX
+    Arrival: 2025-01-07 18:00:00 in SAN
 ========================================
-Trip ID: 285
-Cost: 20
+Trip ID: 86
+Cost: 1010.0
 Legs:
-  - Flight ID: FL520
-    Departure: 2025-01-24 09:00:00 from LAS
-    Arrival: 2025-01-24 10:15:00 in SLC
-  - Flight ID: FL551
-    Departure: 2025-01-24 13:00:00 from SLC
-    Arrival: 2025-01-24 14:15:00 in LAS
+  - Flight ID: FL196
+    Departure: 2025-01-10 09:00:00 from MIA
+    Arrival: 2025-01-10 11:00:00 in ATL
+  - Flight ID: FL227_DH
+    Departure: 2025-01-10 14:00:00 from ATL
+    Arrival: 2025-01-10 16:00:00 in MIA
 ========================================
-Trip ID: 286
-Cost: 20
+Trip ID: 87
+Cost: 1010.0
 Legs:
-  - Flight ID: FL272
-    Departure: 2025-01-24 07:00:00 from BOS
-    Arrival: 2025-01-24 08:30:00 in DCA
-  - Flight ID: FL303
-    Departure: 2025-01-24 12:00:00 from DCA
-    Arrival: 2025-01-24 13:30:00 in BOS
+  - Flight ID: FL689
+    Departure: 2025-01-07 08:00:00 from AUS
+    Arrival: 2025-01-07 09:00:00 in DAL
+  - Flight ID: FL720_DH
+    Departure: 2025-01-07 17:00:00 from DAL
+    Arrival: 2025-01-07 18:00:00 in AUS
 ========================================
-Trip ID: 287
-Cost: 20
+Trip ID: 88
+Cost: 1010.0
 Legs:
-  - Flight ID: FL200
-    Departure: 2025-01-14 09:00:00 from MIA
-    Arrival: 2025-01-14 11:00:00 in ATL
-  - Flight ID: FL231
-    Departure: 2025-01-14 14:00:00 from ATL
-    Arrival: 2025-01-14 16:00:00 in MIA
+  - Flight ID: FL382
+    Departure: 2025-01-10 07:30:00 from IAH
+    Arrival: 2025-01-10 10:00:00 in MSP
+  - Flight ID: FL413_DH
+    Departure: 2025-01-10 13:30:00 from MSP
+    Arrival: 2025-01-10 16:00:00 in IAH
 ========================================
-Trip ID: 288
-Cost: 20
+Trip ID: 89
+Cost: 1010.0
 Legs:
-  - Flight ID: FL76
-    Departure: 2025-01-14 08:00:00 from ORD
-    Arrival: 2025-01-14 10:30:00 in DFW
-  - Flight ID: FL107
-    Departure: 2025-01-14 13:00:00 from DFW
-    Arrival: 2025-01-14 15:30:00 in ORD
+  - Flight ID: FL40
+    Departure: 2025-01-09 13:00:00 from LAX
+    Arrival: 2025-01-09 20:00:00 in JFK
+  - Flight ID: FL10_DH
+    Departure: 2025-01-10 07:00:00 from JFK
+    Arrival: 2025-01-10 10:00:00 in LAX
 ========================================
-Trip ID: 289
-Cost: 20
+Trip ID: 90
+Cost: 1010.0
 Legs:
-  - Flight ID: FL170
-    Departure: 2025-01-15 14:00:00 from SEA
-    Arrival: 2025-01-15 15:45:00 in SFO
-  - Flight ID: FL140
-    Departure: 2025-01-16 10:00:00 from SFO
-    Arrival: 2025-01-16 11:45:00 in SEA
+  - Flight ID: FL226
+    Departure: 2025-01-09 14:00:00 from ATL
+    Arrival: 2025-01-09 16:00:00 in MIA
+  - Flight ID: FL196_DH
+    Departure: 2025-01-10 09:00:00 from MIA
+    Arrival: 2025-01-10 11:00:00 in ATL
 ========================================
-Trip ID: 290
-Cost: 20
+Trip ID: 91
+Cost: 1010.0
 Legs:
-  - Flight ID: FL356
-    Departure: 2025-01-15 14:00:00 from PHX
-    Arrival: 2025-01-15 15:30:00 in DEN
-  - Flight ID: FL326
-    Departure: 2025-01-16 08:00:00 from DEN
-    Arrival: 2025-01-16 09:30:00 in PHX
+  - Flight ID: FL350
+    Departure: 2025-01-09 14:00:00 from PHX
+    Arrival: 2025-01-09 15:30:00 in DEN
+  - Flight ID: FL320_DH
+    Departure: 2025-01-10 08:00:00 from DEN
+    Arrival: 2025-01-10 09:30:00 in PHX
 ========================================
-Trip ID: 291
-Cost: 20
+Trip ID: 92
+Cost: 1010.0
 Legs:
-  - Flight ID: FL46
-    Departure: 2025-01-15 13:00:00 from LAX
-    Arrival: 2025-01-15 20:00:00 in JFK
-  - Flight ID: FL16
-    Departure: 2025-01-16 07:00:00 from JFK
-    Arrival: 2025-01-16 10:00:00 in LAX
+  - Flight ID: FL565
+    Departure: 2025-01-07 07:30:00 from PHL
+    Arrival: 2025-01-07 09:30:00 in BNA
+  - Flight ID: FL596_DH
+    Departure: 2025-01-07 14:00:00 from BNA
+    Arrival: 2025-01-07 16:00:00 in PHL
 ========================================
-Trip ID: 292
-Cost: 20
+Trip ID: 93
+Cost: 1010.0
 Legs:
-  - Flight ID: FL706
-    Departure: 2025-01-24 08:00:00 from AUS
-    Arrival: 2025-01-24 09:00:00 in DAL
-  - Flight ID: FL737
-    Departure: 2025-01-24 17:00:00 from DAL
-    Arrival: 2025-01-24 18:00:00 in AUS
+  - Flight ID: FL164
+    Departure: 2025-01-09 14:00:00 from SEA
+    Arrival: 2025-01-09 15:45:00 in SFO
+  - Flight ID: FL134_DH
+    Departure: 2025-01-10 10:00:00 from SFO
+    Arrival: 2025-01-10 11:45:00 in SEA
 ========================================
-Trip ID: 293
-Cost: 20
+Trip ID: 94
+Cost: 1010.0
 Legs:
-  - Flight ID: FL644
-    Departure: 2025-01-24 10:00:00 from SAN
-    Arrival: 2025-01-24 12:00:00 in PDX
-  - Flight ID: FL675
-    Departure: 2025-01-24 16:00:00 from PDX
-    Arrival: 2025-01-24 18:00:00 in SAN
+  - Flight ID: FL102
+    Departure: 2025-01-09 13:00:00 from DFW
+    Arrival: 2025-01-09 15:30:00 in ORD
+  - Flight ID: FL72_DH
+    Departure: 2025-01-10 08:00:00 from ORD
+    Arrival: 2025-01-10 10:30:00 in DFW
 ========================================
-Trip ID: 294
-Cost: 20
+Trip ID: 95
+Cost: 1010.0
 Legs:
-  - Flight ID: FL480
-    Departure: 2025-01-15 14:00:00 from DTW
-    Arrival: 2025-01-15 15:30:00 in CLT
-  - Flight ID: FL450
-    Departure: 2025-01-16 08:00:00 from CLT
-    Arrival: 2025-01-16 09:30:00 in DTW
+  - Flight ID: FL72
+    Departure: 2025-01-10 08:00:00 from ORD
+    Arrival: 2025-01-10 10:30:00 in DFW
+  - Flight ID: FL103_DH
+    Departure: 2025-01-10 13:00:00 from DFW
+    Arrival: 2025-01-10 15:30:00 in ORD
 ========================================
-Trip ID: 295
-Cost: 20
+Trip ID: 96
+Cost: 1010.0
 Legs:
-  - Flight ID: FL418
-    Departure: 2025-01-15 13:30:00 from MSP
-    Arrival: 2025-01-15 16:00:00 in IAH
-  - Flight ID: FL388
-    Departure: 2025-01-16 07:30:00 from IAH
-    Arrival: 2025-01-16 10:00:00 in MSP
+  - Flight ID: FL474
+    Departure: 2025-01-09 14:00:00 from DTW
+    Arrival: 2025-01-09 15:30:00 in CLT
+  - Flight ID: FL444_DH
+    Departure: 2025-01-10 08:00:00 from CLT
+    Arrival: 2025-01-10 09:30:00 in DTW
 ========================================
-Trip ID: 296
-Cost: 20
+Trip ID: 97
+Cost: 1010.0
 Legs:
-  - Flight ID: FL583
-    Departure: 2025-01-25 07:30:00 from PHL
-    Arrival: 2025-01-25 09:30:00 in BNA
-  - Flight ID: FL614
-    Departure: 2025-01-25 14:00:00 from BNA
-    Arrival: 2025-01-25 16:00:00 in PHL
+  - Flight ID: FL320
+    Departure: 2025-01-10 08:00:00 from DEN
+    Arrival: 2025-01-10 09:30:00 in PHX
+  - Flight ID: FL351_DH
+    Departure: 2025-01-10 14:00:00 from PHX
+    Arrival: 2025-01-10 15:30:00 in DEN
 ========================================
-Trip ID: 297
-Cost: 20
+Trip ID: 98
+Cost: 1010.0
 Legs:
-  - Flight ID: FL521
-    Departure: 2025-01-25 09:00:00 from LAS
-    Arrival: 2025-01-25 10:15:00 in SLC
-  - Flight ID: FL552
-    Departure: 2025-01-25 13:00:00 from SLC
-    Arrival: 2025-01-25 14:15:00 in LAS
+  - Flight ID: FL134
+    Departure: 2025-01-10 10:00:00 from SFO
+    Arrival: 2025-01-10 11:45:00 in SEA
+  - Flight ID: FL165_DH
+    Departure: 2025-01-10 14:00:00 from SEA
+    Arrival: 2025-01-10 15:45:00 in SFO
 ========================================
-Trip ID: 298
-Cost: 20
+Trip ID: 99
+Cost: 1010.0
 Legs:
-  - Flight ID: FL273
-    Departure: 2025-01-25 07:00:00 from BOS
-    Arrival: 2025-01-25 08:30:00 in DCA
-  - Flight ID: FL304
-    Departure: 2025-01-25 12:00:00 from DCA
-    Arrival: 2025-01-25 13:30:00 in BOS
+  - Flight ID: FL504
+    Departure: 2025-01-08 09:00:00 from LAS
+    Arrival: 2025-01-08 10:15:00 in SLC
+  - Flight ID: FL535_DH
+    Departure: 2025-01-08 13:00:00 from SLC
+    Arrival: 2025-01-08 14:15:00 in LAS
 ========================================
-Trip ID: 299
-Cost: 20
+Trip ID: 100
+Cost: 1010.0
 Legs:
-  - Flight ID: FL206
-    Departure: 2025-01-20 09:00:00 from MIA
-    Arrival: 2025-01-20 11:00:00 in ATL
-  - Flight ID: FL237
-    Departure: 2025-01-20 14:00:00 from ATL
-    Arrival: 2025-01-20 16:00:00 in MIA
+  - Flight ID: FL445
+    Departure: 2025-01-11 08:00:00 from CLT
+    Arrival: 2025-01-11 09:30:00 in DTW
+  - Flight ID: FL476_DH
+    Departure: 2025-01-11 14:00:00 from DTW
+    Arrival: 2025-01-11 15:30:00 in CLT
 ========================================
-Trip ID: 300
-Cost: 20
+Trip ID: 101
+Cost: 1010.0
 Legs:
-  - Flight ID: FL82
-    Departure: 2025-01-20 08:00:00 from ORD
-    Arrival: 2025-01-20 10:30:00 in DFW
-  - Flight ID: FL113
-    Departure: 2025-01-20 13:00:00 from DFW
-    Arrival: 2025-01-20 15:30:00 in ORD
+  - Flight ID: FL11
+    Departure: 2025-01-11 07:00:00 from JFK
+    Arrival: 2025-01-11 10:00:00 in LAX
+  - Flight ID: FL42_DH
+    Departure: 2025-01-11 13:00:00 from LAX
+    Arrival: 2025-01-11 20:00:00 in JFK
 ========================================
-Trip ID: 301
-Cost: 20
+Trip ID: 102
+Cost: 1010.0
 Legs:
-  - Flight ID: FL173
-    Departure: 2025-01-18 14:00:00 from SEA
-    Arrival: 2025-01-18 15:45:00 in SFO
-  - Flight ID: FL143
-    Departure: 2025-01-19 10:00:00 from SFO
-    Arrival: 2025-01-19 11:45:00 in SEA
+  - Flight ID: FL256
+    Departure: 2025-01-08 07:00:00 from BOS
+    Arrival: 2025-01-08 08:30:00 in DCA
+  - Flight ID: FL287_DH
+    Departure: 2025-01-08 12:00:00 from DCA
+    Arrival: 2025-01-08 13:30:00 in BOS
 ========================================
-Trip ID: 302
-Cost: 20
+Trip ID: 103
+Cost: 1010.0
 Legs:
-  - Flight ID: FL359
-    Departure: 2025-01-18 14:00:00 from PHX
-    Arrival: 2025-01-18 15:30:00 in DEN
-  - Flight ID: FL329
-    Departure: 2025-01-19 08:00:00 from DEN
-    Arrival: 2025-01-19 09:30:00 in PHX
+  - Flight ID: FL413
+    Departure: 2025-01-10 13:30:00 from MSP
+    Arrival: 2025-01-10 16:00:00 in IAH
+  - Flight ID: FL383_DH
+    Departure: 2025-01-11 07:30:00 from IAH
+    Arrival: 2025-01-11 10:00:00 in MSP
 ========================================
-Trip ID: 303
-Cost: 20
+Trip ID: 104
+Cost: 1010.0
 Legs:
-  - Flight ID: FL49
-    Departure: 2025-01-18 13:00:00 from LAX
-    Arrival: 2025-01-18 20:00:00 in JFK
-  - Flight ID: FL19
-    Departure: 2025-01-19 07:00:00 from JFK
-    Arrival: 2025-01-19 10:00:00 in LAX
+  - Flight ID: FL628
+    Departure: 2025-01-08 10:00:00 from SAN
+    Arrival: 2025-01-08 12:00:00 in PDX
+  - Flight ID: FL659_DH
+    Departure: 2025-01-08 16:00:00 from PDX
+    Arrival: 2025-01-08 18:00:00 in SAN
 ========================================
-Trip ID: 304
-Cost: 20
+Trip ID: 105
+Cost: 1010.0
 Legs:
-  - Flight ID: FL707
-    Departure: 2025-01-25 08:00:00 from AUS
-    Arrival: 2025-01-25 09:00:00 in DAL
-  - Flight ID: FL738
-    Departure: 2025-01-25 17:00:00 from DAL
-    Arrival: 2025-01-25 18:00:00 in AUS
+  - Flight ID: FL197
+    Departure: 2025-01-11 09:00:00 from MIA
+    Arrival: 2025-01-11 11:00:00 in ATL
+  - Flight ID: FL228_DH
+    Departure: 2025-01-11 14:00:00 from ATL
+    Arrival: 2025-01-11 16:00:00 in MIA
 ========================================
-Trip ID: 305
-Cost: 20
+Trip ID: 106
+Cost: 1010.0
 Legs:
-  - Flight ID: FL645
-    Departure: 2025-01-25 10:00:00 from SAN
-    Arrival: 2025-01-25 12:00:00 in PDX
-  - Flight ID: FL676
-    Departure: 2025-01-25 16:00:00 from PDX
-    Arrival: 2025-01-25 18:00:00 in SAN
+  - Flight ID: FL690
+    Departure: 2025-01-08 08:00:00 from AUS
+    Arrival: 2025-01-08 09:00:00 in DAL
+  - Flight ID: FL721_DH
+    Departure: 2025-01-08 17:00:00 from DAL
+    Arrival: 2025-01-08 18:00:00 in AUS
 ========================================
-Trip ID: 306
-Cost: 20
+Trip ID: 107
+Cost: 1010.0
 Legs:
-  - Flight ID: FL483
-    Departure: 2025-01-18 14:00:00 from DTW
-    Arrival: 2025-01-18 15:30:00 in CLT
-  - Flight ID: FL453
-    Departure: 2025-01-19 08:00:00 from CLT
-    Arrival: 2025-01-19 09:30:00 in DTW
+  - Flight ID: FL383
+    Departure: 2025-01-11 07:30:00 from IAH
+    Arrival: 2025-01-11 10:00:00 in MSP
+  - Flight ID: FL414_DH
+    Departure: 2025-01-11 13:30:00 from MSP
+    Arrival: 2025-01-11 16:00:00 in IAH
 ========================================
-Trip ID: 307
-Cost: 20
+Trip ID: 108
+Cost: 1010.0
 Legs:
-  - Flight ID: FL421
-    Departure: 2025-01-18 13:30:00 from MSP
-    Arrival: 2025-01-18 16:00:00 in IAH
-  - Flight ID: FL391
-    Departure: 2025-01-19 07:30:00 from IAH
-    Arrival: 2025-01-19 10:00:00 in MSP
+  - Flight ID: FL41
+    Departure: 2025-01-10 13:00:00 from LAX
+    Arrival: 2025-01-10 20:00:00 in JFK
+  - Flight ID: FL11_DH
+    Departure: 2025-01-11 07:00:00 from JFK
+    Arrival: 2025-01-11 10:00:00 in LAX
 ========================================
-Trip ID: 308
-Cost: 20
+Trip ID: 109
+Cost: 1010.0
 Legs:
-  - Flight ID: FL584
-    Departure: 2025-01-26 07:30:00 from PHL
-    Arrival: 2025-01-26 09:30:00 in BNA
-  - Flight ID: FL615
-    Departure: 2025-01-26 14:00:00 from BNA
-    Arrival: 2025-01-26 16:00:00 in PHL
+  - Flight ID: FL227
+    Departure: 2025-01-10 14:00:00 from ATL
+    Arrival: 2025-01-10 16:00:00 in MIA
+  - Flight ID: FL197_DH
+    Departure: 2025-01-11 09:00:00 from MIA
+    Arrival: 2025-01-11 11:00:00 in ATL
 ========================================
-Trip ID: 309
-Cost: 20
+Trip ID: 110
+Cost: 1010.0
 Legs:
-  - Flight ID: FL522
-    Departure: 2025-01-26 09:00:00 from LAS
-    Arrival: 2025-01-26 10:15:00 in SLC
-  - Flight ID: FL553
-    Departure: 2025-01-26 13:00:00 from SLC
-    Arrival: 2025-01-26 14:15:00 in LAS
+  - Flight ID: FL351
+    Departure: 2025-01-10 14:00:00 from PHX
+    Arrival: 2025-01-10 15:30:00 in DEN
+  - Flight ID: FL321_DH
+    Departure: 2025-01-11 08:00:00 from DEN
+    Arrival: 2025-01-11 09:30:00 in PHX
 ========================================
-Trip ID: 310
-Cost: 20
+Trip ID: 111
+Cost: 1010.0
 Legs:
-  - Flight ID: FL274
-    Departure: 2025-01-26 07:00:00 from BOS
-    Arrival: 2025-01-26 08:30:00 in DCA
-  - Flight ID: FL305
-    Departure: 2025-01-26 12:00:00 from DCA
-    Arrival: 2025-01-26 13:30:00 in BOS
+  - Flight ID: FL566
+    Departure: 2025-01-08 07:30:00 from PHL
+    Arrival: 2025-01-08 09:30:00 in BNA
+  - Flight ID: FL597_DH
+    Departure: 2025-01-08 14:00:00 from BNA
+    Arrival: 2025-01-08 16:00:00 in PHL
 ========================================
-Trip ID: 311
-Cost: 20
+Trip ID: 112
+Cost: 1010.0
 Legs:
-  - Flight ID: FL209
-    Departure: 2025-01-23 09:00:00 from MIA
-    Arrival: 2025-01-23 11:00:00 in ATL
-  - Flight ID: FL240
-    Departure: 2025-01-23 14:00:00 from ATL
-    Arrival: 2025-01-23 16:00:00 in MIA
+  - Flight ID: FL165
+    Departure: 2025-01-10 14:00:00 from SEA
+    Arrival: 2025-01-10 15:45:00 in SFO
+  - Flight ID: FL135_DH
+    Departure: 2025-01-11 10:00:00 from SFO
+    Arrival: 2025-01-11 11:45:00 in SEA
 ========================================
-Trip ID: 312
-Cost: 20
+Trip ID: 113
+Cost: 1010.0
 Legs:
-  - Flight ID: FL85
-    Departure: 2025-01-23 08:00:00 from ORD
-    Arrival: 2025-01-23 10:30:00 in DFW
-  - Flight ID: FL116
-    Departure: 2025-01-23 13:00:00 from DFW
-    Arrival: 2025-01-23 15:30:00 in ORD
+  - Flight ID: FL103
+    Departure: 2025-01-10 13:00:00 from DFW
+    Arrival: 2025-01-10 15:30:00 in ORD
+  - Flight ID: FL73_DH
+    Departure: 2025-01-11 08:00:00 from ORD
+    Arrival: 2025-01-11 10:30:00 in DFW
 ========================================
-Trip ID: 313
-Cost: 20
+Trip ID: 114
+Cost: 1010.0
 Legs:
-  - Flight ID: FL179
-    Departure: 2025-01-24 14:00:00 from SEA
-    Arrival: 2025-01-24 15:45:00 in SFO
-  - Flight ID: FL149
-    Departure: 2025-01-25 10:00:00 from SFO
-    Arrival: 2025-01-25 11:45:00 in SEA
+  - Flight ID: FL73
+    Departure: 2025-01-11 08:00:00 from ORD
+    Arrival: 2025-01-11 10:30:00 in DFW
+  - Flight ID: FL104_DH
+    Departure: 2025-01-11 13:00:00 from DFW
+    Arrival: 2025-01-11 15:30:00 in ORD
 ========================================
-Trip ID: 314
-Cost: 20
+Trip ID: 115
+Cost: 1010.0
 Legs:
-  - Flight ID: FL365
-    Departure: 2025-01-24 14:00:00 from PHX
-    Arrival: 2025-01-24 15:30:00 in DEN
-  - Flight ID: FL335
-    Departure: 2025-01-25 08:00:00 from DEN
-    Arrival: 2025-01-25 09:30:00 in PHX
+  - Flight ID: FL475
+    Departure: 2025-01-10 14:00:00 from DTW
+    Arrival: 2025-01-10 15:30:00 in CLT
+  - Flight ID: FL445_DH
+    Departure: 2025-01-11 08:00:00 from CLT
+    Arrival: 2025-01-11 09:30:00 in DTW
 ========================================
-Trip ID: 315
-Cost: 20
+Trip ID: 116
+Cost: 1010.0
 Legs:
-  - Flight ID: FL55
-    Departure: 2025-01-24 13:00:00 from LAX
-    Arrival: 2025-01-24 20:00:00 in JFK
-  - Flight ID: FL25
-    Departure: 2025-01-25 07:00:00 from JFK
-    Arrival: 2025-01-25 10:00:00 in LAX
+  - Flight ID: FL321
+    Departure: 2025-01-11 08:00:00 from DEN
+    Arrival: 2025-01-11 09:30:00 in PHX
+  - Flight ID: FL352_DH
+    Departure: 2025-01-11 14:00:00 from PHX
+    Arrival: 2025-01-11 15:30:00 in DEN
 ========================================
-Trip ID: 316
-Cost: 20
+Trip ID: 117
+Cost: 1010.0
 Legs:
-  - Flight ID: FL708
-    Departure: 2025-01-26 08:00:00 from AUS
-    Arrival: 2025-01-26 09:00:00 in DAL
-  - Flight ID: FL739
-    Departure: 2025-01-26 17:00:00 from DAL
-    Arrival: 2025-01-26 18:00:00 in AUS
+  - Flight ID: FL135
+    Departure: 2025-01-11 10:00:00 from SFO
+    Arrival: 2025-01-11 11:45:00 in SEA
+  - Flight ID: FL166_DH
+    Departure: 2025-01-11 14:00:00 from SEA
+    Arrival: 2025-01-11 15:45:00 in SFO
 ========================================
-Trip ID: 317
-Cost: 20
+Trip ID: 118
+Cost: 1010.0
 Legs:
-  - Flight ID: FL646
-    Departure: 2025-01-26 10:00:00 from SAN
-    Arrival: 2025-01-26 12:00:00 in PDX
-  - Flight ID: FL677
-    Departure: 2025-01-26 16:00:00 from PDX
-    Arrival: 2025-01-26 18:00:00 in SAN
+  - Flight ID: FL505
+    Departure: 2025-01-09 09:00:00 from LAS
+    Arrival: 2025-01-09 10:15:00 in SLC
+  - Flight ID: FL536_DH
+    Departure: 2025-01-09 13:00:00 from SLC
+    Arrival: 2025-01-09 14:15:00 in LAS
 ========================================
-Trip ID: 318
-Cost: 20
+Trip ID: 119
+Cost: 1010.0
 Legs:
-  - Flight ID: FL489
-    Departure: 2025-01-24 14:00:00 from DTW
-    Arrival: 2025-01-24 15:30:00 in CLT
-  - Flight ID: FL459
-    Departure: 2025-01-25 08:00:00 from CLT
-    Arrival: 2025-01-25 09:30:00 in DTW
-========================================
-Trip ID: 319
-Cost: 20
-Legs:
-  - Flight ID: FL427
-    Departure: 2025-01-24 13:30:00 from MSP
-    Arrival: 2025-01-24 16:00:00 in IAH
-  - Flight ID: FL397
-    Departure: 2025-01-25 07:30:00 from IAH
-    Arrival: 2025-01-25 10:00:00 in MSP
-========================================
-Trip ID: 320
-Cost: 20
-Legs:
-  - Flight ID: FL585
-    Departure: 2025-01-27 07:30:00 from PHL
-    Arrival: 2025-01-27 09:30:00 in BNA
-  - Flight ID: FL616
-    Departure: 2025-01-27 14:00:00 from BNA
-    Arrival: 2025-01-27 16:00:00 in PHL
-========================================
-Trip ID: 321
-Cost: 20
-Legs:
-  - Flight ID: FL523
-    Departure: 2025-01-27 09:00:00 from LAS
-    Arrival: 2025-01-27 10:15:00 in SLC
-  - Flight ID: FL554
-    Departure: 2025-01-27 13:00:00 from SLC
-    Arrival: 2025-01-27 14:15:00 in LAS
-========================================
-Trip ID: 322
-Cost: 20
-Legs:
-  - Flight ID: FL275
-    Departure: 2025-01-27 07:00:00 from BOS
-    Arrival: 2025-01-27 08:30:00 in DCA
-  - Flight ID: FL306
-    Departure: 2025-01-27 12:00:00 from DCA
-    Arrival: 2025-01-27 13:30:00 in BOS
-========================================
-Trip ID: 323
-Cost: 20
-Legs:
-  - Flight ID: FL215
-    Departure: 2025-01-29 09:00:00 from MIA
-    Arrival: 2025-01-29 11:00:00 in ATL
-  - Flight ID: FL246
-    Departure: 2025-01-29 14:00:00 from ATL
-    Arrival: 2025-01-29 16:00:00 in MIA
-========================================
-Trip ID: 324
-Cost: 20
-Legs:
-  - Flight ID: FL91
-    Departure: 2025-01-29 08:00:00 from ORD
-    Arrival: 2025-01-29 10:30:00 in DFW
-  - Flight ID: FL122
-    Departure: 2025-01-29 13:00:00 from DFW
-    Arrival: 2025-01-29 15:30:00 in ORD
-========================================
-Trip ID: 325
-Cost: 20
-Legs:
-  - Flight ID: FL182
-    Departure: 2025-01-27 14:00:00 from SEA
-    Arrival: 2025-01-27 15:45:00 in SFO
-  - Flight ID: FL152
-    Departure: 2025-01-28 10:00:00 from SFO
-    Arrival: 2025-01-28 11:45:00 in SEA
-========================================
-Trip ID: 326
-Cost: 20
-Legs:
-  - Flight ID: FL368
-    Departure: 2025-01-27 14:00:00 from PHX
-    Arrival: 2025-01-27 15:30:00 in DEN
-  - Flight ID: FL338
-    Departure: 2025-01-28 08:00:00 from DEN
-    Arrival: 2025-01-28 09:30:00 in PHX
-========================================
-Trip ID: 327
-Cost: 20
-Legs:
-  - Flight ID: FL58
-    Departure: 2025-01-27 13:00:00 from LAX
-    Arrival: 2025-01-27 20:00:00 in JFK
-  - Flight ID: FL28
-    Departure: 2025-01-28 07:00:00 from JFK
-    Arrival: 2025-01-28 10:00:00 in LAX
-========================================
-Trip ID: 328
-Cost: 20
-Legs:
-  - Flight ID: FL709
-    Departure: 2025-01-27 08:00:00 from AUS
-    Arrival: 2025-01-27 09:00:00 in DAL
-  - Flight ID: FL740
-    Departure: 2025-01-27 17:00:00 from DAL
-    Arrival: 2025-01-27 18:00:00 in AUS
-========================================
-Trip ID: 329
-Cost: 20
-Legs:
-  - Flight ID: FL647
-    Departure: 2025-01-27 10:00:00 from SAN
-    Arrival: 2025-01-27 12:00:00 in PDX
-  - Flight ID: FL678
-    Departure: 2025-01-27 16:00:00 from PDX
-    Arrival: 2025-01-27 18:00:00 in SAN
-========================================
-Trip ID: 330
-Cost: 20
-Legs:
-  - Flight ID: FL492
-    Departure: 2025-01-27 14:00:00 from DTW
-    Arrival: 2025-01-27 15:30:00 in CLT
-  - Flight ID: FL462
-    Departure: 2025-01-28 08:00:00 from CLT
-    Arrival: 2025-01-28 09:30:00 in DTW
-========================================
-Trip ID: 331
-Cost: 20
-Legs:
-  - Flight ID: FL430
-    Departure: 2025-01-27 13:30:00 from MSP
-    Arrival: 2025-01-27 16:00:00 in IAH
-  - Flight ID: FL400
-    Departure: 2025-01-28 07:30:00 from IAH
-    Arrival: 2025-01-28 10:00:00 in MSP
-========================================
-Trip ID: 332
-Cost: 20
-Legs:
-  - Flight ID: FL586
-    Departure: 2025-01-28 07:30:00 from PHL
-    Arrival: 2025-01-28 09:30:00 in BNA
-  - Flight ID: FL617
-    Departure: 2025-01-28 14:00:00 from BNA
-    Arrival: 2025-01-28 16:00:00 in PHL
-========================================
-Trip ID: 333
-Cost: 20
-Legs:
-  - Flight ID: FL524
-    Departure: 2025-01-28 09:00:00 from LAS
-    Arrival: 2025-01-28 10:15:00 in SLC
-  - Flight ID: FL555
-    Departure: 2025-01-28 13:00:00 from SLC
-    Arrival: 2025-01-28 14:15:00 in LAS
-========================================
-Trip ID: 334
-Cost: 20
-Legs:
-  - Flight ID: FL276
-    Departure: 2025-01-28 07:00:00 from BOS
-    Arrival: 2025-01-28 08:30:00 in DCA
-  - Flight ID: FL307
-    Departure: 2025-01-28 12:00:00 from DCA
-    Arrival: 2025-01-28 13:30:00 in BOS
-========================================
-Trip ID: 335
-Cost: 20
-Legs:
-  - Flight ID: FL194
-    Departure: 2025-01-08 09:00:00 from MIA
-    Arrival: 2025-01-08 11:00:00 in ATL
-  - Flight ID: FL225
-    Departure: 2025-01-08 14:00:00 from ATL
-    Arrival: 2025-01-08 16:00:00 in MIA
-========================================
-Trip ID: 336
-Cost: 20
-Legs:
-  - Flight ID: FL70
-    Departure: 2025-01-08 08:00:00 from ORD
-    Arrival: 2025-01-08 10:30:00 in DFW
-  - Flight ID: FL101
-    Departure: 2025-01-08 13:00:00 from DFW
-    Arrival: 2025-01-08 15:30:00 in ORD
-========================================
-Trip ID: 337
-Cost: 20
-Legs:
-  - Flight ID: FL167
-    Departure: 2025-01-12 14:00:00 from SEA
-    Arrival: 2025-01-12 15:45:00 in SFO
-  - Flight ID: FL137
-    Departure: 2025-01-13 10:00:00 from SFO
-    Arrival: 2025-01-13 11:45:00 in SEA
-========================================
-Trip ID: 338
-Cost: 20
-Legs:
-  - Flight ID: FL353
-    Departure: 2025-01-12 14:00:00 from PHX
-    Arrival: 2025-01-12 15:30:00 in DEN
-  - Flight ID: FL323
-    Departure: 2025-01-13 08:00:00 from DEN
-    Arrival: 2025-01-13 09:30:00 in PHX
-========================================
-Trip ID: 339
-Cost: 20
-Legs:
-  - Flight ID: FL43
-    Departure: 2025-01-12 13:00:00 from LAX
-    Arrival: 2025-01-12 20:00:00 in JFK
-  - Flight ID: FL13
-    Departure: 2025-01-13 07:00:00 from JFK
-    Arrival: 2025-01-13 10:00:00 in LAX
-========================================
-Trip ID: 340
-Cost: 20
-Legs:
-  - Flight ID: FL710
-    Departure: 2025-01-28 08:00:00 from AUS
-    Arrival: 2025-01-28 09:00:00 in DAL
-  - Flight ID: FL741
-    Departure: 2025-01-28 17:00:00 from DAL
-    Arrival: 2025-01-28 18:00:00 in AUS
-========================================
-Trip ID: 341
-Cost: 20
-Legs:
-  - Flight ID: FL648
-    Departure: 2025-01-28 10:00:00 from SAN
-    Arrival: 2025-01-28 12:00:00 in PDX
-  - Flight ID: FL679
-    Departure: 2025-01-28 16:00:00 from PDX
-    Arrival: 2025-01-28 18:00:00 in SAN
-========================================
-Trip ID: 342
-Cost: 20
-Legs:
-  - Flight ID: FL477
+  - Flight ID: FL446
+    Departure: 2025-01-12 08:00:00 from CLT
+    Arrival: 2025-01-12 09:30:00 in DTW
+  - Flight ID: FL477_DH
     Departure: 2025-01-12 14:00:00 from DTW
     Arrival: 2025-01-12 15:30:00 in CLT
+========================================
+Trip ID: 120
+Cost: 1010.0
+Legs:
+  - Flight ID: FL12
+    Departure: 2025-01-12 07:00:00 from JFK
+    Arrival: 2025-01-12 10:00:00 in LAX
+  - Flight ID: FL43_DH
+    Departure: 2025-01-12 13:00:00 from LAX
+    Arrival: 2025-01-12 20:00:00 in JFK
+========================================
+Trip ID: 121
+Cost: 1010.0
+Legs:
+  - Flight ID: FL257
+    Departure: 2025-01-09 07:00:00 from BOS
+    Arrival: 2025-01-09 08:30:00 in DCA
+  - Flight ID: FL288_DH
+    Departure: 2025-01-09 12:00:00 from DCA
+    Arrival: 2025-01-09 13:30:00 in BOS
+========================================
+Trip ID: 122
+Cost: 1010.0
+Legs:
+  - Flight ID: FL414
+    Departure: 2025-01-11 13:30:00 from MSP
+    Arrival: 2025-01-11 16:00:00 in IAH
+  - Flight ID: FL384_DH
+    Departure: 2025-01-12 07:30:00 from IAH
+    Arrival: 2025-01-12 10:00:00 in MSP
+========================================
+Trip ID: 123
+Cost: 1010.0
+Legs:
+  - Flight ID: FL629
+    Departure: 2025-01-09 10:00:00 from SAN
+    Arrival: 2025-01-09 12:00:00 in PDX
+  - Flight ID: FL660_DH
+    Departure: 2025-01-09 16:00:00 from PDX
+    Arrival: 2025-01-09 18:00:00 in SAN
+========================================
+Trip ID: 124
+Cost: 1010.0
+Legs:
+  - Flight ID: FL198
+    Departure: 2025-01-12 09:00:00 from MIA
+    Arrival: 2025-01-12 11:00:00 in ATL
+  - Flight ID: FL229_DH
+    Departure: 2025-01-12 14:00:00 from ATL
+    Arrival: 2025-01-12 16:00:00 in MIA
+========================================
+Trip ID: 125
+Cost: 1010.0
+Legs:
+  - Flight ID: FL691
+    Departure: 2025-01-09 08:00:00 from AUS
+    Arrival: 2025-01-09 09:00:00 in DAL
+  - Flight ID: FL722_DH
+    Departure: 2025-01-09 17:00:00 from DAL
+    Arrival: 2025-01-09 18:00:00 in AUS
+========================================
+Trip ID: 126
+Cost: 1010.0
+Legs:
+  - Flight ID: FL384
+    Departure: 2025-01-12 07:30:00 from IAH
+    Arrival: 2025-01-12 10:00:00 in MSP
+  - Flight ID: FL415_DH
+    Departure: 2025-01-12 13:30:00 from MSP
+    Arrival: 2025-01-12 16:00:00 in IAH
+========================================
+Trip ID: 127
+Cost: 1010.0
+Legs:
+  - Flight ID: FL42
+    Departure: 2025-01-11 13:00:00 from LAX
+    Arrival: 2025-01-11 20:00:00 in JFK
+  - Flight ID: FL12_DH
+    Departure: 2025-01-12 07:00:00 from JFK
+    Arrival: 2025-01-12 10:00:00 in LAX
+========================================
+Trip ID: 128
+Cost: 1010.0
+Legs:
+  - Flight ID: FL228
+    Departure: 2025-01-11 14:00:00 from ATL
+    Arrival: 2025-01-11 16:00:00 in MIA
+  - Flight ID: FL198_DH
+    Departure: 2025-01-12 09:00:00 from MIA
+    Arrival: 2025-01-12 11:00:00 in ATL
+========================================
+Trip ID: 129
+Cost: 1010.0
+Legs:
+  - Flight ID: FL352
+    Departure: 2025-01-11 14:00:00 from PHX
+    Arrival: 2025-01-11 15:30:00 in DEN
+  - Flight ID: FL322_DH
+    Departure: 2025-01-12 08:00:00 from DEN
+    Arrival: 2025-01-12 09:30:00 in PHX
+========================================
+Trip ID: 130
+Cost: 1010.0
+Legs:
+  - Flight ID: FL567
+    Departure: 2025-01-09 07:30:00 from PHL
+    Arrival: 2025-01-09 09:30:00 in BNA
+  - Flight ID: FL598_DH
+    Departure: 2025-01-09 14:00:00 from BNA
+    Arrival: 2025-01-09 16:00:00 in PHL
+========================================
+Trip ID: 131
+Cost: 1010.0
+Legs:
+  - Flight ID: FL166
+    Departure: 2025-01-11 14:00:00 from SEA
+    Arrival: 2025-01-11 15:45:00 in SFO
+  - Flight ID: FL136_DH
+    Departure: 2025-01-12 10:00:00 from SFO
+    Arrival: 2025-01-12 11:45:00 in SEA
+========================================
+Trip ID: 132
+Cost: 1010.0
+Legs:
+  - Flight ID: FL104
+    Departure: 2025-01-11 13:00:00 from DFW
+    Arrival: 2025-01-11 15:30:00 in ORD
+  - Flight ID: FL74_DH
+    Departure: 2025-01-12 08:00:00 from ORD
+    Arrival: 2025-01-12 10:30:00 in DFW
+========================================
+Trip ID: 133
+Cost: 1010.0
+Legs:
+  - Flight ID: FL74
+    Departure: 2025-01-12 08:00:00 from ORD
+    Arrival: 2025-01-12 10:30:00 in DFW
+  - Flight ID: FL105_DH
+    Departure: 2025-01-12 13:00:00 from DFW
+    Arrival: 2025-01-12 15:30:00 in ORD
+========================================
+Trip ID: 134
+Cost: 1010.0
+Legs:
+  - Flight ID: FL476
+    Departure: 2025-01-11 14:00:00 from DTW
+    Arrival: 2025-01-11 15:30:00 in CLT
+  - Flight ID: FL446_DH
+    Departure: 2025-01-12 08:00:00 from CLT
+    Arrival: 2025-01-12 09:30:00 in DTW
+========================================
+Trip ID: 135
+Cost: 1010.0
+Legs:
+  - Flight ID: FL322
+    Departure: 2025-01-12 08:00:00 from DEN
+    Arrival: 2025-01-12 09:30:00 in PHX
+  - Flight ID: FL353_DH
+    Departure: 2025-01-12 14:00:00 from PHX
+    Arrival: 2025-01-12 15:30:00 in DEN
+========================================
+Trip ID: 136
+Cost: 1010.0
+Legs:
+  - Flight ID: FL136
+    Departure: 2025-01-12 10:00:00 from SFO
+    Arrival: 2025-01-12 11:45:00 in SEA
+  - Flight ID: FL167_DH
+    Departure: 2025-01-12 14:00:00 from SEA
+    Arrival: 2025-01-12 15:45:00 in SFO
+========================================
+Trip ID: 137
+Cost: 1010.0
+Legs:
+  - Flight ID: FL506
+    Departure: 2025-01-10 09:00:00 from LAS
+    Arrival: 2025-01-10 10:15:00 in SLC
+  - Flight ID: FL537_DH
+    Departure: 2025-01-10 13:00:00 from SLC
+    Arrival: 2025-01-10 14:15:00 in LAS
+========================================
+Trip ID: 138
+Cost: 1010.0
+Legs:
   - Flight ID: FL447
     Departure: 2025-01-13 08:00:00 from CLT
     Arrival: 2025-01-13 09:30:00 in DTW
+  - Flight ID: FL478_DH
+    Departure: 2025-01-13 14:00:00 from DTW
+    Arrival: 2025-01-13 15:30:00 in CLT
 ========================================
-Trip ID: 343
-Cost: 20
+Trip ID: 139
+Cost: 1010.0
+Legs:
+  - Flight ID: FL13
+    Departure: 2025-01-13 07:00:00 from JFK
+    Arrival: 2025-01-13 10:00:00 in LAX
+  - Flight ID: FL44_DH
+    Departure: 2025-01-13 13:00:00 from LAX
+    Arrival: 2025-01-13 20:00:00 in JFK
+========================================
+Trip ID: 140
+Cost: 1010.0
+Legs:
+  - Flight ID: FL258
+    Departure: 2025-01-10 07:00:00 from BOS
+    Arrival: 2025-01-10 08:30:00 in DCA
+  - Flight ID: FL289_DH
+    Departure: 2025-01-10 12:00:00 from DCA
+    Arrival: 2025-01-10 13:30:00 in BOS
+========================================
+Trip ID: 141
+Cost: 1010.0
 Legs:
   - Flight ID: FL415
     Departure: 2025-01-12 13:30:00 from MSP
     Arrival: 2025-01-12 16:00:00 in IAH
-  - Flight ID: FL385
+  - Flight ID: FL385_DH
     Departure: 2025-01-13 07:30:00 from IAH
     Arrival: 2025-01-13 10:00:00 in MSP
 ========================================
-Trip ID: 344
-Cost: 20
-Legs:
-  - Flight ID: FL587
-    Departure: 2025-01-29 07:30:00 from PHL
-    Arrival: 2025-01-29 09:30:00 in BNA
-  - Flight ID: FL618
-    Departure: 2025-01-29 14:00:00 from BNA
-    Arrival: 2025-01-29 16:00:00 in PHL
-========================================
-Trip ID: 345
-Cost: 20
-Legs:
-  - Flight ID: FL525
-    Departure: 2025-01-29 09:00:00 from LAS
-    Arrival: 2025-01-29 10:15:00 in SLC
-  - Flight ID: FL556
-    Departure: 2025-01-29 13:00:00 from SLC
-    Arrival: 2025-01-29 14:15:00 in LAS
-========================================
-Trip ID: 346
-Cost: 20
-Legs:
-  - Flight ID: FL277
-    Departure: 2025-01-29 07:00:00 from BOS
-    Arrival: 2025-01-29 08:30:00 in DCA
-  - Flight ID: FL308
-    Departure: 2025-01-29 12:00:00 from DCA
-    Arrival: 2025-01-29 13:30:00 in BOS
-========================================
-Trip ID: 347
-Cost: 20
-Legs:
-  - Flight ID: FL203
-    Departure: 2025-01-17 09:00:00 from MIA
-    Arrival: 2025-01-17 11:00:00 in ATL
-  - Flight ID: FL234
-    Departure: 2025-01-17 14:00:00 from ATL
-    Arrival: 2025-01-17 16:00:00 in MIA
-========================================
-Trip ID: 348
-Cost: 20
-Legs:
-  - Flight ID: FL79
-    Departure: 2025-01-17 08:00:00 from ORD
-    Arrival: 2025-01-17 10:30:00 in DFW
-  - Flight ID: FL110
-    Departure: 2025-01-17 13:00:00 from DFW
-    Arrival: 2025-01-17 15:30:00 in ORD
-========================================
-Trip ID: 349
-Cost: 20
-Legs:
-  - Flight ID: FL176
-    Departure: 2025-01-21 14:00:00 from SEA
-    Arrival: 2025-01-21 15:45:00 in SFO
-  - Flight ID: FL146
-    Departure: 2025-01-22 10:00:00 from SFO
-    Arrival: 2025-01-22 11:45:00 in SEA
-========================================
-Trip ID: 350
-Cost: 20
-Legs:
-  - Flight ID: FL362
-    Departure: 2025-01-21 14:00:00 from PHX
-    Arrival: 2025-01-21 15:30:00 in DEN
-  - Flight ID: FL332
-    Departure: 2025-01-22 08:00:00 from DEN
-    Arrival: 2025-01-22 09:30:00 in PHX
-========================================
-Trip ID: 351
-Cost: 20
-Legs:
-  - Flight ID: FL52
-    Departure: 2025-01-21 13:00:00 from LAX
-    Arrival: 2025-01-21 20:00:00 in JFK
-  - Flight ID: FL22
-    Departure: 2025-01-22 07:00:00 from JFK
-    Arrival: 2025-01-22 10:00:00 in LAX
-========================================
-Trip ID: 352
-Cost: 20
-Legs:
-  - Flight ID: FL711
-    Departure: 2025-01-29 08:00:00 from AUS
-    Arrival: 2025-01-29 09:00:00 in DAL
-  - Flight ID: FL742
-    Departure: 2025-01-29 17:00:00 from DAL
-    Arrival: 2025-01-29 18:00:00 in AUS
-========================================
-Trip ID: 353
-Cost: 20
-Legs:
-  - Flight ID: FL649
-    Departure: 2025-01-29 10:00:00 from SAN
-    Arrival: 2025-01-29 12:00:00 in PDX
-  - Flight ID: FL680
-    Departure: 2025-01-29 16:00:00 from PDX
-    Arrival: 2025-01-29 18:00:00 in SAN
-========================================
-Trip ID: 354
-Cost: 20
-Legs:
-  - Flight ID: FL486
-    Departure: 2025-01-21 14:00:00 from DTW
-    Arrival: 2025-01-21 15:30:00 in CLT
-  - Flight ID: FL456
-    Departure: 2025-01-22 08:00:00 from CLT
-    Arrival: 2025-01-22 09:30:00 in DTW
-========================================
-Trip ID: 355
-Cost: 20
-Legs:
-  - Flight ID: FL424
-    Departure: 2025-01-21 13:30:00 from MSP
-    Arrival: 2025-01-21 16:00:00 in IAH
-  - Flight ID: FL394
-    Departure: 2025-01-22 07:30:00 from IAH
-    Arrival: 2025-01-22 10:00:00 in MSP
-========================================
-Trip ID: 356
-Cost: 20
-Legs:
-  - Flight ID: FL588
-    Departure: 2025-01-30 07:30:00 from PHL
-    Arrival: 2025-01-30 09:30:00 in BNA
-  - Flight ID: FL619
-    Departure: 2025-01-30 14:00:00 from BNA
-    Arrival: 2025-01-30 16:00:00 in PHL
-========================================
-Trip ID: 357
-Cost: 20
-Legs:
-  - Flight ID: FL526
-    Departure: 2025-01-30 09:00:00 from LAS
-    Arrival: 2025-01-30 10:15:00 in SLC
-  - Flight ID: FL557
-    Departure: 2025-01-30 13:00:00 from SLC
-    Arrival: 2025-01-30 14:15:00 in LAS
-========================================
-Trip ID: 358
-Cost: 20
-Legs:
-  - Flight ID: FL278
-    Departure: 2025-01-30 07:00:00 from BOS
-    Arrival: 2025-01-30 08:30:00 in DCA
-  - Flight ID: FL309
-    Departure: 2025-01-30 12:00:00 from DCA
-    Arrival: 2025-01-30 13:30:00 in BOS
-========================================
-Trip ID: 359
-Cost: 20
-Legs:
-  - Flight ID: FL212
-    Departure: 2025-01-26 09:00:00 from MIA
-    Arrival: 2025-01-26 11:00:00 in ATL
-  - Flight ID: FL243
-    Departure: 2025-01-26 14:00:00 from ATL
-    Arrival: 2025-01-26 16:00:00 in MIA
-========================================
-Trip ID: 360
-Cost: 20
-Legs:
-  - Flight ID: FL88
-    Departure: 2025-01-26 08:00:00 from ORD
-    Arrival: 2025-01-26 10:30:00 in DFW
-  - Flight ID: FL119
-    Departure: 2025-01-26 13:00:00 from DFW
-    Arrival: 2025-01-26 15:30:00 in ORD
-========================================
-Trip ID: 361
-Cost: 20
-Legs:
-  - Flight ID: FL712
-    Departure: 2025-01-30 08:00:00 from AUS
-    Arrival: 2025-01-30 09:00:00 in DAL
-  - Flight ID: FL743
-    Departure: 2025-01-30 17:00:00 from DAL
-    Arrival: 2025-01-30 18:00:00 in AUS
-========================================
-Trip ID: 362
-Cost: 20
-Legs:
-  - Flight ID: FL650
-    Departure: 2025-01-30 10:00:00 from SAN
-    Arrival: 2025-01-30 12:00:00 in PDX
-  - Flight ID: FL681
-    Departure: 2025-01-30 16:00:00 from PDX
-    Arrival: 2025-01-30 18:00:00 in SAN
-========================================
-Trip ID: 363
-Cost: 20
-Legs:
-  - Flight ID: FL589
-    Departure: 2025-01-31 07:30:00 from PHL
-    Arrival: 2025-01-31 09:30:00 in BNA
-  - Flight ID: FL620
-    Departure: 2025-01-31 14:00:00 from BNA
-    Arrival: 2025-01-31 16:00:00 in PHL
-========================================
-Trip ID: 364
-Cost: 20
-Legs:
-  - Flight ID: FL527
-    Departure: 2025-01-31 09:00:00 from LAS
-    Arrival: 2025-01-31 10:15:00 in SLC
-  - Flight ID: FL558
-    Departure: 2025-01-31 13:00:00 from SLC
-    Arrival: 2025-01-31 14:15:00 in LAS
-========================================
-Trip ID: 365
-Cost: 20
-Legs:
-  - Flight ID: FL279
-    Departure: 2025-01-31 07:00:00 from BOS
-    Arrival: 2025-01-31 08:30:00 in DCA
-  - Flight ID: FL310
-    Departure: 2025-01-31 12:00:00 from DCA
-    Arrival: 2025-01-31 13:30:00 in BOS
-========================================
-Trip ID: 366
-Cost: 20
-Legs:
-  - Flight ID: FL713
-    Departure: 2025-01-31 08:00:00 from AUS
-    Arrival: 2025-01-31 09:00:00 in DAL
-  - Flight ID: FL744
-    Departure: 2025-01-31 17:00:00 from DAL
-    Arrival: 2025-01-31 18:00:00 in AUS
-========================================
-Trip ID: 367
-Cost: 20
-Legs:
-  - Flight ID: FL651
-    Departure: 2025-01-31 10:00:00 from SAN
-    Arrival: 2025-01-31 12:00:00 in PDX
-  - Flight ID: FL682
-    Departure: 2025-01-31 16:00:00 from PDX
-    Arrival: 2025-01-31 18:00:00 in SAN
-========================================
-Trip ID: 368
+Trip ID: 142
 Cost: 1010.0
 Legs:
-  - Flight ID: FL433
-    Departure: 2025-01-30 13:30:00 from MSP
-    Arrival: 2025-01-30 16:00:00 in IAH
-  - Flight ID: FL403_DH
-    Departure: 2025-01-31 07:30:00 from IAH
-    Arrival: 2025-01-31 10:00:00 in MSP
+  - Flight ID: FL630
+    Departure: 2025-01-10 10:00:00 from SAN
+    Arrival: 2025-01-10 12:00:00 in PDX
+  - Flight ID: FL661_DH
+    Departure: 2025-01-10 16:00:00 from PDX
+    Arrival: 2025-01-10 18:00:00 in SAN
 ========================================
-Trip ID: 369
+Trip ID: 143
 Cost: 1010.0
 Legs:
-  - Flight ID: FL1
-    Departure: 2025-01-01 07:00:00 from JFK
-    Arrival: 2025-01-01 10:00:00 in LAX
-  - Flight ID: FL32_DH
-    Departure: 2025-01-01 13:00:00 from LAX
-    Arrival: 2025-01-01 20:00:00 in JFK
+  - Flight ID: FL199
+    Departure: 2025-01-13 09:00:00 from MIA
+    Arrival: 2025-01-13 11:00:00 in ATL
+  - Flight ID: FL230_DH
+    Departure: 2025-01-13 14:00:00 from ATL
+    Arrival: 2025-01-13 16:00:00 in MIA
 ========================================
-Trip ID: 370
+Trip ID: 144
 Cost: 1010.0
 Legs:
-  - Flight ID: FL61
-    Departure: 2025-01-30 13:00:00 from LAX
-    Arrival: 2025-01-30 20:00:00 in JFK
-  - Flight ID: FL31_DH
-    Departure: 2025-01-31 07:00:00 from JFK
-    Arrival: 2025-01-31 10:00:00 in LAX
+  - Flight ID: FL692
+    Departure: 2025-01-10 08:00:00 from AUS
+    Arrival: 2025-01-10 09:00:00 in DAL
+  - Flight ID: FL723_DH
+    Departure: 2025-01-10 17:00:00 from DAL
+    Arrival: 2025-01-10 18:00:00 in AUS
 ========================================
-Trip ID: 371
+Trip ID: 145
 Cost: 1010.0
 Legs:
-  - Flight ID: FL373
-    Departure: 2025-01-01 07:30:00 from IAH
-    Arrival: 2025-01-01 10:00:00 in MSP
-  - Flight ID: FL404_DH
-    Departure: 2025-01-01 13:30:00 from MSP
-    Arrival: 2025-01-01 16:00:00 in IAH
+  - Flight ID: FL385
+    Departure: 2025-01-13 07:30:00 from IAH
+    Arrival: 2025-01-13 10:00:00 in MSP
+  - Flight ID: FL416_DH
+    Departure: 2025-01-13 13:30:00 from MSP
+    Arrival: 2025-01-13 16:00:00 in IAH
 ========================================
-Trip ID: 372
+Trip ID: 146
 Cost: 1010.0
 Legs:
-  - Flight ID: FL435
-    Departure: 2025-01-01 08:00:00 from CLT
-    Arrival: 2025-01-01 09:30:00 in DTW
-  - Flight ID: FL466_DH
-    Departure: 2025-01-01 14:00:00 from DTW
-    Arrival: 2025-01-01 15:30:00 in CLT
+  - Flight ID: FL43
+    Departure: 2025-01-12 13:00:00 from LAX
+    Arrival: 2025-01-12 20:00:00 in JFK
+  - Flight ID: FL13_DH
+    Departure: 2025-01-13 07:00:00 from JFK
+    Arrival: 2025-01-13 10:00:00 in LAX
 ========================================
-Trip ID: 373
+Trip ID: 147
 Cost: 1010.0
 Legs:
-  - Flight ID: FL185
-    Departure: 2025-01-30 14:00:00 from SEA
-    Arrival: 2025-01-30 15:45:00 in SFO
-  - Flight ID: FL155_DH
-    Departure: 2025-01-31 10:00:00 from SFO
-    Arrival: 2025-01-31 11:45:00 in SEA
+  - Flight ID: FL229
+    Departure: 2025-01-12 14:00:00 from ATL
+    Arrival: 2025-01-12 16:00:00 in MIA
+  - Flight ID: FL199_DH
+    Departure: 2025-01-13 09:00:00 from MIA
+    Arrival: 2025-01-13 11:00:00 in ATL
 ========================================
-Trip ID: 374
+Trip ID: 148
 Cost: 1010.0
 Legs:
-  - Flight ID: FL311
-    Departure: 2025-01-01 08:00:00 from DEN
-    Arrival: 2025-01-01 09:30:00 in PHX
-  - Flight ID: FL342_DH
-    Departure: 2025-01-01 14:00:00 from PHX
-    Arrival: 2025-01-01 15:30:00 in DEN
+  - Flight ID: FL353
+    Departure: 2025-01-12 14:00:00 from PHX
+    Arrival: 2025-01-12 15:30:00 in DEN
+  - Flight ID: FL323_DH
+    Departure: 2025-01-13 08:00:00 from DEN
+    Arrival: 2025-01-13 09:30:00 in PHX
 ========================================
-Trip ID: 375
+Trip ID: 149
 Cost: 1010.0
 Legs:
-  - Flight ID: FL371
-    Departure: 2025-01-30 14:00:00 from PHX
-    Arrival: 2025-01-30 15:30:00 in DEN
-  - Flight ID: FL341_DH
-    Departure: 2025-01-31 08:00:00 from DEN
-    Arrival: 2025-01-31 09:30:00 in PHX
+  - Flight ID: FL568
+    Departure: 2025-01-10 07:30:00 from PHL
+    Arrival: 2025-01-10 09:30:00 in BNA
+  - Flight ID: FL599_DH
+    Departure: 2025-01-10 14:00:00 from BNA
+    Arrival: 2025-01-10 16:00:00 in PHL
 ========================================
-Trip ID: 376
+Trip ID: 150
 Cost: 1010.0
 Legs:
-  - Flight ID: FL495
-    Departure: 2025-01-30 14:00:00 from DTW
-    Arrival: 2025-01-30 15:30:00 in CLT
-  - Flight ID: FL465_DH
-    Departure: 2025-01-31 08:00:00 from CLT
-    Arrival: 2025-01-31 09:30:00 in DTW
+  - Flight ID: FL167
+    Departure: 2025-01-12 14:00:00 from SEA
+    Arrival: 2025-01-12 15:45:00 in SFO
+  - Flight ID: FL137_DH
+    Departure: 2025-01-13 10:00:00 from SFO
+    Arrival: 2025-01-13 11:45:00 in SEA
 ========================================
-Trip ID: 377
+Trip ID: 151
 Cost: 1010.0
 Legs:
-  - Flight ID: FL125
-    Departure: 2025-01-01 10:00:00 from SFO
-    Arrival: 2025-01-01 11:45:00 in SEA
-  - Flight ID: FL156_DH
-    Departure: 2025-01-01 14:00:00 from SEA
-    Arrival: 2025-01-01 15:45:00 in SFO
+  - Flight ID: FL105
+    Departure: 2025-01-12 13:00:00 from DFW
+    Arrival: 2025-01-12 15:30:00 in ORD
+  - Flight ID: FL75_DH
+    Departure: 2025-01-13 08:00:00 from ORD
+    Arrival: 2025-01-13 10:30:00 in DFW
+========================================
+Trip ID: 152
+Cost: 1010.0
+Legs:
+  - Flight ID: FL75
+    Departure: 2025-01-13 08:00:00 from ORD
+    Arrival: 2025-01-13 10:30:00 in DFW
+  - Flight ID: FL106_DH
+    Departure: 2025-01-13 13:00:00 from DFW
+    Arrival: 2025-01-13 15:30:00 in ORD
+========================================
+Trip ID: 153
+Cost: 1010.0
+Legs:
+  - Flight ID: FL477
+    Departure: 2025-01-12 14:00:00 from DTW
+    Arrival: 2025-01-12 15:30:00 in CLT
+  - Flight ID: FL447_DH
+    Departure: 2025-01-13 08:00:00 from CLT
+    Arrival: 2025-01-13 09:30:00 in DTW
+========================================
+Trip ID: 154
+Cost: 1010.0
+Legs:
+  - Flight ID: FL323
+    Departure: 2025-01-13 08:00:00 from DEN
+    Arrival: 2025-01-13 09:30:00 in PHX
+  - Flight ID: FL354_DH
+    Departure: 2025-01-13 14:00:00 from PHX
+    Arrival: 2025-01-13 15:30:00 in DEN
+========================================
+Trip ID: 155
+Cost: 1010.0
+Legs:
+  - Flight ID: FL137
+    Departure: 2025-01-13 10:00:00 from SFO
+    Arrival: 2025-01-13 11:45:00 in SEA
+  - Flight ID: FL168_DH
+    Departure: 2025-01-13 14:00:00 from SEA
+    Arrival: 2025-01-13 15:45:00 in SFO
 ========================================

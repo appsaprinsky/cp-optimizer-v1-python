@@ -1,17 +1,7 @@
 Timetable of Solutions:
-Length:127
+Length:55
 ========================================
 Trip ID: 1
-Cost: 20
-Legs:
-  - Flight ID: FL32
-    Departure: 2025-01-01 13:00:00 from LAX
-    Arrival: 2025-01-01 20:00:00 in JFK
-  - Flight ID: FL2
-    Departure: 2025-01-02 07:00:00 from JFK
-    Arrival: 2025-01-02 10:00:00 in LAX
-========================================
-Trip ID: 2
 Cost: 20
 Legs:
   - Flight ID: FL187
@@ -21,17 +11,17 @@ Legs:
     Departure: 2025-01-01 13:00:00 from SLC
     Arrival: 2025-01-01 14:15:00 in LAS
 ========================================
-Trip ID: 3
+Trip ID: 2
 Cost: 20
 Legs:
-  - Flight ID: FL94
-    Departure: 2025-01-01 14:00:00 from PHX
-    Arrival: 2025-01-01 15:30:00 in DEN
-  - Flight ID: FL64
-    Departure: 2025-01-02 08:00:00 from DEN
-    Arrival: 2025-01-02 09:30:00 in PHX
+  - Flight ID: FL1
+    Departure: 2025-01-01 07:00:00 from JFK
+    Arrival: 2025-01-01 10:00:00 in LAX
+  - Flight ID: FL32
+    Departure: 2025-01-01 13:00:00 from LAX
+    Arrival: 2025-01-01 20:00:00 in JFK
 ========================================
-Trip ID: 4
+Trip ID: 3
 Cost: 20
 Legs:
   - Flight ID: FL156
@@ -41,17 +31,17 @@ Legs:
     Departure: 2025-01-02 08:00:00 from CLT
     Arrival: 2025-01-02 09:30:00 in DTW
 ========================================
-Trip ID: 5
+Trip ID: 4
 Cost: 20
 Legs:
-  - Flight ID: FL33
-    Departure: 2025-01-02 13:00:00 from LAX
-    Arrival: 2025-01-02 20:00:00 in JFK
-  - Flight ID: FL3
-    Departure: 2025-01-03 07:00:00 from JFK
-    Arrival: 2025-01-03 10:00:00 in LAX
+  - Flight ID: FL94
+    Departure: 2025-01-01 14:00:00 from PHX
+    Arrival: 2025-01-01 15:30:00 in DEN
+  - Flight ID: FL64
+    Departure: 2025-01-02 08:00:00 from DEN
+    Arrival: 2025-01-02 09:30:00 in PHX
 ========================================
-Trip ID: 6
+Trip ID: 5
 Cost: 20
 Legs:
   - Flight ID: FL188
@@ -61,17 +51,17 @@ Legs:
     Departure: 2025-01-02 13:00:00 from SLC
     Arrival: 2025-01-02 14:15:00 in LAS
 ========================================
-Trip ID: 7
+Trip ID: 6
 Cost: 20
 Legs:
-  - Flight ID: FL95
-    Departure: 2025-01-02 14:00:00 from PHX
-    Arrival: 2025-01-02 15:30:00 in DEN
-  - Flight ID: FL65
-    Departure: 2025-01-03 08:00:00 from DEN
-    Arrival: 2025-01-03 09:30:00 in PHX
+  - Flight ID: FL3
+    Departure: 2025-01-03 07:00:00 from JFK
+    Arrival: 2025-01-03 10:00:00 in LAX
+  - Flight ID: FL34
+    Departure: 2025-01-03 13:00:00 from LAX
+    Arrival: 2025-01-03 20:00:00 in JFK
 ========================================
-Trip ID: 8
+Trip ID: 7
 Cost: 20
 Legs:
   - Flight ID: FL157
@@ -81,17 +71,17 @@ Legs:
     Departure: 2025-01-03 08:00:00 from CLT
     Arrival: 2025-01-03 09:30:00 in DTW
 ========================================
-Trip ID: 9
+Trip ID: 8
 Cost: 20
 Legs:
-  - Flight ID: FL35
-    Departure: 2025-01-04 13:00:00 from LAX
-    Arrival: 2025-01-04 20:00:00 in JFK
-  - Flight ID: FL5
-    Departure: 2025-01-05 07:00:00 from JFK
-    Arrival: 2025-01-05 10:00:00 in LAX
+  - Flight ID: FL95
+    Departure: 2025-01-02 14:00:00 from PHX
+    Arrival: 2025-01-02 15:30:00 in DEN
+  - Flight ID: FL65
+    Departure: 2025-01-03 08:00:00 from DEN
+    Arrival: 2025-01-03 09:30:00 in PHX
 ========================================
-Trip ID: 10
+Trip ID: 9
 Cost: 20
 Legs:
   - Flight ID: FL189
@@ -101,17 +91,17 @@ Legs:
     Departure: 2025-01-03 13:00:00 from SLC
     Arrival: 2025-01-03 14:15:00 in LAS
 ========================================
-Trip ID: 11
+Trip ID: 10
 Cost: 20
 Legs:
-  - Flight ID: FL97
-    Departure: 2025-01-04 14:00:00 from PHX
-    Arrival: 2025-01-04 15:30:00 in DEN
-  - Flight ID: FL67
-    Departure: 2025-01-05 08:00:00 from DEN
-    Arrival: 2025-01-05 09:30:00 in PHX
+  - Flight ID: FL4
+    Departure: 2025-01-04 07:00:00 from JFK
+    Arrival: 2025-01-04 10:00:00 in LAX
+  - Flight ID: FL35
+    Departure: 2025-01-04 13:00:00 from LAX
+    Arrival: 2025-01-04 20:00:00 in JFK
 ========================================
-Trip ID: 12
+Trip ID: 11
 Cost: 20
 Legs:
   - Flight ID: FL159
@@ -121,17 +111,17 @@ Legs:
     Departure: 2025-01-05 08:00:00 from CLT
     Arrival: 2025-01-05 09:30:00 in DTW
 ========================================
-Trip ID: 13
+Trip ID: 12
 Cost: 20
 Legs:
-  - Flight ID: FL36
-    Departure: 2025-01-05 13:00:00 from LAX
-    Arrival: 2025-01-05 20:00:00 in JFK
-  - Flight ID: FL6
-    Departure: 2025-01-06 07:00:00 from JFK
-    Arrival: 2025-01-06 10:00:00 in LAX
+  - Flight ID: FL97
+    Departure: 2025-01-04 14:00:00 from PHX
+    Arrival: 2025-01-04 15:30:00 in DEN
+  - Flight ID: FL67
+    Departure: 2025-01-05 08:00:00 from DEN
+    Arrival: 2025-01-05 09:30:00 in PHX
 ========================================
-Trip ID: 14
+Trip ID: 13
 Cost: 20
 Legs:
   - Flight ID: FL190
@@ -141,17 +131,17 @@ Legs:
     Departure: 2025-01-04 13:00:00 from SLC
     Arrival: 2025-01-04 14:15:00 in LAS
 ========================================
-Trip ID: 15
+Trip ID: 14
 Cost: 20
 Legs:
-  - Flight ID: FL98
-    Departure: 2025-01-05 14:00:00 from PHX
-    Arrival: 2025-01-05 15:30:00 in DEN
-  - Flight ID: FL68
-    Departure: 2025-01-06 08:00:00 from DEN
-    Arrival: 2025-01-06 09:30:00 in PHX
+  - Flight ID: FL6
+    Departure: 2025-01-06 07:00:00 from JFK
+    Arrival: 2025-01-06 10:00:00 in LAX
+  - Flight ID: FL37
+    Departure: 2025-01-06 13:00:00 from LAX
+    Arrival: 2025-01-06 20:00:00 in JFK
 ========================================
-Trip ID: 16
+Trip ID: 15
 Cost: 20
 Legs:
   - Flight ID: FL160
@@ -161,17 +151,17 @@ Legs:
     Departure: 2025-01-06 08:00:00 from CLT
     Arrival: 2025-01-06 09:30:00 in DTW
 ========================================
-Trip ID: 17
+Trip ID: 16
 Cost: 20
 Legs:
-  - Flight ID: FL38
-    Departure: 2025-01-07 13:00:00 from LAX
-    Arrival: 2025-01-07 20:00:00 in JFK
-  - Flight ID: FL8
-    Departure: 2025-01-08 07:00:00 from JFK
-    Arrival: 2025-01-08 10:00:00 in LAX
+  - Flight ID: FL98
+    Departure: 2025-01-05 14:00:00 from PHX
+    Arrival: 2025-01-05 15:30:00 in DEN
+  - Flight ID: FL68
+    Departure: 2025-01-06 08:00:00 from DEN
+    Arrival: 2025-01-06 09:30:00 in PHX
 ========================================
-Trip ID: 18
+Trip ID: 17
 Cost: 20
 Legs:
   - Flight ID: FL191
@@ -181,17 +171,17 @@ Legs:
     Departure: 2025-01-05 13:00:00 from SLC
     Arrival: 2025-01-05 14:15:00 in LAS
 ========================================
-Trip ID: 19
+Trip ID: 18
 Cost: 20
 Legs:
-  - Flight ID: FL100
-    Departure: 2025-01-07 14:00:00 from PHX
-    Arrival: 2025-01-07 15:30:00 in DEN
-  - Flight ID: FL70
-    Departure: 2025-01-08 08:00:00 from DEN
-    Arrival: 2025-01-08 09:30:00 in PHX
+  - Flight ID: FL7
+    Departure: 2025-01-07 07:00:00 from JFK
+    Arrival: 2025-01-07 10:00:00 in LAX
+  - Flight ID: FL38
+    Departure: 2025-01-07 13:00:00 from LAX
+    Arrival: 2025-01-07 20:00:00 in JFK
 ========================================
-Trip ID: 20
+Trip ID: 19
 Cost: 20
 Legs:
   - Flight ID: FL162
@@ -201,1073 +191,363 @@ Legs:
     Departure: 2025-01-08 08:00:00 from CLT
     Arrival: 2025-01-08 09:30:00 in DTW
 ========================================
-Trip ID: 21
+Trip ID: 20
 Cost: 20
 Legs:
-  - Flight ID: FL39
-    Departure: 2025-01-08 13:00:00 from LAX
-    Arrival: 2025-01-08 20:00:00 in JFK
-  - Flight ID: FL9
-    Departure: 2025-01-09 07:00:00 from JFK
-    Arrival: 2025-01-09 10:00:00 in LAX
+  - Flight ID: FL100
+    Departure: 2025-01-07 14:00:00 from PHX
+    Arrival: 2025-01-07 15:30:00 in DEN
+  - Flight ID: FL70
+    Departure: 2025-01-08 08:00:00 from DEN
+    Arrival: 2025-01-08 09:30:00 in PHX
 ========================================
-Trip ID: 22
-Cost: 20
+Trip ID: 21
+Cost: 1010.0
 Legs:
   - Flight ID: FL192
     Departure: 2025-01-06 09:00:00 from LAS
     Arrival: 2025-01-06 10:15:00 in SLC
-  - Flight ID: FL223
+  - Flight ID: FL223_DH
     Departure: 2025-01-06 13:00:00 from SLC
     Arrival: 2025-01-06 14:15:00 in LAS
 ========================================
-Trip ID: 23
-Cost: 20
+Trip ID: 22
+Cost: 1010.0
 Legs:
-  - Flight ID: FL101
-    Departure: 2025-01-08 14:00:00 from PHX
-    Arrival: 2025-01-08 15:30:00 in DEN
-  - Flight ID: FL71
-    Departure: 2025-01-09 08:00:00 from DEN
-    Arrival: 2025-01-09 09:30:00 in PHX
+  - Flight ID: FL133
+    Departure: 2025-01-09 08:00:00 from CLT
+    Arrival: 2025-01-09 09:30:00 in DTW
+  - Flight ID: FL164_DH
+    Departure: 2025-01-09 14:00:00 from DTW
+    Arrival: 2025-01-09 15:30:00 in CLT
+========================================
+Trip ID: 23
+Cost: 1010.0
+Legs:
+  - Flight ID: FL39
+    Departure: 2025-01-08 13:00:00 from LAX
+    Arrival: 2025-01-08 20:00:00 in JFK
+  - Flight ID: FL9_DH
+    Departure: 2025-01-09 07:00:00 from JFK
+    Arrival: 2025-01-09 10:00:00 in LAX
 ========================================
 Trip ID: 24
-Cost: 20
+Cost: 1010.0
+Legs:
+  - Flight ID: FL9
+    Departure: 2025-01-09 07:00:00 from JFK
+    Arrival: 2025-01-09 10:00:00 in LAX
+  - Flight ID: FL40_DH
+    Departure: 2025-01-09 13:00:00 from LAX
+    Arrival: 2025-01-09 20:00:00 in JFK
+========================================
+Trip ID: 25
+Cost: 1010.0
 Legs:
   - Flight ID: FL163
     Departure: 2025-01-08 14:00:00 from DTW
     Arrival: 2025-01-08 15:30:00 in CLT
-  - Flight ID: FL133
+  - Flight ID: FL133_DH
     Departure: 2025-01-09 08:00:00 from CLT
     Arrival: 2025-01-09 09:30:00 in DTW
 ========================================
-Trip ID: 25
-Cost: 20
-Legs:
-  - Flight ID: FL41
-    Departure: 2025-01-10 13:00:00 from LAX
-    Arrival: 2025-01-10 20:00:00 in JFK
-  - Flight ID: FL11
-    Departure: 2025-01-11 07:00:00 from JFK
-    Arrival: 2025-01-11 10:00:00 in LAX
-========================================
 Trip ID: 26
-Cost: 20
+Cost: 1010.0
+Legs:
+  - Flight ID: FL71
+    Departure: 2025-01-09 08:00:00 from DEN
+    Arrival: 2025-01-09 09:30:00 in PHX
+  - Flight ID: FL102_DH
+    Departure: 2025-01-09 14:00:00 from PHX
+    Arrival: 2025-01-09 15:30:00 in DEN
+========================================
+Trip ID: 27
+Cost: 1010.0
+Legs:
+  - Flight ID: FL101
+    Departure: 2025-01-08 14:00:00 from PHX
+    Arrival: 2025-01-08 15:30:00 in DEN
+  - Flight ID: FL71_DH
+    Departure: 2025-01-09 08:00:00 from DEN
+    Arrival: 2025-01-09 09:30:00 in PHX
+========================================
+Trip ID: 28
+Cost: 1010.0
 Legs:
   - Flight ID: FL193
     Departure: 2025-01-07 09:00:00 from LAS
     Arrival: 2025-01-07 10:15:00 in SLC
-  - Flight ID: FL224
+  - Flight ID: FL224_DH
     Departure: 2025-01-07 13:00:00 from SLC
     Arrival: 2025-01-07 14:15:00 in LAS
 ========================================
-Trip ID: 27
-Cost: 20
+Trip ID: 29
+Cost: 1010.0
 Legs:
-  - Flight ID: FL103
-    Departure: 2025-01-10 14:00:00 from PHX
-    Arrival: 2025-01-10 15:30:00 in DEN
-  - Flight ID: FL73
-    Departure: 2025-01-11 08:00:00 from DEN
-    Arrival: 2025-01-11 09:30:00 in PHX
-========================================
-Trip ID: 28
-Cost: 20
-Legs:
-  - Flight ID: FL165
+  - Flight ID: FL134
+    Departure: 2025-01-10 08:00:00 from CLT
+    Arrival: 2025-01-10 09:30:00 in DTW
+  - Flight ID: FL165_DH
     Departure: 2025-01-10 14:00:00 from DTW
     Arrival: 2025-01-10 15:30:00 in CLT
-  - Flight ID: FL135
-    Departure: 2025-01-11 08:00:00 from CLT
-    Arrival: 2025-01-11 09:30:00 in DTW
-========================================
-Trip ID: 29
-Cost: 20
-Legs:
-  - Flight ID: FL42
-    Departure: 2025-01-11 13:00:00 from LAX
-    Arrival: 2025-01-11 20:00:00 in JFK
-  - Flight ID: FL12
-    Departure: 2025-01-12 07:00:00 from JFK
-    Arrival: 2025-01-12 10:00:00 in LAX
 ========================================
 Trip ID: 30
-Cost: 20
-Legs:
-  - Flight ID: FL194
-    Departure: 2025-01-08 09:00:00 from LAS
-    Arrival: 2025-01-08 10:15:00 in SLC
-  - Flight ID: FL225
-    Departure: 2025-01-08 13:00:00 from SLC
-    Arrival: 2025-01-08 14:15:00 in LAS
-========================================
-Trip ID: 31
-Cost: 20
-Legs:
-  - Flight ID: FL104
-    Departure: 2025-01-11 14:00:00 from PHX
-    Arrival: 2025-01-11 15:30:00 in DEN
-  - Flight ID: FL74
-    Departure: 2025-01-12 08:00:00 from DEN
-    Arrival: 2025-01-12 09:30:00 in PHX
-========================================
-Trip ID: 32
-Cost: 20
-Legs:
-  - Flight ID: FL166
-    Departure: 2025-01-11 14:00:00 from DTW
-    Arrival: 2025-01-11 15:30:00 in CLT
-  - Flight ID: FL136
-    Departure: 2025-01-12 08:00:00 from CLT
-    Arrival: 2025-01-12 09:30:00 in DTW
-========================================
-Trip ID: 33
-Cost: 20
-Legs:
-  - Flight ID: FL44
-    Departure: 2025-01-13 13:00:00 from LAX
-    Arrival: 2025-01-13 20:00:00 in JFK
-  - Flight ID: FL14
-    Departure: 2025-01-14 07:00:00 from JFK
-    Arrival: 2025-01-14 10:00:00 in LAX
-========================================
-Trip ID: 34
-Cost: 20
-Legs:
-  - Flight ID: FL195
-    Departure: 2025-01-09 09:00:00 from LAS
-    Arrival: 2025-01-09 10:15:00 in SLC
-  - Flight ID: FL226
-    Departure: 2025-01-09 13:00:00 from SLC
-    Arrival: 2025-01-09 14:15:00 in LAS
-========================================
-Trip ID: 35
-Cost: 20
-Legs:
-  - Flight ID: FL106
-    Departure: 2025-01-13 14:00:00 from PHX
-    Arrival: 2025-01-13 15:30:00 in DEN
-  - Flight ID: FL76
-    Departure: 2025-01-14 08:00:00 from DEN
-    Arrival: 2025-01-14 09:30:00 in PHX
-========================================
-Trip ID: 36
-Cost: 20
-Legs:
-  - Flight ID: FL168
-    Departure: 2025-01-13 14:00:00 from DTW
-    Arrival: 2025-01-13 15:30:00 in CLT
-  - Flight ID: FL138
-    Departure: 2025-01-14 08:00:00 from CLT
-    Arrival: 2025-01-14 09:30:00 in DTW
-========================================
-Trip ID: 37
-Cost: 20
-Legs:
-  - Flight ID: FL45
-    Departure: 2025-01-14 13:00:00 from LAX
-    Arrival: 2025-01-14 20:00:00 in JFK
-  - Flight ID: FL15
-    Departure: 2025-01-15 07:00:00 from JFK
-    Arrival: 2025-01-15 10:00:00 in LAX
-========================================
-Trip ID: 38
-Cost: 20
-Legs:
-  - Flight ID: FL196
-    Departure: 2025-01-10 09:00:00 from LAS
-    Arrival: 2025-01-10 10:15:00 in SLC
-  - Flight ID: FL227
-    Departure: 2025-01-10 13:00:00 from SLC
-    Arrival: 2025-01-10 14:15:00 in LAS
-========================================
-Trip ID: 39
-Cost: 20
-Legs:
-  - Flight ID: FL107
-    Departure: 2025-01-14 14:00:00 from PHX
-    Arrival: 2025-01-14 15:30:00 in DEN
-  - Flight ID: FL77
-    Departure: 2025-01-15 08:00:00 from DEN
-    Arrival: 2025-01-15 09:30:00 in PHX
-========================================
-Trip ID: 40
-Cost: 20
-Legs:
-  - Flight ID: FL169
-    Departure: 2025-01-14 14:00:00 from DTW
-    Arrival: 2025-01-14 15:30:00 in CLT
-  - Flight ID: FL139
-    Departure: 2025-01-15 08:00:00 from CLT
-    Arrival: 2025-01-15 09:30:00 in DTW
-========================================
-Trip ID: 41
-Cost: 20
-Legs:
-  - Flight ID: FL47
-    Departure: 2025-01-16 13:00:00 from LAX
-    Arrival: 2025-01-16 20:00:00 in JFK
-  - Flight ID: FL17
-    Departure: 2025-01-17 07:00:00 from JFK
-    Arrival: 2025-01-17 10:00:00 in LAX
-========================================
-Trip ID: 42
-Cost: 20
-Legs:
-  - Flight ID: FL197
-    Departure: 2025-01-11 09:00:00 from LAS
-    Arrival: 2025-01-11 10:15:00 in SLC
-  - Flight ID: FL228
-    Departure: 2025-01-11 13:00:00 from SLC
-    Arrival: 2025-01-11 14:15:00 in LAS
-========================================
-Trip ID: 43
-Cost: 20
-Legs:
-  - Flight ID: FL109
-    Departure: 2025-01-16 14:00:00 from PHX
-    Arrival: 2025-01-16 15:30:00 in DEN
-  - Flight ID: FL79
-    Departure: 2025-01-17 08:00:00 from DEN
-    Arrival: 2025-01-17 09:30:00 in PHX
-========================================
-Trip ID: 44
-Cost: 20
-Legs:
-  - Flight ID: FL171
-    Departure: 2025-01-16 14:00:00 from DTW
-    Arrival: 2025-01-16 15:30:00 in CLT
-  - Flight ID: FL141
-    Departure: 2025-01-17 08:00:00 from CLT
-    Arrival: 2025-01-17 09:30:00 in DTW
-========================================
-Trip ID: 45
-Cost: 20
-Legs:
-  - Flight ID: FL48
-    Departure: 2025-01-17 13:00:00 from LAX
-    Arrival: 2025-01-17 20:00:00 in JFK
-  - Flight ID: FL18
-    Departure: 2025-01-18 07:00:00 from JFK
-    Arrival: 2025-01-18 10:00:00 in LAX
-========================================
-Trip ID: 46
-Cost: 20
-Legs:
-  - Flight ID: FL198
-    Departure: 2025-01-12 09:00:00 from LAS
-    Arrival: 2025-01-12 10:15:00 in SLC
-  - Flight ID: FL229
-    Departure: 2025-01-12 13:00:00 from SLC
-    Arrival: 2025-01-12 14:15:00 in LAS
-========================================
-Trip ID: 47
-Cost: 20
-Legs:
-  - Flight ID: FL110
-    Departure: 2025-01-17 14:00:00 from PHX
-    Arrival: 2025-01-17 15:30:00 in DEN
-  - Flight ID: FL80
-    Departure: 2025-01-18 08:00:00 from DEN
-    Arrival: 2025-01-18 09:30:00 in PHX
-========================================
-Trip ID: 48
-Cost: 20
-Legs:
-  - Flight ID: FL172
-    Departure: 2025-01-17 14:00:00 from DTW
-    Arrival: 2025-01-17 15:30:00 in CLT
-  - Flight ID: FL142
-    Departure: 2025-01-18 08:00:00 from CLT
-    Arrival: 2025-01-18 09:30:00 in DTW
-========================================
-Trip ID: 49
-Cost: 20
-Legs:
-  - Flight ID: FL50
-    Departure: 2025-01-19 13:00:00 from LAX
-    Arrival: 2025-01-19 20:00:00 in JFK
-  - Flight ID: FL20
-    Departure: 2025-01-20 07:00:00 from JFK
-    Arrival: 2025-01-20 10:00:00 in LAX
-========================================
-Trip ID: 50
-Cost: 20
-Legs:
-  - Flight ID: FL199
-    Departure: 2025-01-13 09:00:00 from LAS
-    Arrival: 2025-01-13 10:15:00 in SLC
-  - Flight ID: FL230
-    Departure: 2025-01-13 13:00:00 from SLC
-    Arrival: 2025-01-13 14:15:00 in LAS
-========================================
-Trip ID: 51
-Cost: 20
-Legs:
-  - Flight ID: FL112
-    Departure: 2025-01-19 14:00:00 from PHX
-    Arrival: 2025-01-19 15:30:00 in DEN
-  - Flight ID: FL82
-    Departure: 2025-01-20 08:00:00 from DEN
-    Arrival: 2025-01-20 09:30:00 in PHX
-========================================
-Trip ID: 52
-Cost: 20
-Legs:
-  - Flight ID: FL174
-    Departure: 2025-01-19 14:00:00 from DTW
-    Arrival: 2025-01-19 15:30:00 in CLT
-  - Flight ID: FL144
-    Departure: 2025-01-20 08:00:00 from CLT
-    Arrival: 2025-01-20 09:30:00 in DTW
-========================================
-Trip ID: 53
-Cost: 20
-Legs:
-  - Flight ID: FL51
-    Departure: 2025-01-20 13:00:00 from LAX
-    Arrival: 2025-01-20 20:00:00 in JFK
-  - Flight ID: FL21
-    Departure: 2025-01-21 07:00:00 from JFK
-    Arrival: 2025-01-21 10:00:00 in LAX
-========================================
-Trip ID: 54
-Cost: 20
-Legs:
-  - Flight ID: FL200
-    Departure: 2025-01-14 09:00:00 from LAS
-    Arrival: 2025-01-14 10:15:00 in SLC
-  - Flight ID: FL231
-    Departure: 2025-01-14 13:00:00 from SLC
-    Arrival: 2025-01-14 14:15:00 in LAS
-========================================
-Trip ID: 55
-Cost: 20
-Legs:
-  - Flight ID: FL113
-    Departure: 2025-01-20 14:00:00 from PHX
-    Arrival: 2025-01-20 15:30:00 in DEN
-  - Flight ID: FL83
-    Departure: 2025-01-21 08:00:00 from DEN
-    Arrival: 2025-01-21 09:30:00 in PHX
-========================================
-Trip ID: 56
-Cost: 20
-Legs:
-  - Flight ID: FL175
-    Departure: 2025-01-20 14:00:00 from DTW
-    Arrival: 2025-01-20 15:30:00 in CLT
-  - Flight ID: FL145
-    Departure: 2025-01-21 08:00:00 from CLT
-    Arrival: 2025-01-21 09:30:00 in DTW
-========================================
-Trip ID: 57
-Cost: 20
-Legs:
-  - Flight ID: FL53
-    Departure: 2025-01-22 13:00:00 from LAX
-    Arrival: 2025-01-22 20:00:00 in JFK
-  - Flight ID: FL23
-    Departure: 2025-01-23 07:00:00 from JFK
-    Arrival: 2025-01-23 10:00:00 in LAX
-========================================
-Trip ID: 58
-Cost: 20
-Legs:
-  - Flight ID: FL201
-    Departure: 2025-01-15 09:00:00 from LAS
-    Arrival: 2025-01-15 10:15:00 in SLC
-  - Flight ID: FL232
-    Departure: 2025-01-15 13:00:00 from SLC
-    Arrival: 2025-01-15 14:15:00 in LAS
-========================================
-Trip ID: 59
-Cost: 20
-Legs:
-  - Flight ID: FL115
-    Departure: 2025-01-22 14:00:00 from PHX
-    Arrival: 2025-01-22 15:30:00 in DEN
-  - Flight ID: FL85
-    Departure: 2025-01-23 08:00:00 from DEN
-    Arrival: 2025-01-23 09:30:00 in PHX
-========================================
-Trip ID: 60
-Cost: 20
-Legs:
-  - Flight ID: FL177
-    Departure: 2025-01-22 14:00:00 from DTW
-    Arrival: 2025-01-22 15:30:00 in CLT
-  - Flight ID: FL147
-    Departure: 2025-01-23 08:00:00 from CLT
-    Arrival: 2025-01-23 09:30:00 in DTW
-========================================
-Trip ID: 61
-Cost: 20
-Legs:
-  - Flight ID: FL54
-    Departure: 2025-01-23 13:00:00 from LAX
-    Arrival: 2025-01-23 20:00:00 in JFK
-  - Flight ID: FL24
-    Departure: 2025-01-24 07:00:00 from JFK
-    Arrival: 2025-01-24 10:00:00 in LAX
-========================================
-Trip ID: 62
-Cost: 20
-Legs:
-  - Flight ID: FL202
-    Departure: 2025-01-16 09:00:00 from LAS
-    Arrival: 2025-01-16 10:15:00 in SLC
-  - Flight ID: FL233
-    Departure: 2025-01-16 13:00:00 from SLC
-    Arrival: 2025-01-16 14:15:00 in LAS
-========================================
-Trip ID: 63
-Cost: 20
-Legs:
-  - Flight ID: FL116
-    Departure: 2025-01-23 14:00:00 from PHX
-    Arrival: 2025-01-23 15:30:00 in DEN
-  - Flight ID: FL86
-    Departure: 2025-01-24 08:00:00 from DEN
-    Arrival: 2025-01-24 09:30:00 in PHX
-========================================
-Trip ID: 64
-Cost: 20
-Legs:
-  - Flight ID: FL178
-    Departure: 2025-01-23 14:00:00 from DTW
-    Arrival: 2025-01-23 15:30:00 in CLT
-  - Flight ID: FL148
-    Departure: 2025-01-24 08:00:00 from CLT
-    Arrival: 2025-01-24 09:30:00 in DTW
-========================================
-Trip ID: 65
-Cost: 20
-Legs:
-  - Flight ID: FL56
-    Departure: 2025-01-25 13:00:00 from LAX
-    Arrival: 2025-01-25 20:00:00 in JFK
-  - Flight ID: FL26
-    Departure: 2025-01-26 07:00:00 from JFK
-    Arrival: 2025-01-26 10:00:00 in LAX
-========================================
-Trip ID: 66
-Cost: 20
-Legs:
-  - Flight ID: FL203
-    Departure: 2025-01-17 09:00:00 from LAS
-    Arrival: 2025-01-17 10:15:00 in SLC
-  - Flight ID: FL234
-    Departure: 2025-01-17 13:00:00 from SLC
-    Arrival: 2025-01-17 14:15:00 in LAS
-========================================
-Trip ID: 67
-Cost: 20
-Legs:
-  - Flight ID: FL118
-    Departure: 2025-01-25 14:00:00 from PHX
-    Arrival: 2025-01-25 15:30:00 in DEN
-  - Flight ID: FL88
-    Departure: 2025-01-26 08:00:00 from DEN
-    Arrival: 2025-01-26 09:30:00 in PHX
-========================================
-Trip ID: 68
-Cost: 20
-Legs:
-  - Flight ID: FL180
-    Departure: 2025-01-25 14:00:00 from DTW
-    Arrival: 2025-01-25 15:30:00 in CLT
-  - Flight ID: FL150
-    Departure: 2025-01-26 08:00:00 from CLT
-    Arrival: 2025-01-26 09:30:00 in DTW
-========================================
-Trip ID: 69
-Cost: 20
-Legs:
-  - Flight ID: FL57
-    Departure: 2025-01-26 13:00:00 from LAX
-    Arrival: 2025-01-26 20:00:00 in JFK
-  - Flight ID: FL27
-    Departure: 2025-01-27 07:00:00 from JFK
-    Arrival: 2025-01-27 10:00:00 in LAX
-========================================
-Trip ID: 70
-Cost: 20
-Legs:
-  - Flight ID: FL204
-    Departure: 2025-01-18 09:00:00 from LAS
-    Arrival: 2025-01-18 10:15:00 in SLC
-  - Flight ID: FL235
-    Departure: 2025-01-18 13:00:00 from SLC
-    Arrival: 2025-01-18 14:15:00 in LAS
-========================================
-Trip ID: 71
-Cost: 20
-Legs:
-  - Flight ID: FL119
-    Departure: 2025-01-26 14:00:00 from PHX
-    Arrival: 2025-01-26 15:30:00 in DEN
-  - Flight ID: FL89
-    Departure: 2025-01-27 08:00:00 from DEN
-    Arrival: 2025-01-27 09:30:00 in PHX
-========================================
-Trip ID: 72
-Cost: 20
-Legs:
-  - Flight ID: FL181
-    Departure: 2025-01-26 14:00:00 from DTW
-    Arrival: 2025-01-26 15:30:00 in CLT
-  - Flight ID: FL151
-    Departure: 2025-01-27 08:00:00 from CLT
-    Arrival: 2025-01-27 09:30:00 in DTW
-========================================
-Trip ID: 73
-Cost: 20
-Legs:
-  - Flight ID: FL59
-    Departure: 2025-01-28 13:00:00 from LAX
-    Arrival: 2025-01-28 20:00:00 in JFK
-  - Flight ID: FL29
-    Departure: 2025-01-29 07:00:00 from JFK
-    Arrival: 2025-01-29 10:00:00 in LAX
-========================================
-Trip ID: 74
-Cost: 20
-Legs:
-  - Flight ID: FL205
-    Departure: 2025-01-19 09:00:00 from LAS
-    Arrival: 2025-01-19 10:15:00 in SLC
-  - Flight ID: FL236
-    Departure: 2025-01-19 13:00:00 from SLC
-    Arrival: 2025-01-19 14:15:00 in LAS
-========================================
-Trip ID: 75
-Cost: 20
-Legs:
-  - Flight ID: FL121
-    Departure: 2025-01-28 14:00:00 from PHX
-    Arrival: 2025-01-28 15:30:00 in DEN
-  - Flight ID: FL91
-    Departure: 2025-01-29 08:00:00 from DEN
-    Arrival: 2025-01-29 09:30:00 in PHX
-========================================
-Trip ID: 76
-Cost: 20
-Legs:
-  - Flight ID: FL183
-    Departure: 2025-01-28 14:00:00 from DTW
-    Arrival: 2025-01-28 15:30:00 in CLT
-  - Flight ID: FL153
-    Departure: 2025-01-29 08:00:00 from CLT
-    Arrival: 2025-01-29 09:30:00 in DTW
-========================================
-Trip ID: 77
-Cost: 20
-Legs:
-  - Flight ID: FL60
-    Departure: 2025-01-29 13:00:00 from LAX
-    Arrival: 2025-01-29 20:00:00 in JFK
-  - Flight ID: FL30
-    Departure: 2025-01-30 07:00:00 from JFK
-    Arrival: 2025-01-30 10:00:00 in LAX
-========================================
-Trip ID: 78
-Cost: 20
-Legs:
-  - Flight ID: FL206
-    Departure: 2025-01-20 09:00:00 from LAS
-    Arrival: 2025-01-20 10:15:00 in SLC
-  - Flight ID: FL237
-    Departure: 2025-01-20 13:00:00 from SLC
-    Arrival: 2025-01-20 14:15:00 in LAS
-========================================
-Trip ID: 79
-Cost: 20
-Legs:
-  - Flight ID: FL122
-    Departure: 2025-01-29 14:00:00 from PHX
-    Arrival: 2025-01-29 15:30:00 in DEN
-  - Flight ID: FL92
-    Departure: 2025-01-30 08:00:00 from DEN
-    Arrival: 2025-01-30 09:30:00 in PHX
-========================================
-Trip ID: 80
-Cost: 20
-Legs:
-  - Flight ID: FL184
-    Departure: 2025-01-29 14:00:00 from DTW
-    Arrival: 2025-01-29 15:30:00 in CLT
-  - Flight ID: FL154
-    Departure: 2025-01-30 08:00:00 from CLT
-    Arrival: 2025-01-30 09:30:00 in DTW
-========================================
-Trip ID: 81
-Cost: 20
-Legs:
-  - Flight ID: FL31
-    Departure: 2025-01-31 07:00:00 from JFK
-    Arrival: 2025-01-31 10:00:00 in LAX
-  - Flight ID: FL62
-    Departure: 2025-01-31 13:00:00 from LAX
-    Arrival: 2025-01-31 20:00:00 in JFK
-========================================
-Trip ID: 82
-Cost: 20
-Legs:
-  - Flight ID: FL34
-    Departure: 2025-01-03 13:00:00 from LAX
-    Arrival: 2025-01-03 20:00:00 in JFK
-  - Flight ID: FL4
-    Departure: 2025-01-04 07:00:00 from JFK
-    Arrival: 2025-01-04 10:00:00 in LAX
-========================================
-Trip ID: 83
-Cost: 20
-Legs:
-  - Flight ID: FL155
-    Departure: 2025-01-31 08:00:00 from CLT
-    Arrival: 2025-01-31 09:30:00 in DTW
-  - Flight ID: FL186
-    Departure: 2025-01-31 14:00:00 from DTW
-    Arrival: 2025-01-31 15:30:00 in CLT
-========================================
-Trip ID: 84
-Cost: 20
-Legs:
-  - Flight ID: FL207
-    Departure: 2025-01-21 09:00:00 from LAS
-    Arrival: 2025-01-21 10:15:00 in SLC
-  - Flight ID: FL238
-    Departure: 2025-01-21 13:00:00 from SLC
-    Arrival: 2025-01-21 14:15:00 in LAS
-========================================
-Trip ID: 85
-Cost: 20
-Legs:
-  - Flight ID: FL93
-    Departure: 2025-01-31 08:00:00 from DEN
-    Arrival: 2025-01-31 09:30:00 in PHX
-  - Flight ID: FL124
-    Departure: 2025-01-31 14:00:00 from PHX
-    Arrival: 2025-01-31 15:30:00 in DEN
-========================================
-Trip ID: 86
-Cost: 20
-Legs:
-  - Flight ID: FL96
-    Departure: 2025-01-03 14:00:00 from PHX
-    Arrival: 2025-01-03 15:30:00 in DEN
-  - Flight ID: FL66
-    Departure: 2025-01-04 08:00:00 from DEN
-    Arrival: 2025-01-04 09:30:00 in PHX
-========================================
-Trip ID: 87
-Cost: 20
-Legs:
-  - Flight ID: FL158
-    Departure: 2025-01-03 14:00:00 from DTW
-    Arrival: 2025-01-03 15:30:00 in CLT
-  - Flight ID: FL128
-    Departure: 2025-01-04 08:00:00 from CLT
-    Arrival: 2025-01-04 09:30:00 in DTW
-========================================
-Trip ID: 88
-Cost: 20
-Legs:
-  - Flight ID: FL37
-    Departure: 2025-01-06 13:00:00 from LAX
-    Arrival: 2025-01-06 20:00:00 in JFK
-  - Flight ID: FL7
-    Departure: 2025-01-07 07:00:00 from JFK
-    Arrival: 2025-01-07 10:00:00 in LAX
-========================================
-Trip ID: 89
-Cost: 20
-Legs:
-  - Flight ID: FL208
-    Departure: 2025-01-22 09:00:00 from LAS
-    Arrival: 2025-01-22 10:15:00 in SLC
-  - Flight ID: FL239
-    Departure: 2025-01-22 13:00:00 from SLC
-    Arrival: 2025-01-22 14:15:00 in LAS
-========================================
-Trip ID: 90
-Cost: 20
-Legs:
-  - Flight ID: FL99
-    Departure: 2025-01-06 14:00:00 from PHX
-    Arrival: 2025-01-06 15:30:00 in DEN
-  - Flight ID: FL69
-    Departure: 2025-01-07 08:00:00 from DEN
-    Arrival: 2025-01-07 09:30:00 in PHX
-========================================
-Trip ID: 91
-Cost: 20
-Legs:
-  - Flight ID: FL161
-    Departure: 2025-01-06 14:00:00 from DTW
-    Arrival: 2025-01-06 15:30:00 in CLT
-  - Flight ID: FL131
-    Departure: 2025-01-07 08:00:00 from CLT
-    Arrival: 2025-01-07 09:30:00 in DTW
-========================================
-Trip ID: 92
-Cost: 20
+Cost: 1010.0
 Legs:
   - Flight ID: FL40
     Departure: 2025-01-09 13:00:00 from LAX
     Arrival: 2025-01-09 20:00:00 in JFK
-  - Flight ID: FL10
+  - Flight ID: FL10_DH
     Departure: 2025-01-10 07:00:00 from JFK
     Arrival: 2025-01-10 10:00:00 in LAX
 ========================================
-Trip ID: 93
-Cost: 20
+Trip ID: 31
+Cost: 1010.0
 Legs:
-  - Flight ID: FL209
-    Departure: 2025-01-23 09:00:00 from LAS
-    Arrival: 2025-01-23 10:15:00 in SLC
-  - Flight ID: FL240
-    Departure: 2025-01-23 13:00:00 from SLC
-    Arrival: 2025-01-23 14:15:00 in LAS
+  - Flight ID: FL10
+    Departure: 2025-01-10 07:00:00 from JFK
+    Arrival: 2025-01-10 10:00:00 in LAX
+  - Flight ID: FL41_DH
+    Departure: 2025-01-10 13:00:00 from LAX
+    Arrival: 2025-01-10 20:00:00 in JFK
 ========================================
-Trip ID: 94
-Cost: 20
-Legs:
-  - Flight ID: FL102
-    Departure: 2025-01-09 14:00:00 from PHX
-    Arrival: 2025-01-09 15:30:00 in DEN
-  - Flight ID: FL72
-    Departure: 2025-01-10 08:00:00 from DEN
-    Arrival: 2025-01-10 09:30:00 in PHX
-========================================
-Trip ID: 95
-Cost: 20
+Trip ID: 32
+Cost: 1010.0
 Legs:
   - Flight ID: FL164
     Departure: 2025-01-09 14:00:00 from DTW
     Arrival: 2025-01-09 15:30:00 in CLT
-  - Flight ID: FL134
+  - Flight ID: FL134_DH
     Departure: 2025-01-10 08:00:00 from CLT
     Arrival: 2025-01-10 09:30:00 in DTW
 ========================================
-Trip ID: 96
-Cost: 20
+Trip ID: 33
+Cost: 1010.0
 Legs:
-  - Flight ID: FL46
-    Departure: 2025-01-15 13:00:00 from LAX
-    Arrival: 2025-01-15 20:00:00 in JFK
-  - Flight ID: FL16
-    Departure: 2025-01-16 07:00:00 from JFK
-    Arrival: 2025-01-16 10:00:00 in LAX
+  - Flight ID: FL72
+    Departure: 2025-01-10 08:00:00 from DEN
+    Arrival: 2025-01-10 09:30:00 in PHX
+  - Flight ID: FL103_DH
+    Departure: 2025-01-10 14:00:00 from PHX
+    Arrival: 2025-01-10 15:30:00 in DEN
 ========================================
-Trip ID: 97
-Cost: 20
+Trip ID: 34
+Cost: 1010.0
 Legs:
-  - Flight ID: FL210
-    Departure: 2025-01-24 09:00:00 from LAS
-    Arrival: 2025-01-24 10:15:00 in SLC
-  - Flight ID: FL241
-    Departure: 2025-01-24 13:00:00 from SLC
-    Arrival: 2025-01-24 14:15:00 in LAS
+  - Flight ID: FL102
+    Departure: 2025-01-09 14:00:00 from PHX
+    Arrival: 2025-01-09 15:30:00 in DEN
+  - Flight ID: FL72_DH
+    Departure: 2025-01-10 08:00:00 from DEN
+    Arrival: 2025-01-10 09:30:00 in PHX
 ========================================
-Trip ID: 98
-Cost: 20
+Trip ID: 35
+Cost: 1010.0
 Legs:
-  - Flight ID: FL108
-    Departure: 2025-01-15 14:00:00 from PHX
-    Arrival: 2025-01-15 15:30:00 in DEN
-  - Flight ID: FL78
-    Departure: 2025-01-16 08:00:00 from DEN
-    Arrival: 2025-01-16 09:30:00 in PHX
+  - Flight ID: FL194
+    Departure: 2025-01-08 09:00:00 from LAS
+    Arrival: 2025-01-08 10:15:00 in SLC
+  - Flight ID: FL225_DH
+    Departure: 2025-01-08 13:00:00 from SLC
+    Arrival: 2025-01-08 14:15:00 in LAS
 ========================================
-Trip ID: 99
-Cost: 20
+Trip ID: 36
+Cost: 1010.0
 Legs:
-  - Flight ID: FL170
-    Departure: 2025-01-15 14:00:00 from DTW
-    Arrival: 2025-01-15 15:30:00 in CLT
-  - Flight ID: FL140
-    Departure: 2025-01-16 08:00:00 from CLT
-    Arrival: 2025-01-16 09:30:00 in DTW
+  - Flight ID: FL135
+    Departure: 2025-01-11 08:00:00 from CLT
+    Arrival: 2025-01-11 09:30:00 in DTW
+  - Flight ID: FL166_DH
+    Departure: 2025-01-11 14:00:00 from DTW
+    Arrival: 2025-01-11 15:30:00 in CLT
 ========================================
-Trip ID: 100
-Cost: 20
+Trip ID: 37
+Cost: 1010.0
 Legs:
-  - Flight ID: FL49
-    Departure: 2025-01-18 13:00:00 from LAX
-    Arrival: 2025-01-18 20:00:00 in JFK
-  - Flight ID: FL19
-    Departure: 2025-01-19 07:00:00 from JFK
-    Arrival: 2025-01-19 10:00:00 in LAX
+  - Flight ID: FL41
+    Departure: 2025-01-10 13:00:00 from LAX
+    Arrival: 2025-01-10 20:00:00 in JFK
+  - Flight ID: FL11_DH
+    Departure: 2025-01-11 07:00:00 from JFK
+    Arrival: 2025-01-11 10:00:00 in LAX
 ========================================
-Trip ID: 101
-Cost: 20
+Trip ID: 38
+Cost: 1010.0
 Legs:
-  - Flight ID: FL211
-    Departure: 2025-01-25 09:00:00 from LAS
-    Arrival: 2025-01-25 10:15:00 in SLC
-  - Flight ID: FL242
-    Departure: 2025-01-25 13:00:00 from SLC
-    Arrival: 2025-01-25 14:15:00 in LAS
+  - Flight ID: FL11
+    Departure: 2025-01-11 07:00:00 from JFK
+    Arrival: 2025-01-11 10:00:00 in LAX
+  - Flight ID: FL42_DH
+    Departure: 2025-01-11 13:00:00 from LAX
+    Arrival: 2025-01-11 20:00:00 in JFK
 ========================================
-Trip ID: 102
-Cost: 20
+Trip ID: 39
+Cost: 1010.0
 Legs:
-  - Flight ID: FL111
-    Departure: 2025-01-18 14:00:00 from PHX
-    Arrival: 2025-01-18 15:30:00 in DEN
-  - Flight ID: FL81
-    Departure: 2025-01-19 08:00:00 from DEN
-    Arrival: 2025-01-19 09:30:00 in PHX
+  - Flight ID: FL165
+    Departure: 2025-01-10 14:00:00 from DTW
+    Arrival: 2025-01-10 15:30:00 in CLT
+  - Flight ID: FL135_DH
+    Departure: 2025-01-11 08:00:00 from CLT
+    Arrival: 2025-01-11 09:30:00 in DTW
 ========================================
-Trip ID: 103
-Cost: 20
+Trip ID: 40
+Cost: 1010.0
 Legs:
-  - Flight ID: FL173
-    Departure: 2025-01-18 14:00:00 from DTW
-    Arrival: 2025-01-18 15:30:00 in CLT
-  - Flight ID: FL143
-    Departure: 2025-01-19 08:00:00 from CLT
-    Arrival: 2025-01-19 09:30:00 in DTW
+  - Flight ID: FL73
+    Departure: 2025-01-11 08:00:00 from DEN
+    Arrival: 2025-01-11 09:30:00 in PHX
+  - Flight ID: FL104_DH
+    Departure: 2025-01-11 14:00:00 from PHX
+    Arrival: 2025-01-11 15:30:00 in DEN
 ========================================
-Trip ID: 104
-Cost: 20
+Trip ID: 41
+Cost: 1010.0
 Legs:
-  - Flight ID: FL55
-    Departure: 2025-01-24 13:00:00 from LAX
-    Arrival: 2025-01-24 20:00:00 in JFK
-  - Flight ID: FL25
-    Departure: 2025-01-25 07:00:00 from JFK
-    Arrival: 2025-01-25 10:00:00 in LAX
+  - Flight ID: FL103
+    Departure: 2025-01-10 14:00:00 from PHX
+    Arrival: 2025-01-10 15:30:00 in DEN
+  - Flight ID: FL73_DH
+    Departure: 2025-01-11 08:00:00 from DEN
+    Arrival: 2025-01-11 09:30:00 in PHX
 ========================================
-Trip ID: 105
-Cost: 20
+Trip ID: 42
+Cost: 1010.0
 Legs:
-  - Flight ID: FL212
-    Departure: 2025-01-26 09:00:00 from LAS
-    Arrival: 2025-01-26 10:15:00 in SLC
-  - Flight ID: FL243
-    Departure: 2025-01-26 13:00:00 from SLC
-    Arrival: 2025-01-26 14:15:00 in LAS
+  - Flight ID: FL195
+    Departure: 2025-01-09 09:00:00 from LAS
+    Arrival: 2025-01-09 10:15:00 in SLC
+  - Flight ID: FL226_DH
+    Departure: 2025-01-09 13:00:00 from SLC
+    Arrival: 2025-01-09 14:15:00 in LAS
 ========================================
-Trip ID: 106
-Cost: 20
+Trip ID: 43
+Cost: 1010.0
 Legs:
-  - Flight ID: FL117
-    Departure: 2025-01-24 14:00:00 from PHX
-    Arrival: 2025-01-24 15:30:00 in DEN
-  - Flight ID: FL87
-    Departure: 2025-01-25 08:00:00 from DEN
-    Arrival: 2025-01-25 09:30:00 in PHX
+  - Flight ID: FL136
+    Departure: 2025-01-12 08:00:00 from CLT
+    Arrival: 2025-01-12 09:30:00 in DTW
+  - Flight ID: FL167_DH
+    Departure: 2025-01-12 14:00:00 from DTW
+    Arrival: 2025-01-12 15:30:00 in CLT
 ========================================
-Trip ID: 107
-Cost: 20
+Trip ID: 44
+Cost: 1010.0
 Legs:
-  - Flight ID: FL179
-    Departure: 2025-01-24 14:00:00 from DTW
-    Arrival: 2025-01-24 15:30:00 in CLT
-  - Flight ID: FL149
-    Departure: 2025-01-25 08:00:00 from CLT
-    Arrival: 2025-01-25 09:30:00 in DTW
+  - Flight ID: FL42
+    Departure: 2025-01-11 13:00:00 from LAX
+    Arrival: 2025-01-11 20:00:00 in JFK
+  - Flight ID: FL12_DH
+    Departure: 2025-01-12 07:00:00 from JFK
+    Arrival: 2025-01-12 10:00:00 in LAX
 ========================================
-Trip ID: 108
-Cost: 20
+Trip ID: 45
+Cost: 1010.0
 Legs:
-  - Flight ID: FL58
-    Departure: 2025-01-27 13:00:00 from LAX
-    Arrival: 2025-01-27 20:00:00 in JFK
-  - Flight ID: FL28
-    Departure: 2025-01-28 07:00:00 from JFK
-    Arrival: 2025-01-28 10:00:00 in LAX
+  - Flight ID: FL12
+    Departure: 2025-01-12 07:00:00 from JFK
+    Arrival: 2025-01-12 10:00:00 in LAX
+  - Flight ID: FL43_DH
+    Departure: 2025-01-12 13:00:00 from LAX
+    Arrival: 2025-01-12 20:00:00 in JFK
 ========================================
-Trip ID: 109
-Cost: 20
+Trip ID: 46
+Cost: 1010.0
 Legs:
-  - Flight ID: FL213
-    Departure: 2025-01-27 09:00:00 from LAS
-    Arrival: 2025-01-27 10:15:00 in SLC
-  - Flight ID: FL244
-    Departure: 2025-01-27 13:00:00 from SLC
-    Arrival: 2025-01-27 14:15:00 in LAS
+  - Flight ID: FL166
+    Departure: 2025-01-11 14:00:00 from DTW
+    Arrival: 2025-01-11 15:30:00 in CLT
+  - Flight ID: FL136_DH
+    Departure: 2025-01-12 08:00:00 from CLT
+    Arrival: 2025-01-12 09:30:00 in DTW
 ========================================
-Trip ID: 110
-Cost: 20
+Trip ID: 47
+Cost: 1010.0
 Legs:
-  - Flight ID: FL120
-    Departure: 2025-01-27 14:00:00 from PHX
-    Arrival: 2025-01-27 15:30:00 in DEN
-  - Flight ID: FL90
-    Departure: 2025-01-28 08:00:00 from DEN
-    Arrival: 2025-01-28 09:30:00 in PHX
+  - Flight ID: FL74
+    Departure: 2025-01-12 08:00:00 from DEN
+    Arrival: 2025-01-12 09:30:00 in PHX
+  - Flight ID: FL105_DH
+    Departure: 2025-01-12 14:00:00 from PHX
+    Arrival: 2025-01-12 15:30:00 in DEN
 ========================================
-Trip ID: 111
-Cost: 20
+Trip ID: 48
+Cost: 1010.0
 Legs:
-  - Flight ID: FL182
-    Departure: 2025-01-27 14:00:00 from DTW
-    Arrival: 2025-01-27 15:30:00 in CLT
-  - Flight ID: FL152
-    Departure: 2025-01-28 08:00:00 from CLT
-    Arrival: 2025-01-28 09:30:00 in DTW
+  - Flight ID: FL104
+    Departure: 2025-01-11 14:00:00 from PHX
+    Arrival: 2025-01-11 15:30:00 in DEN
+  - Flight ID: FL74_DH
+    Departure: 2025-01-12 08:00:00 from DEN
+    Arrival: 2025-01-12 09:30:00 in PHX
 ========================================
-Trip ID: 112
-Cost: 20
+Trip ID: 49
+Cost: 1010.0
+Legs:
+  - Flight ID: FL196
+    Departure: 2025-01-10 09:00:00 from LAS
+    Arrival: 2025-01-10 10:15:00 in SLC
+  - Flight ID: FL227_DH
+    Departure: 2025-01-10 13:00:00 from SLC
+    Arrival: 2025-01-10 14:15:00 in LAS
+========================================
+Trip ID: 50
+Cost: 1010.0
+Legs:
+  - Flight ID: FL137
+    Departure: 2025-01-13 08:00:00 from CLT
+    Arrival: 2025-01-13 09:30:00 in DTW
+  - Flight ID: FL168_DH
+    Departure: 2025-01-13 14:00:00 from DTW
+    Arrival: 2025-01-13 15:30:00 in CLT
+========================================
+Trip ID: 51
+Cost: 1010.0
 Legs:
   - Flight ID: FL43
     Departure: 2025-01-12 13:00:00 from LAX
     Arrival: 2025-01-12 20:00:00 in JFK
-  - Flight ID: FL13
+  - Flight ID: FL13_DH
     Departure: 2025-01-13 07:00:00 from JFK
     Arrival: 2025-01-13 10:00:00 in LAX
 ========================================
-Trip ID: 113
-Cost: 20
+Trip ID: 52
+Cost: 1010.0
 Legs:
-  - Flight ID: FL214
-    Departure: 2025-01-28 09:00:00 from LAS
-    Arrival: 2025-01-28 10:15:00 in SLC
-  - Flight ID: FL245
-    Departure: 2025-01-28 13:00:00 from SLC
-    Arrival: 2025-01-28 14:15:00 in LAS
+  - Flight ID: FL13
+    Departure: 2025-01-13 07:00:00 from JFK
+    Arrival: 2025-01-13 10:00:00 in LAX
+  - Flight ID: FL44_DH
+    Departure: 2025-01-13 13:00:00 from LAX
+    Arrival: 2025-01-13 20:00:00 in JFK
 ========================================
-Trip ID: 114
-Cost: 20
-Legs:
-  - Flight ID: FL105
-    Departure: 2025-01-12 14:00:00 from PHX
-    Arrival: 2025-01-12 15:30:00 in DEN
-  - Flight ID: FL75
-    Departure: 2025-01-13 08:00:00 from DEN
-    Arrival: 2025-01-13 09:30:00 in PHX
-========================================
-Trip ID: 115
-Cost: 20
+Trip ID: 53
+Cost: 1010.0
 Legs:
   - Flight ID: FL167
     Departure: 2025-01-12 14:00:00 from DTW
     Arrival: 2025-01-12 15:30:00 in CLT
-  - Flight ID: FL137
+  - Flight ID: FL137_DH
     Departure: 2025-01-13 08:00:00 from CLT
     Arrival: 2025-01-13 09:30:00 in DTW
 ========================================
-Trip ID: 116
-Cost: 20
-Legs:
-  - Flight ID: FL52
-    Departure: 2025-01-21 13:00:00 from LAX
-    Arrival: 2025-01-21 20:00:00 in JFK
-  - Flight ID: FL22
-    Departure: 2025-01-22 07:00:00 from JFK
-    Arrival: 2025-01-22 10:00:00 in LAX
-========================================
-Trip ID: 117
-Cost: 20
-Legs:
-  - Flight ID: FL215
-    Departure: 2025-01-29 09:00:00 from LAS
-    Arrival: 2025-01-29 10:15:00 in SLC
-  - Flight ID: FL246
-    Departure: 2025-01-29 13:00:00 from SLC
-    Arrival: 2025-01-29 14:15:00 in LAS
-========================================
-Trip ID: 118
-Cost: 20
-Legs:
-  - Flight ID: FL114
-    Departure: 2025-01-21 14:00:00 from PHX
-    Arrival: 2025-01-21 15:30:00 in DEN
-  - Flight ID: FL84
-    Departure: 2025-01-22 08:00:00 from DEN
-    Arrival: 2025-01-22 09:30:00 in PHX
-========================================
-Trip ID: 119
-Cost: 20
-Legs:
-  - Flight ID: FL176
-    Departure: 2025-01-21 14:00:00 from DTW
-    Arrival: 2025-01-21 15:30:00 in CLT
-  - Flight ID: FL146
-    Departure: 2025-01-22 08:00:00 from CLT
-    Arrival: 2025-01-22 09:30:00 in DTW
-========================================
-Trip ID: 120
-Cost: 20
-Legs:
-  - Flight ID: FL216
-    Departure: 2025-01-30 09:00:00 from LAS
-    Arrival: 2025-01-30 10:15:00 in SLC
-  - Flight ID: FL247
-    Departure: 2025-01-30 13:00:00 from SLC
-    Arrival: 2025-01-30 14:15:00 in LAS
-========================================
-Trip ID: 121
-Cost: 20
-Legs:
-  - Flight ID: FL217
-    Departure: 2025-01-31 09:00:00 from LAS
-    Arrival: 2025-01-31 10:15:00 in SLC
-  - Flight ID: FL248
-    Departure: 2025-01-31 13:00:00 from SLC
-    Arrival: 2025-01-31 14:15:00 in LAS
-========================================
-Trip ID: 122
+Trip ID: 54
 Cost: 1010.0
 Legs:
-  - Flight ID: FL1
-    Departure: 2025-01-01 07:00:00 from JFK
-    Arrival: 2025-01-01 10:00:00 in LAX
-  - Flight ID: FL32_DH
-    Departure: 2025-01-01 13:00:00 from LAX
-    Arrival: 2025-01-01 20:00:00 in JFK
+  - Flight ID: FL75
+    Departure: 2025-01-13 08:00:00 from DEN
+    Arrival: 2025-01-13 09:30:00 in PHX
+  - Flight ID: FL106_DH
+    Departure: 2025-01-13 14:00:00 from PHX
+    Arrival: 2025-01-13 15:30:00 in DEN
 ========================================
-Trip ID: 123
+Trip ID: 55
 Cost: 1010.0
 Legs:
-  - Flight ID: FL61
-    Departure: 2025-01-30 13:00:00 from LAX
-    Arrival: 2025-01-30 20:00:00 in JFK
-  - Flight ID: FL31_DH
-    Departure: 2025-01-31 07:00:00 from JFK
-    Arrival: 2025-01-31 10:00:00 in LAX
-========================================
-Trip ID: 124
-Cost: 1010.0
-Legs:
-  - Flight ID: FL125
-    Departure: 2025-01-01 08:00:00 from CLT
-    Arrival: 2025-01-01 09:30:00 in DTW
-  - Flight ID: FL156_DH
-    Departure: 2025-01-01 14:00:00 from DTW
-    Arrival: 2025-01-01 15:30:00 in CLT
-========================================
-Trip ID: 125
-Cost: 1010.0
-Legs:
-  - Flight ID: FL63
-    Departure: 2025-01-01 08:00:00 from DEN
-    Arrival: 2025-01-01 09:30:00 in PHX
-  - Flight ID: FL94_DH
-    Departure: 2025-01-01 14:00:00 from PHX
-    Arrival: 2025-01-01 15:30:00 in DEN
-========================================
-Trip ID: 126
-Cost: 1010.0
-Legs:
-  - Flight ID: FL123
-    Departure: 2025-01-30 14:00:00 from PHX
-    Arrival: 2025-01-30 15:30:00 in DEN
-  - Flight ID: FL93_DH
-    Departure: 2025-01-31 08:00:00 from DEN
-    Arrival: 2025-01-31 09:30:00 in PHX
-========================================
-Trip ID: 127
-Cost: 1010.0
-Legs:
-  - Flight ID: FL185
-    Departure: 2025-01-30 14:00:00 from DTW
-    Arrival: 2025-01-30 15:30:00 in CLT
-  - Flight ID: FL155_DH
-    Departure: 2025-01-31 08:00:00 from CLT
-    Arrival: 2025-01-31 09:30:00 in DTW
+  - Flight ID: FL105
+    Departure: 2025-01-12 14:00:00 from PHX
+    Arrival: 2025-01-12 15:30:00 in DEN
+  - Flight ID: FL75_DH
+    Departure: 2025-01-13 08:00:00 from DEN
+    Arrival: 2025-01-13 09:30:00 in PHX
 ========================================

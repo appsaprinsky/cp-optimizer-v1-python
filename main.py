@@ -140,8 +140,21 @@ def write_timetable_to_file(Globe_solution, output_file_path):
 
     print(f"Timetable written to {output_file_path}")
 
+def write_timetable_to_file_AA_format(Globe_solution, AIRCRAFT_SLICES, output_file_path):
+    with open(output_file_path, 'w') as file:
+        complement = ' '.join(map(str, AIRCRAFT_SLICES))
+        for trip in Globe_solution:
+            first_trip = trip.legs[0].departure_time.strftime('%d%m%Y')
+            for leg in trip.legs:
+                dhi = 'Y' if leg.flight_id[-2:]== 'DH' else 'N'
+                file.write(f"С    {first_trip}{leg.departure_time.strftime('%d%m%Y')}AA  127  {leg.departure_city} {leg.arrival_city} {leg.departure_time.strftime('%H%M')}{leg.arrival_time.strftime('%H%M')}{dhi}0  0  0 0 0 0 {complement} 0 0 0 0 0 0 0 0 0 0 0\n")
+                # file.write(f"{leg.departure_city},{leg.arrival_city},{leg.departure_time},{leg.arrival_time},{leg.flight_id},{leg.aircraft}\n")
+
+    print(f"Timetable written to {output_file_path}")
+
+
 def solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution, forDH=False):
-    max_iterations = 50
+    max_iterations = 5
     tolerance = 1e-6
     iteration = 0
 
@@ -243,7 +256,7 @@ def main():
         Globe_iter = 0
         Globe_solution = []
         rest_of_trips = []
-        while len(monitor1) > 0 or Globe_iter < 50:
+        while len(monitor1) > 0 or Globe_iter < 5:
             Globe_iter += 1
 
             global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution)
@@ -265,7 +278,7 @@ def main():
         monitor1, _ = find_trips_with_UDH(global_solution_trip)
         Globe_iter = 0
         rest_of_trips = []
-        while len(monitor1) > 0 or Globe_iter < 50:
+        while len(monitor1) > 0 or Globe_iter < 5:
             Globe_iter += 1
 
             global_solution_trip, rmp = solve_Column_Generation(airline_flights, rmp, pc, global_solution_trip, airline_flights_copy, Globe_solution, forDH=True)
@@ -282,6 +295,7 @@ def main():
         write_timetable_to_file(Globe_solution, f'output_py/CC_timetable_{boe}.txt')
         if len(rest_of_trips)>0:
             write_timetable_to_file(rest_of_trips, f'output_py/CC_timetable_UNCOVERED_{boe}.txt')
+            write_timetable_to_file_AA_format(Globe_solution, AIRCRAFT_SLICES[boe], f'output_aa/CC_timetable_{boe}.txt')
 
 
 

@@ -1,0 +1,5293 @@
+Timetable of Solutions:
+Length:529
+========================================
+Trip ID: 1
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL14
+    Departure: 2025-01-14 07:00:00 from JFK
+    Arrival: 2025-01-14 10:00:00 in LAX
+  - Flight ID: FL14_UDH
+    Departure: 2025-01-14 15:00:00 from LAX
+    Arrival: 2025-01-14 18:00:00 in JFK
+========================================
+Trip ID: 2
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL15
+    Departure: 2025-01-15 07:00:00 from JFK
+    Arrival: 2025-01-15 10:00:00 in LAX
+  - Flight ID: FL15_UDH
+    Departure: 2025-01-15 15:00:00 from LAX
+    Arrival: 2025-01-15 18:00:00 in JFK
+========================================
+Trip ID: 3
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL16
+    Departure: 2025-01-16 07:00:00 from JFK
+    Arrival: 2025-01-16 10:00:00 in LAX
+  - Flight ID: FL16_UDH
+    Departure: 2025-01-16 15:00:00 from LAX
+    Arrival: 2025-01-16 18:00:00 in JFK
+========================================
+Trip ID: 4
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL17
+    Departure: 2025-01-17 07:00:00 from JFK
+    Arrival: 2025-01-17 10:00:00 in LAX
+  - Flight ID: FL17_UDH
+    Departure: 2025-01-17 15:00:00 from LAX
+    Arrival: 2025-01-17 18:00:00 in JFK
+========================================
+Trip ID: 5
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL18
+    Departure: 2025-01-18 07:00:00 from JFK
+    Arrival: 2025-01-18 10:00:00 in LAX
+  - Flight ID: FL18_UDH
+    Departure: 2025-01-18 15:00:00 from LAX
+    Arrival: 2025-01-18 18:00:00 in JFK
+========================================
+Trip ID: 6
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL19
+    Departure: 2025-01-19 07:00:00 from JFK
+    Arrival: 2025-01-19 10:00:00 in LAX
+  - Flight ID: FL19_UDH
+    Departure: 2025-01-19 15:00:00 from LAX
+    Arrival: 2025-01-19 18:00:00 in JFK
+========================================
+Trip ID: 7
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL20
+    Departure: 2025-01-20 07:00:00 from JFK
+    Arrival: 2025-01-20 10:00:00 in LAX
+  - Flight ID: FL20_UDH
+    Departure: 2025-01-20 15:00:00 from LAX
+    Arrival: 2025-01-20 18:00:00 in JFK
+========================================
+Trip ID: 8
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL21
+    Departure: 2025-01-21 07:00:00 from JFK
+    Arrival: 2025-01-21 10:00:00 in LAX
+  - Flight ID: FL21_UDH
+    Departure: 2025-01-21 15:00:00 from LAX
+    Arrival: 2025-01-21 18:00:00 in JFK
+========================================
+Trip ID: 9
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL22
+    Departure: 2025-01-22 07:00:00 from JFK
+    Arrival: 2025-01-22 10:00:00 in LAX
+  - Flight ID: FL22_UDH
+    Departure: 2025-01-22 15:00:00 from LAX
+    Arrival: 2025-01-22 18:00:00 in JFK
+========================================
+Trip ID: 10
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL23
+    Departure: 2025-01-23 07:00:00 from JFK
+    Arrival: 2025-01-23 10:00:00 in LAX
+  - Flight ID: FL23_UDH
+    Departure: 2025-01-23 15:00:00 from LAX
+    Arrival: 2025-01-23 18:00:00 in JFK
+========================================
+Trip ID: 11
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL24
+    Departure: 2025-01-24 07:00:00 from JFK
+    Arrival: 2025-01-24 10:00:00 in LAX
+  - Flight ID: FL24_UDH
+    Departure: 2025-01-24 15:00:00 from LAX
+    Arrival: 2025-01-24 18:00:00 in JFK
+========================================
+Trip ID: 12
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL25
+    Departure: 2025-01-25 07:00:00 from JFK
+    Arrival: 2025-01-25 10:00:00 in LAX
+  - Flight ID: FL25_UDH
+    Departure: 2025-01-25 15:00:00 from LAX
+    Arrival: 2025-01-25 18:00:00 in JFK
+========================================
+Trip ID: 13
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL26
+    Departure: 2025-01-26 07:00:00 from JFK
+    Arrival: 2025-01-26 10:00:00 in LAX
+  - Flight ID: FL26_UDH
+    Departure: 2025-01-26 15:00:00 from LAX
+    Arrival: 2025-01-26 18:00:00 in JFK
+========================================
+Trip ID: 14
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL27
+    Departure: 2025-01-27 07:00:00 from JFK
+    Arrival: 2025-01-27 10:00:00 in LAX
+  - Flight ID: FL27_UDH
+    Departure: 2025-01-27 15:00:00 from LAX
+    Arrival: 2025-01-27 18:00:00 in JFK
+========================================
+Trip ID: 15
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL28
+    Departure: 2025-01-28 07:00:00 from JFK
+    Arrival: 2025-01-28 10:00:00 in LAX
+  - Flight ID: FL28_UDH
+    Departure: 2025-01-28 15:00:00 from LAX
+    Arrival: 2025-01-28 18:00:00 in JFK
+========================================
+Trip ID: 16
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL29
+    Departure: 2025-01-29 07:00:00 from JFK
+    Arrival: 2025-01-29 10:00:00 in LAX
+  - Flight ID: FL29_UDH
+    Departure: 2025-01-29 15:00:00 from LAX
+    Arrival: 2025-01-29 18:00:00 in JFK
+========================================
+Trip ID: 17
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL30
+    Departure: 2025-01-30 07:00:00 from JFK
+    Arrival: 2025-01-30 10:00:00 in LAX
+  - Flight ID: FL30_UDH
+    Departure: 2025-01-30 15:00:00 from LAX
+    Arrival: 2025-01-30 18:00:00 in JFK
+========================================
+Trip ID: 18
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL31
+    Departure: 2025-01-31 07:00:00 from JFK
+    Arrival: 2025-01-31 10:00:00 in LAX
+  - Flight ID: FL31_UDH
+    Departure: 2025-01-31 15:00:00 from LAX
+    Arrival: 2025-01-31 18:00:00 in JFK
+========================================
+Trip ID: 19
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL44
+    Departure: 2025-01-13 13:00:00 from LAX
+    Arrival: 2025-01-13 20:00:00 in JFK
+  - Flight ID: FL44_UDH
+    Departure: 2025-01-14 01:00:00 from JFK
+    Arrival: 2025-01-14 08:00:00 in LAX
+========================================
+Trip ID: 20
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL45
+    Departure: 2025-01-14 13:00:00 from LAX
+    Arrival: 2025-01-14 20:00:00 in JFK
+  - Flight ID: FL45_UDH
+    Departure: 2025-01-15 01:00:00 from JFK
+    Arrival: 2025-01-15 08:00:00 in LAX
+========================================
+Trip ID: 21
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL46
+    Departure: 2025-01-15 13:00:00 from LAX
+    Arrival: 2025-01-15 20:00:00 in JFK
+  - Flight ID: FL46_UDH
+    Departure: 2025-01-16 01:00:00 from JFK
+    Arrival: 2025-01-16 08:00:00 in LAX
+========================================
+Trip ID: 22
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL47
+    Departure: 2025-01-16 13:00:00 from LAX
+    Arrival: 2025-01-16 20:00:00 in JFK
+  - Flight ID: FL47_UDH
+    Departure: 2025-01-17 01:00:00 from JFK
+    Arrival: 2025-01-17 08:00:00 in LAX
+========================================
+Trip ID: 23
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL48
+    Departure: 2025-01-17 13:00:00 from LAX
+    Arrival: 2025-01-17 20:00:00 in JFK
+  - Flight ID: FL48_UDH
+    Departure: 2025-01-18 01:00:00 from JFK
+    Arrival: 2025-01-18 08:00:00 in LAX
+========================================
+Trip ID: 24
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL49
+    Departure: 2025-01-18 13:00:00 from LAX
+    Arrival: 2025-01-18 20:00:00 in JFK
+  - Flight ID: FL49_UDH
+    Departure: 2025-01-19 01:00:00 from JFK
+    Arrival: 2025-01-19 08:00:00 in LAX
+========================================
+Trip ID: 25
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL50
+    Departure: 2025-01-19 13:00:00 from LAX
+    Arrival: 2025-01-19 20:00:00 in JFK
+  - Flight ID: FL50_UDH
+    Departure: 2025-01-20 01:00:00 from JFK
+    Arrival: 2025-01-20 08:00:00 in LAX
+========================================
+Trip ID: 26
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL51
+    Departure: 2025-01-20 13:00:00 from LAX
+    Arrival: 2025-01-20 20:00:00 in JFK
+  - Flight ID: FL51_UDH
+    Departure: 2025-01-21 01:00:00 from JFK
+    Arrival: 2025-01-21 08:00:00 in LAX
+========================================
+Trip ID: 27
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL52
+    Departure: 2025-01-21 13:00:00 from LAX
+    Arrival: 2025-01-21 20:00:00 in JFK
+  - Flight ID: FL52_UDH
+    Departure: 2025-01-22 01:00:00 from JFK
+    Arrival: 2025-01-22 08:00:00 in LAX
+========================================
+Trip ID: 28
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL53
+    Departure: 2025-01-22 13:00:00 from LAX
+    Arrival: 2025-01-22 20:00:00 in JFK
+  - Flight ID: FL53_UDH
+    Departure: 2025-01-23 01:00:00 from JFK
+    Arrival: 2025-01-23 08:00:00 in LAX
+========================================
+Trip ID: 29
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL54
+    Departure: 2025-01-23 13:00:00 from LAX
+    Arrival: 2025-01-23 20:00:00 in JFK
+  - Flight ID: FL54_UDH
+    Departure: 2025-01-24 01:00:00 from JFK
+    Arrival: 2025-01-24 08:00:00 in LAX
+========================================
+Trip ID: 30
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL55
+    Departure: 2025-01-24 13:00:00 from LAX
+    Arrival: 2025-01-24 20:00:00 in JFK
+  - Flight ID: FL55_UDH
+    Departure: 2025-01-25 01:00:00 from JFK
+    Arrival: 2025-01-25 08:00:00 in LAX
+========================================
+Trip ID: 31
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL56
+    Departure: 2025-01-25 13:00:00 from LAX
+    Arrival: 2025-01-25 20:00:00 in JFK
+  - Flight ID: FL56_UDH
+    Departure: 2025-01-26 01:00:00 from JFK
+    Arrival: 2025-01-26 08:00:00 in LAX
+========================================
+Trip ID: 32
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL57
+    Departure: 2025-01-26 13:00:00 from LAX
+    Arrival: 2025-01-26 20:00:00 in JFK
+  - Flight ID: FL57_UDH
+    Departure: 2025-01-27 01:00:00 from JFK
+    Arrival: 2025-01-27 08:00:00 in LAX
+========================================
+Trip ID: 33
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL58
+    Departure: 2025-01-27 13:00:00 from LAX
+    Arrival: 2025-01-27 20:00:00 in JFK
+  - Flight ID: FL58_UDH
+    Departure: 2025-01-28 01:00:00 from JFK
+    Arrival: 2025-01-28 08:00:00 in LAX
+========================================
+Trip ID: 34
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL59
+    Departure: 2025-01-28 13:00:00 from LAX
+    Arrival: 2025-01-28 20:00:00 in JFK
+  - Flight ID: FL59_UDH
+    Departure: 2025-01-29 01:00:00 from JFK
+    Arrival: 2025-01-29 08:00:00 in LAX
+========================================
+Trip ID: 35
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL60
+    Departure: 2025-01-29 13:00:00 from LAX
+    Arrival: 2025-01-29 20:00:00 in JFK
+  - Flight ID: FL60_UDH
+    Departure: 2025-01-30 01:00:00 from JFK
+    Arrival: 2025-01-30 08:00:00 in LAX
+========================================
+Trip ID: 36
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL61
+    Departure: 2025-01-30 13:00:00 from LAX
+    Arrival: 2025-01-30 20:00:00 in JFK
+  - Flight ID: FL61_UDH
+    Departure: 2025-01-31 01:00:00 from JFK
+    Arrival: 2025-01-31 08:00:00 in LAX
+========================================
+Trip ID: 37
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL62
+    Departure: 2025-01-31 13:00:00 from LAX
+    Arrival: 2025-01-31 20:00:00 in JFK
+  - Flight ID: FL62_UDH
+    Departure: 2025-02-01 01:00:00 from JFK
+    Arrival: 2025-02-01 08:00:00 in LAX
+========================================
+Trip ID: 38
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL76
+    Departure: 2025-01-14 08:00:00 from ORD
+    Arrival: 2025-01-14 10:30:00 in DFW
+  - Flight ID: FL76_UDH
+    Departure: 2025-01-14 15:30:00 from DFW
+    Arrival: 2025-01-14 18:00:00 in ORD
+========================================
+Trip ID: 39
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL77
+    Departure: 2025-01-15 08:00:00 from ORD
+    Arrival: 2025-01-15 10:30:00 in DFW
+  - Flight ID: FL77_UDH
+    Departure: 2025-01-15 15:30:00 from DFW
+    Arrival: 2025-01-15 18:00:00 in ORD
+========================================
+Trip ID: 40
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL78
+    Departure: 2025-01-16 08:00:00 from ORD
+    Arrival: 2025-01-16 10:30:00 in DFW
+  - Flight ID: FL78_UDH
+    Departure: 2025-01-16 15:30:00 from DFW
+    Arrival: 2025-01-16 18:00:00 in ORD
+========================================
+Trip ID: 41
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL79
+    Departure: 2025-01-17 08:00:00 from ORD
+    Arrival: 2025-01-17 10:30:00 in DFW
+  - Flight ID: FL79_UDH
+    Departure: 2025-01-17 15:30:00 from DFW
+    Arrival: 2025-01-17 18:00:00 in ORD
+========================================
+Trip ID: 42
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL80
+    Departure: 2025-01-18 08:00:00 from ORD
+    Arrival: 2025-01-18 10:30:00 in DFW
+  - Flight ID: FL80_UDH
+    Departure: 2025-01-18 15:30:00 from DFW
+    Arrival: 2025-01-18 18:00:00 in ORD
+========================================
+Trip ID: 43
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL81
+    Departure: 2025-01-19 08:00:00 from ORD
+    Arrival: 2025-01-19 10:30:00 in DFW
+  - Flight ID: FL81_UDH
+    Departure: 2025-01-19 15:30:00 from DFW
+    Arrival: 2025-01-19 18:00:00 in ORD
+========================================
+Trip ID: 44
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL82
+    Departure: 2025-01-20 08:00:00 from ORD
+    Arrival: 2025-01-20 10:30:00 in DFW
+  - Flight ID: FL82_UDH
+    Departure: 2025-01-20 15:30:00 from DFW
+    Arrival: 2025-01-20 18:00:00 in ORD
+========================================
+Trip ID: 45
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL83
+    Departure: 2025-01-21 08:00:00 from ORD
+    Arrival: 2025-01-21 10:30:00 in DFW
+  - Flight ID: FL83_UDH
+    Departure: 2025-01-21 15:30:00 from DFW
+    Arrival: 2025-01-21 18:00:00 in ORD
+========================================
+Trip ID: 46
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL84
+    Departure: 2025-01-22 08:00:00 from ORD
+    Arrival: 2025-01-22 10:30:00 in DFW
+  - Flight ID: FL84_UDH
+    Departure: 2025-01-22 15:30:00 from DFW
+    Arrival: 2025-01-22 18:00:00 in ORD
+========================================
+Trip ID: 47
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL85
+    Departure: 2025-01-23 08:00:00 from ORD
+    Arrival: 2025-01-23 10:30:00 in DFW
+  - Flight ID: FL85_UDH
+    Departure: 2025-01-23 15:30:00 from DFW
+    Arrival: 2025-01-23 18:00:00 in ORD
+========================================
+Trip ID: 48
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL86
+    Departure: 2025-01-24 08:00:00 from ORD
+    Arrival: 2025-01-24 10:30:00 in DFW
+  - Flight ID: FL86_UDH
+    Departure: 2025-01-24 15:30:00 from DFW
+    Arrival: 2025-01-24 18:00:00 in ORD
+========================================
+Trip ID: 49
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL87
+    Departure: 2025-01-25 08:00:00 from ORD
+    Arrival: 2025-01-25 10:30:00 in DFW
+  - Flight ID: FL87_UDH
+    Departure: 2025-01-25 15:30:00 from DFW
+    Arrival: 2025-01-25 18:00:00 in ORD
+========================================
+Trip ID: 50
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL88
+    Departure: 2025-01-26 08:00:00 from ORD
+    Arrival: 2025-01-26 10:30:00 in DFW
+  - Flight ID: FL88_UDH
+    Departure: 2025-01-26 15:30:00 from DFW
+    Arrival: 2025-01-26 18:00:00 in ORD
+========================================
+Trip ID: 51
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL89
+    Departure: 2025-01-27 08:00:00 from ORD
+    Arrival: 2025-01-27 10:30:00 in DFW
+  - Flight ID: FL89_UDH
+    Departure: 2025-01-27 15:30:00 from DFW
+    Arrival: 2025-01-27 18:00:00 in ORD
+========================================
+Trip ID: 52
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL90
+    Departure: 2025-01-28 08:00:00 from ORD
+    Arrival: 2025-01-28 10:30:00 in DFW
+  - Flight ID: FL90_UDH
+    Departure: 2025-01-28 15:30:00 from DFW
+    Arrival: 2025-01-28 18:00:00 in ORD
+========================================
+Trip ID: 53
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL91
+    Departure: 2025-01-29 08:00:00 from ORD
+    Arrival: 2025-01-29 10:30:00 in DFW
+  - Flight ID: FL91_UDH
+    Departure: 2025-01-29 15:30:00 from DFW
+    Arrival: 2025-01-29 18:00:00 in ORD
+========================================
+Trip ID: 54
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL92
+    Departure: 2025-01-30 08:00:00 from ORD
+    Arrival: 2025-01-30 10:30:00 in DFW
+  - Flight ID: FL92_UDH
+    Departure: 2025-01-30 15:30:00 from DFW
+    Arrival: 2025-01-30 18:00:00 in ORD
+========================================
+Trip ID: 55
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL93
+    Departure: 2025-01-31 08:00:00 from ORD
+    Arrival: 2025-01-31 10:30:00 in DFW
+  - Flight ID: FL93_UDH
+    Departure: 2025-01-31 15:30:00 from DFW
+    Arrival: 2025-01-31 18:00:00 in ORD
+========================================
+Trip ID: 56
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL106
+    Departure: 2025-01-13 13:00:00 from DFW
+    Arrival: 2025-01-13 15:30:00 in ORD
+  - Flight ID: FL106_UDH
+    Departure: 2025-01-13 20:30:00 from ORD
+    Arrival: 2025-01-13 23:00:00 in DFW
+========================================
+Trip ID: 57
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL107
+    Departure: 2025-01-14 13:00:00 from DFW
+    Arrival: 2025-01-14 15:30:00 in ORD
+  - Flight ID: FL107_UDH
+    Departure: 2025-01-14 20:30:00 from ORD
+    Arrival: 2025-01-14 23:00:00 in DFW
+========================================
+Trip ID: 58
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL108
+    Departure: 2025-01-15 13:00:00 from DFW
+    Arrival: 2025-01-15 15:30:00 in ORD
+  - Flight ID: FL108_UDH
+    Departure: 2025-01-15 20:30:00 from ORD
+    Arrival: 2025-01-15 23:00:00 in DFW
+========================================
+Trip ID: 59
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL109
+    Departure: 2025-01-16 13:00:00 from DFW
+    Arrival: 2025-01-16 15:30:00 in ORD
+  - Flight ID: FL109_UDH
+    Departure: 2025-01-16 20:30:00 from ORD
+    Arrival: 2025-01-16 23:00:00 in DFW
+========================================
+Trip ID: 60
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL110
+    Departure: 2025-01-17 13:00:00 from DFW
+    Arrival: 2025-01-17 15:30:00 in ORD
+  - Flight ID: FL110_UDH
+    Departure: 2025-01-17 20:30:00 from ORD
+    Arrival: 2025-01-17 23:00:00 in DFW
+========================================
+Trip ID: 61
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL111
+    Departure: 2025-01-18 13:00:00 from DFW
+    Arrival: 2025-01-18 15:30:00 in ORD
+  - Flight ID: FL111_UDH
+    Departure: 2025-01-18 20:30:00 from ORD
+    Arrival: 2025-01-18 23:00:00 in DFW
+========================================
+Trip ID: 62
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL112
+    Departure: 2025-01-19 13:00:00 from DFW
+    Arrival: 2025-01-19 15:30:00 in ORD
+  - Flight ID: FL112_UDH
+    Departure: 2025-01-19 20:30:00 from ORD
+    Arrival: 2025-01-19 23:00:00 in DFW
+========================================
+Trip ID: 63
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL113
+    Departure: 2025-01-20 13:00:00 from DFW
+    Arrival: 2025-01-20 15:30:00 in ORD
+  - Flight ID: FL113_UDH
+    Departure: 2025-01-20 20:30:00 from ORD
+    Arrival: 2025-01-20 23:00:00 in DFW
+========================================
+Trip ID: 64
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL114
+    Departure: 2025-01-21 13:00:00 from DFW
+    Arrival: 2025-01-21 15:30:00 in ORD
+  - Flight ID: FL114_UDH
+    Departure: 2025-01-21 20:30:00 from ORD
+    Arrival: 2025-01-21 23:00:00 in DFW
+========================================
+Trip ID: 65
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL115
+    Departure: 2025-01-22 13:00:00 from DFW
+    Arrival: 2025-01-22 15:30:00 in ORD
+  - Flight ID: FL115_UDH
+    Departure: 2025-01-22 20:30:00 from ORD
+    Arrival: 2025-01-22 23:00:00 in DFW
+========================================
+Trip ID: 66
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL116
+    Departure: 2025-01-23 13:00:00 from DFW
+    Arrival: 2025-01-23 15:30:00 in ORD
+  - Flight ID: FL116_UDH
+    Departure: 2025-01-23 20:30:00 from ORD
+    Arrival: 2025-01-23 23:00:00 in DFW
+========================================
+Trip ID: 67
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL117
+    Departure: 2025-01-24 13:00:00 from DFW
+    Arrival: 2025-01-24 15:30:00 in ORD
+  - Flight ID: FL117_UDH
+    Departure: 2025-01-24 20:30:00 from ORD
+    Arrival: 2025-01-24 23:00:00 in DFW
+========================================
+Trip ID: 68
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL118
+    Departure: 2025-01-25 13:00:00 from DFW
+    Arrival: 2025-01-25 15:30:00 in ORD
+  - Flight ID: FL118_UDH
+    Departure: 2025-01-25 20:30:00 from ORD
+    Arrival: 2025-01-25 23:00:00 in DFW
+========================================
+Trip ID: 69
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL119
+    Departure: 2025-01-26 13:00:00 from DFW
+    Arrival: 2025-01-26 15:30:00 in ORD
+  - Flight ID: FL119_UDH
+    Departure: 2025-01-26 20:30:00 from ORD
+    Arrival: 2025-01-26 23:00:00 in DFW
+========================================
+Trip ID: 70
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL120
+    Departure: 2025-01-27 13:00:00 from DFW
+    Arrival: 2025-01-27 15:30:00 in ORD
+  - Flight ID: FL120_UDH
+    Departure: 2025-01-27 20:30:00 from ORD
+    Arrival: 2025-01-27 23:00:00 in DFW
+========================================
+Trip ID: 71
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL121
+    Departure: 2025-01-28 13:00:00 from DFW
+    Arrival: 2025-01-28 15:30:00 in ORD
+  - Flight ID: FL121_UDH
+    Departure: 2025-01-28 20:30:00 from ORD
+    Arrival: 2025-01-28 23:00:00 in DFW
+========================================
+Trip ID: 72
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL122
+    Departure: 2025-01-29 13:00:00 from DFW
+    Arrival: 2025-01-29 15:30:00 in ORD
+  - Flight ID: FL122_UDH
+    Departure: 2025-01-29 20:30:00 from ORD
+    Arrival: 2025-01-29 23:00:00 in DFW
+========================================
+Trip ID: 73
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL123
+    Departure: 2025-01-30 13:00:00 from DFW
+    Arrival: 2025-01-30 15:30:00 in ORD
+  - Flight ID: FL123_UDH
+    Departure: 2025-01-30 20:30:00 from ORD
+    Arrival: 2025-01-30 23:00:00 in DFW
+========================================
+Trip ID: 74
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL124
+    Departure: 2025-01-31 13:00:00 from DFW
+    Arrival: 2025-01-31 15:30:00 in ORD
+  - Flight ID: FL124_UDH
+    Departure: 2025-01-31 20:30:00 from ORD
+    Arrival: 2025-01-31 23:00:00 in DFW
+========================================
+Trip ID: 75
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL138
+    Departure: 2025-01-14 10:00:00 from SFO
+    Arrival: 2025-01-14 11:45:00 in SEA
+  - Flight ID: FL138_UDH
+    Departure: 2025-01-14 16:45:00 from SEA
+    Arrival: 2025-01-14 18:30:00 in SFO
+========================================
+Trip ID: 76
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL139
+    Departure: 2025-01-15 10:00:00 from SFO
+    Arrival: 2025-01-15 11:45:00 in SEA
+  - Flight ID: FL139_UDH
+    Departure: 2025-01-15 16:45:00 from SEA
+    Arrival: 2025-01-15 18:30:00 in SFO
+========================================
+Trip ID: 77
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL140
+    Departure: 2025-01-16 10:00:00 from SFO
+    Arrival: 2025-01-16 11:45:00 in SEA
+  - Flight ID: FL140_UDH
+    Departure: 2025-01-16 16:45:00 from SEA
+    Arrival: 2025-01-16 18:30:00 in SFO
+========================================
+Trip ID: 78
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL141
+    Departure: 2025-01-17 10:00:00 from SFO
+    Arrival: 2025-01-17 11:45:00 in SEA
+  - Flight ID: FL141_UDH
+    Departure: 2025-01-17 16:45:00 from SEA
+    Arrival: 2025-01-17 18:30:00 in SFO
+========================================
+Trip ID: 79
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL142
+    Departure: 2025-01-18 10:00:00 from SFO
+    Arrival: 2025-01-18 11:45:00 in SEA
+  - Flight ID: FL142_UDH
+    Departure: 2025-01-18 16:45:00 from SEA
+    Arrival: 2025-01-18 18:30:00 in SFO
+========================================
+Trip ID: 80
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL143
+    Departure: 2025-01-19 10:00:00 from SFO
+    Arrival: 2025-01-19 11:45:00 in SEA
+  - Flight ID: FL143_UDH
+    Departure: 2025-01-19 16:45:00 from SEA
+    Arrival: 2025-01-19 18:30:00 in SFO
+========================================
+Trip ID: 81
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL144
+    Departure: 2025-01-20 10:00:00 from SFO
+    Arrival: 2025-01-20 11:45:00 in SEA
+  - Flight ID: FL144_UDH
+    Departure: 2025-01-20 16:45:00 from SEA
+    Arrival: 2025-01-20 18:30:00 in SFO
+========================================
+Trip ID: 82
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL145
+    Departure: 2025-01-21 10:00:00 from SFO
+    Arrival: 2025-01-21 11:45:00 in SEA
+  - Flight ID: FL145_UDH
+    Departure: 2025-01-21 16:45:00 from SEA
+    Arrival: 2025-01-21 18:30:00 in SFO
+========================================
+Trip ID: 83
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL146
+    Departure: 2025-01-22 10:00:00 from SFO
+    Arrival: 2025-01-22 11:45:00 in SEA
+  - Flight ID: FL146_UDH
+    Departure: 2025-01-22 16:45:00 from SEA
+    Arrival: 2025-01-22 18:30:00 in SFO
+========================================
+Trip ID: 84
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL147
+    Departure: 2025-01-23 10:00:00 from SFO
+    Arrival: 2025-01-23 11:45:00 in SEA
+  - Flight ID: FL147_UDH
+    Departure: 2025-01-23 16:45:00 from SEA
+    Arrival: 2025-01-23 18:30:00 in SFO
+========================================
+Trip ID: 85
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL148
+    Departure: 2025-01-24 10:00:00 from SFO
+    Arrival: 2025-01-24 11:45:00 in SEA
+  - Flight ID: FL148_UDH
+    Departure: 2025-01-24 16:45:00 from SEA
+    Arrival: 2025-01-24 18:30:00 in SFO
+========================================
+Trip ID: 86
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL149
+    Departure: 2025-01-25 10:00:00 from SFO
+    Arrival: 2025-01-25 11:45:00 in SEA
+  - Flight ID: FL149_UDH
+    Departure: 2025-01-25 16:45:00 from SEA
+    Arrival: 2025-01-25 18:30:00 in SFO
+========================================
+Trip ID: 87
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL150
+    Departure: 2025-01-26 10:00:00 from SFO
+    Arrival: 2025-01-26 11:45:00 in SEA
+  - Flight ID: FL150_UDH
+    Departure: 2025-01-26 16:45:00 from SEA
+    Arrival: 2025-01-26 18:30:00 in SFO
+========================================
+Trip ID: 88
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL151
+    Departure: 2025-01-27 10:00:00 from SFO
+    Arrival: 2025-01-27 11:45:00 in SEA
+  - Flight ID: FL151_UDH
+    Departure: 2025-01-27 16:45:00 from SEA
+    Arrival: 2025-01-27 18:30:00 in SFO
+========================================
+Trip ID: 89
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL152
+    Departure: 2025-01-28 10:00:00 from SFO
+    Arrival: 2025-01-28 11:45:00 in SEA
+  - Flight ID: FL152_UDH
+    Departure: 2025-01-28 16:45:00 from SEA
+    Arrival: 2025-01-28 18:30:00 in SFO
+========================================
+Trip ID: 90
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL153
+    Departure: 2025-01-29 10:00:00 from SFO
+    Arrival: 2025-01-29 11:45:00 in SEA
+  - Flight ID: FL153_UDH
+    Departure: 2025-01-29 16:45:00 from SEA
+    Arrival: 2025-01-29 18:30:00 in SFO
+========================================
+Trip ID: 91
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL154
+    Departure: 2025-01-30 10:00:00 from SFO
+    Arrival: 2025-01-30 11:45:00 in SEA
+  - Flight ID: FL154_UDH
+    Departure: 2025-01-30 16:45:00 from SEA
+    Arrival: 2025-01-30 18:30:00 in SFO
+========================================
+Trip ID: 92
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL155
+    Departure: 2025-01-31 10:00:00 from SFO
+    Arrival: 2025-01-31 11:45:00 in SEA
+  - Flight ID: FL155_UDH
+    Departure: 2025-01-31 16:45:00 from SEA
+    Arrival: 2025-01-31 18:30:00 in SFO
+========================================
+Trip ID: 93
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL168
+    Departure: 2025-01-13 14:00:00 from SEA
+    Arrival: 2025-01-13 15:45:00 in SFO
+  - Flight ID: FL168_UDH
+    Departure: 2025-01-13 20:45:00 from SFO
+    Arrival: 2025-01-13 22:30:00 in SEA
+========================================
+Trip ID: 94
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL169
+    Departure: 2025-01-14 14:00:00 from SEA
+    Arrival: 2025-01-14 15:45:00 in SFO
+  - Flight ID: FL169_UDH
+    Departure: 2025-01-14 20:45:00 from SFO
+    Arrival: 2025-01-14 22:30:00 in SEA
+========================================
+Trip ID: 95
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL170
+    Departure: 2025-01-15 14:00:00 from SEA
+    Arrival: 2025-01-15 15:45:00 in SFO
+  - Flight ID: FL170_UDH
+    Departure: 2025-01-15 20:45:00 from SFO
+    Arrival: 2025-01-15 22:30:00 in SEA
+========================================
+Trip ID: 96
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL171
+    Departure: 2025-01-16 14:00:00 from SEA
+    Arrival: 2025-01-16 15:45:00 in SFO
+  - Flight ID: FL171_UDH
+    Departure: 2025-01-16 20:45:00 from SFO
+    Arrival: 2025-01-16 22:30:00 in SEA
+========================================
+Trip ID: 97
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL172
+    Departure: 2025-01-17 14:00:00 from SEA
+    Arrival: 2025-01-17 15:45:00 in SFO
+  - Flight ID: FL172_UDH
+    Departure: 2025-01-17 20:45:00 from SFO
+    Arrival: 2025-01-17 22:30:00 in SEA
+========================================
+Trip ID: 98
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL173
+    Departure: 2025-01-18 14:00:00 from SEA
+    Arrival: 2025-01-18 15:45:00 in SFO
+  - Flight ID: FL173_UDH
+    Departure: 2025-01-18 20:45:00 from SFO
+    Arrival: 2025-01-18 22:30:00 in SEA
+========================================
+Trip ID: 99
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL174
+    Departure: 2025-01-19 14:00:00 from SEA
+    Arrival: 2025-01-19 15:45:00 in SFO
+  - Flight ID: FL174_UDH
+    Departure: 2025-01-19 20:45:00 from SFO
+    Arrival: 2025-01-19 22:30:00 in SEA
+========================================
+Trip ID: 100
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL175
+    Departure: 2025-01-20 14:00:00 from SEA
+    Arrival: 2025-01-20 15:45:00 in SFO
+  - Flight ID: FL175_UDH
+    Departure: 2025-01-20 20:45:00 from SFO
+    Arrival: 2025-01-20 22:30:00 in SEA
+========================================
+Trip ID: 101
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL176
+    Departure: 2025-01-21 14:00:00 from SEA
+    Arrival: 2025-01-21 15:45:00 in SFO
+  - Flight ID: FL176_UDH
+    Departure: 2025-01-21 20:45:00 from SFO
+    Arrival: 2025-01-21 22:30:00 in SEA
+========================================
+Trip ID: 102
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL177
+    Departure: 2025-01-22 14:00:00 from SEA
+    Arrival: 2025-01-22 15:45:00 in SFO
+  - Flight ID: FL177_UDH
+    Departure: 2025-01-22 20:45:00 from SFO
+    Arrival: 2025-01-22 22:30:00 in SEA
+========================================
+Trip ID: 103
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL178
+    Departure: 2025-01-23 14:00:00 from SEA
+    Arrival: 2025-01-23 15:45:00 in SFO
+  - Flight ID: FL178_UDH
+    Departure: 2025-01-23 20:45:00 from SFO
+    Arrival: 2025-01-23 22:30:00 in SEA
+========================================
+Trip ID: 104
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL179
+    Departure: 2025-01-24 14:00:00 from SEA
+    Arrival: 2025-01-24 15:45:00 in SFO
+  - Flight ID: FL179_UDH
+    Departure: 2025-01-24 20:45:00 from SFO
+    Arrival: 2025-01-24 22:30:00 in SEA
+========================================
+Trip ID: 105
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL180
+    Departure: 2025-01-25 14:00:00 from SEA
+    Arrival: 2025-01-25 15:45:00 in SFO
+  - Flight ID: FL180_UDH
+    Departure: 2025-01-25 20:45:00 from SFO
+    Arrival: 2025-01-25 22:30:00 in SEA
+========================================
+Trip ID: 106
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL181
+    Departure: 2025-01-26 14:00:00 from SEA
+    Arrival: 2025-01-26 15:45:00 in SFO
+  - Flight ID: FL181_UDH
+    Departure: 2025-01-26 20:45:00 from SFO
+    Arrival: 2025-01-26 22:30:00 in SEA
+========================================
+Trip ID: 107
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL182
+    Departure: 2025-01-27 14:00:00 from SEA
+    Arrival: 2025-01-27 15:45:00 in SFO
+  - Flight ID: FL182_UDH
+    Departure: 2025-01-27 20:45:00 from SFO
+    Arrival: 2025-01-27 22:30:00 in SEA
+========================================
+Trip ID: 108
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL183
+    Departure: 2025-01-28 14:00:00 from SEA
+    Arrival: 2025-01-28 15:45:00 in SFO
+  - Flight ID: FL183_UDH
+    Departure: 2025-01-28 20:45:00 from SFO
+    Arrival: 2025-01-28 22:30:00 in SEA
+========================================
+Trip ID: 109
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL184
+    Departure: 2025-01-29 14:00:00 from SEA
+    Arrival: 2025-01-29 15:45:00 in SFO
+  - Flight ID: FL184_UDH
+    Departure: 2025-01-29 20:45:00 from SFO
+    Arrival: 2025-01-29 22:30:00 in SEA
+========================================
+Trip ID: 110
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL185
+    Departure: 2025-01-30 14:00:00 from SEA
+    Arrival: 2025-01-30 15:45:00 in SFO
+  - Flight ID: FL185_UDH
+    Departure: 2025-01-30 20:45:00 from SFO
+    Arrival: 2025-01-30 22:30:00 in SEA
+========================================
+Trip ID: 111
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL186
+    Departure: 2025-01-31 14:00:00 from SEA
+    Arrival: 2025-01-31 15:45:00 in SFO
+  - Flight ID: FL186_UDH
+    Departure: 2025-01-31 20:45:00 from SFO
+    Arrival: 2025-01-31 22:30:00 in SEA
+========================================
+Trip ID: 112
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL200
+    Departure: 2025-01-14 09:00:00 from MIA
+    Arrival: 2025-01-14 11:00:00 in ATL
+  - Flight ID: FL200_UDH
+    Departure: 2025-01-14 16:00:00 from ATL
+    Arrival: 2025-01-14 18:00:00 in MIA
+========================================
+Trip ID: 113
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL201
+    Departure: 2025-01-15 09:00:00 from MIA
+    Arrival: 2025-01-15 11:00:00 in ATL
+  - Flight ID: FL201_UDH
+    Departure: 2025-01-15 16:00:00 from ATL
+    Arrival: 2025-01-15 18:00:00 in MIA
+========================================
+Trip ID: 114
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL202
+    Departure: 2025-01-16 09:00:00 from MIA
+    Arrival: 2025-01-16 11:00:00 in ATL
+  - Flight ID: FL202_UDH
+    Departure: 2025-01-16 16:00:00 from ATL
+    Arrival: 2025-01-16 18:00:00 in MIA
+========================================
+Trip ID: 115
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL203
+    Departure: 2025-01-17 09:00:00 from MIA
+    Arrival: 2025-01-17 11:00:00 in ATL
+  - Flight ID: FL203_UDH
+    Departure: 2025-01-17 16:00:00 from ATL
+    Arrival: 2025-01-17 18:00:00 in MIA
+========================================
+Trip ID: 116
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL204
+    Departure: 2025-01-18 09:00:00 from MIA
+    Arrival: 2025-01-18 11:00:00 in ATL
+  - Flight ID: FL204_UDH
+    Departure: 2025-01-18 16:00:00 from ATL
+    Arrival: 2025-01-18 18:00:00 in MIA
+========================================
+Trip ID: 117
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL205
+    Departure: 2025-01-19 09:00:00 from MIA
+    Arrival: 2025-01-19 11:00:00 in ATL
+  - Flight ID: FL205_UDH
+    Departure: 2025-01-19 16:00:00 from ATL
+    Arrival: 2025-01-19 18:00:00 in MIA
+========================================
+Trip ID: 118
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL206
+    Departure: 2025-01-20 09:00:00 from MIA
+    Arrival: 2025-01-20 11:00:00 in ATL
+  - Flight ID: FL206_UDH
+    Departure: 2025-01-20 16:00:00 from ATL
+    Arrival: 2025-01-20 18:00:00 in MIA
+========================================
+Trip ID: 119
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL207
+    Departure: 2025-01-21 09:00:00 from MIA
+    Arrival: 2025-01-21 11:00:00 in ATL
+  - Flight ID: FL207_UDH
+    Departure: 2025-01-21 16:00:00 from ATL
+    Arrival: 2025-01-21 18:00:00 in MIA
+========================================
+Trip ID: 120
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL208
+    Departure: 2025-01-22 09:00:00 from MIA
+    Arrival: 2025-01-22 11:00:00 in ATL
+  - Flight ID: FL208_UDH
+    Departure: 2025-01-22 16:00:00 from ATL
+    Arrival: 2025-01-22 18:00:00 in MIA
+========================================
+Trip ID: 121
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL209
+    Departure: 2025-01-23 09:00:00 from MIA
+    Arrival: 2025-01-23 11:00:00 in ATL
+  - Flight ID: FL209_UDH
+    Departure: 2025-01-23 16:00:00 from ATL
+    Arrival: 2025-01-23 18:00:00 in MIA
+========================================
+Trip ID: 122
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL210
+    Departure: 2025-01-24 09:00:00 from MIA
+    Arrival: 2025-01-24 11:00:00 in ATL
+  - Flight ID: FL210_UDH
+    Departure: 2025-01-24 16:00:00 from ATL
+    Arrival: 2025-01-24 18:00:00 in MIA
+========================================
+Trip ID: 123
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL211
+    Departure: 2025-01-25 09:00:00 from MIA
+    Arrival: 2025-01-25 11:00:00 in ATL
+  - Flight ID: FL211_UDH
+    Departure: 2025-01-25 16:00:00 from ATL
+    Arrival: 2025-01-25 18:00:00 in MIA
+========================================
+Trip ID: 124
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL212
+    Departure: 2025-01-26 09:00:00 from MIA
+    Arrival: 2025-01-26 11:00:00 in ATL
+  - Flight ID: FL212_UDH
+    Departure: 2025-01-26 16:00:00 from ATL
+    Arrival: 2025-01-26 18:00:00 in MIA
+========================================
+Trip ID: 125
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL213
+    Departure: 2025-01-27 09:00:00 from MIA
+    Arrival: 2025-01-27 11:00:00 in ATL
+  - Flight ID: FL213_UDH
+    Departure: 2025-01-27 16:00:00 from ATL
+    Arrival: 2025-01-27 18:00:00 in MIA
+========================================
+Trip ID: 126
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL214
+    Departure: 2025-01-28 09:00:00 from MIA
+    Arrival: 2025-01-28 11:00:00 in ATL
+  - Flight ID: FL214_UDH
+    Departure: 2025-01-28 16:00:00 from ATL
+    Arrival: 2025-01-28 18:00:00 in MIA
+========================================
+Trip ID: 127
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL215
+    Departure: 2025-01-29 09:00:00 from MIA
+    Arrival: 2025-01-29 11:00:00 in ATL
+  - Flight ID: FL215_UDH
+    Departure: 2025-01-29 16:00:00 from ATL
+    Arrival: 2025-01-29 18:00:00 in MIA
+========================================
+Trip ID: 128
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL216
+    Departure: 2025-01-30 09:00:00 from MIA
+    Arrival: 2025-01-30 11:00:00 in ATL
+  - Flight ID: FL216_UDH
+    Departure: 2025-01-30 16:00:00 from ATL
+    Arrival: 2025-01-30 18:00:00 in MIA
+========================================
+Trip ID: 129
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL217
+    Departure: 2025-01-31 09:00:00 from MIA
+    Arrival: 2025-01-31 11:00:00 in ATL
+  - Flight ID: FL217_UDH
+    Departure: 2025-01-31 16:00:00 from ATL
+    Arrival: 2025-01-31 18:00:00 in MIA
+========================================
+Trip ID: 130
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL230
+    Departure: 2025-01-13 14:00:00 from ATL
+    Arrival: 2025-01-13 16:00:00 in MIA
+  - Flight ID: FL230_UDH
+    Departure: 2025-01-13 21:00:00 from MIA
+    Arrival: 2025-01-13 23:00:00 in ATL
+========================================
+Trip ID: 131
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL231
+    Departure: 2025-01-14 14:00:00 from ATL
+    Arrival: 2025-01-14 16:00:00 in MIA
+  - Flight ID: FL231_UDH
+    Departure: 2025-01-14 21:00:00 from MIA
+    Arrival: 2025-01-14 23:00:00 in ATL
+========================================
+Trip ID: 132
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL232
+    Departure: 2025-01-15 14:00:00 from ATL
+    Arrival: 2025-01-15 16:00:00 in MIA
+  - Flight ID: FL232_UDH
+    Departure: 2025-01-15 21:00:00 from MIA
+    Arrival: 2025-01-15 23:00:00 in ATL
+========================================
+Trip ID: 133
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL233
+    Departure: 2025-01-16 14:00:00 from ATL
+    Arrival: 2025-01-16 16:00:00 in MIA
+  - Flight ID: FL233_UDH
+    Departure: 2025-01-16 21:00:00 from MIA
+    Arrival: 2025-01-16 23:00:00 in ATL
+========================================
+Trip ID: 134
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL234
+    Departure: 2025-01-17 14:00:00 from ATL
+    Arrival: 2025-01-17 16:00:00 in MIA
+  - Flight ID: FL234_UDH
+    Departure: 2025-01-17 21:00:00 from MIA
+    Arrival: 2025-01-17 23:00:00 in ATL
+========================================
+Trip ID: 135
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL235
+    Departure: 2025-01-18 14:00:00 from ATL
+    Arrival: 2025-01-18 16:00:00 in MIA
+  - Flight ID: FL235_UDH
+    Departure: 2025-01-18 21:00:00 from MIA
+    Arrival: 2025-01-18 23:00:00 in ATL
+========================================
+Trip ID: 136
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL236
+    Departure: 2025-01-19 14:00:00 from ATL
+    Arrival: 2025-01-19 16:00:00 in MIA
+  - Flight ID: FL236_UDH
+    Departure: 2025-01-19 21:00:00 from MIA
+    Arrival: 2025-01-19 23:00:00 in ATL
+========================================
+Trip ID: 137
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL237
+    Departure: 2025-01-20 14:00:00 from ATL
+    Arrival: 2025-01-20 16:00:00 in MIA
+  - Flight ID: FL237_UDH
+    Departure: 2025-01-20 21:00:00 from MIA
+    Arrival: 2025-01-20 23:00:00 in ATL
+========================================
+Trip ID: 138
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL238
+    Departure: 2025-01-21 14:00:00 from ATL
+    Arrival: 2025-01-21 16:00:00 in MIA
+  - Flight ID: FL238_UDH
+    Departure: 2025-01-21 21:00:00 from MIA
+    Arrival: 2025-01-21 23:00:00 in ATL
+========================================
+Trip ID: 139
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL239
+    Departure: 2025-01-22 14:00:00 from ATL
+    Arrival: 2025-01-22 16:00:00 in MIA
+  - Flight ID: FL239_UDH
+    Departure: 2025-01-22 21:00:00 from MIA
+    Arrival: 2025-01-22 23:00:00 in ATL
+========================================
+Trip ID: 140
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL240
+    Departure: 2025-01-23 14:00:00 from ATL
+    Arrival: 2025-01-23 16:00:00 in MIA
+  - Flight ID: FL240_UDH
+    Departure: 2025-01-23 21:00:00 from MIA
+    Arrival: 2025-01-23 23:00:00 in ATL
+========================================
+Trip ID: 141
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL241
+    Departure: 2025-01-24 14:00:00 from ATL
+    Arrival: 2025-01-24 16:00:00 in MIA
+  - Flight ID: FL241_UDH
+    Departure: 2025-01-24 21:00:00 from MIA
+    Arrival: 2025-01-24 23:00:00 in ATL
+========================================
+Trip ID: 142
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL242
+    Departure: 2025-01-25 14:00:00 from ATL
+    Arrival: 2025-01-25 16:00:00 in MIA
+  - Flight ID: FL242_UDH
+    Departure: 2025-01-25 21:00:00 from MIA
+    Arrival: 2025-01-25 23:00:00 in ATL
+========================================
+Trip ID: 143
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL243
+    Departure: 2025-01-26 14:00:00 from ATL
+    Arrival: 2025-01-26 16:00:00 in MIA
+  - Flight ID: FL243_UDH
+    Departure: 2025-01-26 21:00:00 from MIA
+    Arrival: 2025-01-26 23:00:00 in ATL
+========================================
+Trip ID: 144
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL244
+    Departure: 2025-01-27 14:00:00 from ATL
+    Arrival: 2025-01-27 16:00:00 in MIA
+  - Flight ID: FL244_UDH
+    Departure: 2025-01-27 21:00:00 from MIA
+    Arrival: 2025-01-27 23:00:00 in ATL
+========================================
+Trip ID: 145
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL245
+    Departure: 2025-01-28 14:00:00 from ATL
+    Arrival: 2025-01-28 16:00:00 in MIA
+  - Flight ID: FL245_UDH
+    Departure: 2025-01-28 21:00:00 from MIA
+    Arrival: 2025-01-28 23:00:00 in ATL
+========================================
+Trip ID: 146
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL246
+    Departure: 2025-01-29 14:00:00 from ATL
+    Arrival: 2025-01-29 16:00:00 in MIA
+  - Flight ID: FL246_UDH
+    Departure: 2025-01-29 21:00:00 from MIA
+    Arrival: 2025-01-29 23:00:00 in ATL
+========================================
+Trip ID: 147
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL247
+    Departure: 2025-01-30 14:00:00 from ATL
+    Arrival: 2025-01-30 16:00:00 in MIA
+  - Flight ID: FL247_UDH
+    Departure: 2025-01-30 21:00:00 from MIA
+    Arrival: 2025-01-30 23:00:00 in ATL
+========================================
+Trip ID: 148
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL248
+    Departure: 2025-01-31 14:00:00 from ATL
+    Arrival: 2025-01-31 16:00:00 in MIA
+  - Flight ID: FL248_UDH
+    Departure: 2025-01-31 21:00:00 from MIA
+    Arrival: 2025-01-31 23:00:00 in ATL
+========================================
+Trip ID: 149
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL259
+    Departure: 2025-01-11 07:00:00 from BOS
+    Arrival: 2025-01-11 08:30:00 in DCA
+  - Flight ID: FL259_UDH
+    Departure: 2025-01-11 13:30:00 from DCA
+    Arrival: 2025-01-11 15:00:00 in BOS
+========================================
+Trip ID: 150
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL260
+    Departure: 2025-01-12 07:00:00 from BOS
+    Arrival: 2025-01-12 08:30:00 in DCA
+  - Flight ID: FL260_UDH
+    Departure: 2025-01-12 13:30:00 from DCA
+    Arrival: 2025-01-12 15:00:00 in BOS
+========================================
+Trip ID: 151
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL261
+    Departure: 2025-01-13 07:00:00 from BOS
+    Arrival: 2025-01-13 08:30:00 in DCA
+  - Flight ID: FL261_UDH
+    Departure: 2025-01-13 13:30:00 from DCA
+    Arrival: 2025-01-13 15:00:00 in BOS
+========================================
+Trip ID: 152
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL262
+    Departure: 2025-01-14 07:00:00 from BOS
+    Arrival: 2025-01-14 08:30:00 in DCA
+  - Flight ID: FL262_UDH
+    Departure: 2025-01-14 13:30:00 from DCA
+    Arrival: 2025-01-14 15:00:00 in BOS
+========================================
+Trip ID: 153
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL263
+    Departure: 2025-01-15 07:00:00 from BOS
+    Arrival: 2025-01-15 08:30:00 in DCA
+  - Flight ID: FL263_UDH
+    Departure: 2025-01-15 13:30:00 from DCA
+    Arrival: 2025-01-15 15:00:00 in BOS
+========================================
+Trip ID: 154
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL264
+    Departure: 2025-01-16 07:00:00 from BOS
+    Arrival: 2025-01-16 08:30:00 in DCA
+  - Flight ID: FL264_UDH
+    Departure: 2025-01-16 13:30:00 from DCA
+    Arrival: 2025-01-16 15:00:00 in BOS
+========================================
+Trip ID: 155
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL265
+    Departure: 2025-01-17 07:00:00 from BOS
+    Arrival: 2025-01-17 08:30:00 in DCA
+  - Flight ID: FL265_UDH
+    Departure: 2025-01-17 13:30:00 from DCA
+    Arrival: 2025-01-17 15:00:00 in BOS
+========================================
+Trip ID: 156
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL266
+    Departure: 2025-01-18 07:00:00 from BOS
+    Arrival: 2025-01-18 08:30:00 in DCA
+  - Flight ID: FL266_UDH
+    Departure: 2025-01-18 13:30:00 from DCA
+    Arrival: 2025-01-18 15:00:00 in BOS
+========================================
+Trip ID: 157
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL267
+    Departure: 2025-01-19 07:00:00 from BOS
+    Arrival: 2025-01-19 08:30:00 in DCA
+  - Flight ID: FL267_UDH
+    Departure: 2025-01-19 13:30:00 from DCA
+    Arrival: 2025-01-19 15:00:00 in BOS
+========================================
+Trip ID: 158
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL268
+    Departure: 2025-01-20 07:00:00 from BOS
+    Arrival: 2025-01-20 08:30:00 in DCA
+  - Flight ID: FL268_UDH
+    Departure: 2025-01-20 13:30:00 from DCA
+    Arrival: 2025-01-20 15:00:00 in BOS
+========================================
+Trip ID: 159
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL269
+    Departure: 2025-01-21 07:00:00 from BOS
+    Arrival: 2025-01-21 08:30:00 in DCA
+  - Flight ID: FL269_UDH
+    Departure: 2025-01-21 13:30:00 from DCA
+    Arrival: 2025-01-21 15:00:00 in BOS
+========================================
+Trip ID: 160
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL270
+    Departure: 2025-01-22 07:00:00 from BOS
+    Arrival: 2025-01-22 08:30:00 in DCA
+  - Flight ID: FL270_UDH
+    Departure: 2025-01-22 13:30:00 from DCA
+    Arrival: 2025-01-22 15:00:00 in BOS
+========================================
+Trip ID: 161
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL271
+    Departure: 2025-01-23 07:00:00 from BOS
+    Arrival: 2025-01-23 08:30:00 in DCA
+  - Flight ID: FL271_UDH
+    Departure: 2025-01-23 13:30:00 from DCA
+    Arrival: 2025-01-23 15:00:00 in BOS
+========================================
+Trip ID: 162
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL272
+    Departure: 2025-01-24 07:00:00 from BOS
+    Arrival: 2025-01-24 08:30:00 in DCA
+  - Flight ID: FL272_UDH
+    Departure: 2025-01-24 13:30:00 from DCA
+    Arrival: 2025-01-24 15:00:00 in BOS
+========================================
+Trip ID: 163
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL273
+    Departure: 2025-01-25 07:00:00 from BOS
+    Arrival: 2025-01-25 08:30:00 in DCA
+  - Flight ID: FL273_UDH
+    Departure: 2025-01-25 13:30:00 from DCA
+    Arrival: 2025-01-25 15:00:00 in BOS
+========================================
+Trip ID: 164
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL274
+    Departure: 2025-01-26 07:00:00 from BOS
+    Arrival: 2025-01-26 08:30:00 in DCA
+  - Flight ID: FL274_UDH
+    Departure: 2025-01-26 13:30:00 from DCA
+    Arrival: 2025-01-26 15:00:00 in BOS
+========================================
+Trip ID: 165
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL275
+    Departure: 2025-01-27 07:00:00 from BOS
+    Arrival: 2025-01-27 08:30:00 in DCA
+  - Flight ID: FL275_UDH
+    Departure: 2025-01-27 13:30:00 from DCA
+    Arrival: 2025-01-27 15:00:00 in BOS
+========================================
+Trip ID: 166
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL276
+    Departure: 2025-01-28 07:00:00 from BOS
+    Arrival: 2025-01-28 08:30:00 in DCA
+  - Flight ID: FL276_UDH
+    Departure: 2025-01-28 13:30:00 from DCA
+    Arrival: 2025-01-28 15:00:00 in BOS
+========================================
+Trip ID: 167
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL277
+    Departure: 2025-01-29 07:00:00 from BOS
+    Arrival: 2025-01-29 08:30:00 in DCA
+  - Flight ID: FL277_UDH
+    Departure: 2025-01-29 13:30:00 from DCA
+    Arrival: 2025-01-29 15:00:00 in BOS
+========================================
+Trip ID: 168
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL278
+    Departure: 2025-01-30 07:00:00 from BOS
+    Arrival: 2025-01-30 08:30:00 in DCA
+  - Flight ID: FL278_UDH
+    Departure: 2025-01-30 13:30:00 from DCA
+    Arrival: 2025-01-30 15:00:00 in BOS
+========================================
+Trip ID: 169
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL279
+    Departure: 2025-01-31 07:00:00 from BOS
+    Arrival: 2025-01-31 08:30:00 in DCA
+  - Flight ID: FL279_UDH
+    Departure: 2025-01-31 13:30:00 from DCA
+    Arrival: 2025-01-31 15:00:00 in BOS
+========================================
+Trip ID: 170
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL285
+    Departure: 2025-01-06 12:00:00 from DCA
+    Arrival: 2025-01-06 13:30:00 in BOS
+  - Flight ID: FL285_UDH
+    Departure: 2025-01-06 18:30:00 from BOS
+    Arrival: 2025-01-06 20:00:00 in DCA
+========================================
+Trip ID: 171
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL286
+    Departure: 2025-01-07 12:00:00 from DCA
+    Arrival: 2025-01-07 13:30:00 in BOS
+  - Flight ID: FL286_UDH
+    Departure: 2025-01-07 18:30:00 from BOS
+    Arrival: 2025-01-07 20:00:00 in DCA
+========================================
+Trip ID: 172
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL287
+    Departure: 2025-01-08 12:00:00 from DCA
+    Arrival: 2025-01-08 13:30:00 in BOS
+  - Flight ID: FL287_UDH
+    Departure: 2025-01-08 18:30:00 from BOS
+    Arrival: 2025-01-08 20:00:00 in DCA
+========================================
+Trip ID: 173
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL288
+    Departure: 2025-01-09 12:00:00 from DCA
+    Arrival: 2025-01-09 13:30:00 in BOS
+  - Flight ID: FL288_UDH
+    Departure: 2025-01-09 18:30:00 from BOS
+    Arrival: 2025-01-09 20:00:00 in DCA
+========================================
+Trip ID: 174
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL289
+    Departure: 2025-01-10 12:00:00 from DCA
+    Arrival: 2025-01-10 13:30:00 in BOS
+  - Flight ID: FL289_UDH
+    Departure: 2025-01-10 18:30:00 from BOS
+    Arrival: 2025-01-10 20:00:00 in DCA
+========================================
+Trip ID: 175
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL290
+    Departure: 2025-01-11 12:00:00 from DCA
+    Arrival: 2025-01-11 13:30:00 in BOS
+  - Flight ID: FL290_UDH
+    Departure: 2025-01-11 18:30:00 from BOS
+    Arrival: 2025-01-11 20:00:00 in DCA
+========================================
+Trip ID: 176
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL291
+    Departure: 2025-01-12 12:00:00 from DCA
+    Arrival: 2025-01-12 13:30:00 in BOS
+  - Flight ID: FL291_UDH
+    Departure: 2025-01-12 18:30:00 from BOS
+    Arrival: 2025-01-12 20:00:00 in DCA
+========================================
+Trip ID: 177
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL292
+    Departure: 2025-01-13 12:00:00 from DCA
+    Arrival: 2025-01-13 13:30:00 in BOS
+  - Flight ID: FL292_UDH
+    Departure: 2025-01-13 18:30:00 from BOS
+    Arrival: 2025-01-13 20:00:00 in DCA
+========================================
+Trip ID: 178
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL293
+    Departure: 2025-01-14 12:00:00 from DCA
+    Arrival: 2025-01-14 13:30:00 in BOS
+  - Flight ID: FL293_UDH
+    Departure: 2025-01-14 18:30:00 from BOS
+    Arrival: 2025-01-14 20:00:00 in DCA
+========================================
+Trip ID: 179
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL294
+    Departure: 2025-01-15 12:00:00 from DCA
+    Arrival: 2025-01-15 13:30:00 in BOS
+  - Flight ID: FL294_UDH
+    Departure: 2025-01-15 18:30:00 from BOS
+    Arrival: 2025-01-15 20:00:00 in DCA
+========================================
+Trip ID: 180
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL295
+    Departure: 2025-01-16 12:00:00 from DCA
+    Arrival: 2025-01-16 13:30:00 in BOS
+  - Flight ID: FL295_UDH
+    Departure: 2025-01-16 18:30:00 from BOS
+    Arrival: 2025-01-16 20:00:00 in DCA
+========================================
+Trip ID: 181
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL296
+    Departure: 2025-01-17 12:00:00 from DCA
+    Arrival: 2025-01-17 13:30:00 in BOS
+  - Flight ID: FL296_UDH
+    Departure: 2025-01-17 18:30:00 from BOS
+    Arrival: 2025-01-17 20:00:00 in DCA
+========================================
+Trip ID: 182
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL297
+    Departure: 2025-01-18 12:00:00 from DCA
+    Arrival: 2025-01-18 13:30:00 in BOS
+  - Flight ID: FL297_UDH
+    Departure: 2025-01-18 18:30:00 from BOS
+    Arrival: 2025-01-18 20:00:00 in DCA
+========================================
+Trip ID: 183
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL298
+    Departure: 2025-01-19 12:00:00 from DCA
+    Arrival: 2025-01-19 13:30:00 in BOS
+  - Flight ID: FL298_UDH
+    Departure: 2025-01-19 18:30:00 from BOS
+    Arrival: 2025-01-19 20:00:00 in DCA
+========================================
+Trip ID: 184
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL299
+    Departure: 2025-01-20 12:00:00 from DCA
+    Arrival: 2025-01-20 13:30:00 in BOS
+  - Flight ID: FL299_UDH
+    Departure: 2025-01-20 18:30:00 from BOS
+    Arrival: 2025-01-20 20:00:00 in DCA
+========================================
+Trip ID: 185
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL300
+    Departure: 2025-01-21 12:00:00 from DCA
+    Arrival: 2025-01-21 13:30:00 in BOS
+  - Flight ID: FL300_UDH
+    Departure: 2025-01-21 18:30:00 from BOS
+    Arrival: 2025-01-21 20:00:00 in DCA
+========================================
+Trip ID: 186
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL301
+    Departure: 2025-01-22 12:00:00 from DCA
+    Arrival: 2025-01-22 13:30:00 in BOS
+  - Flight ID: FL301_UDH
+    Departure: 2025-01-22 18:30:00 from BOS
+    Arrival: 2025-01-22 20:00:00 in DCA
+========================================
+Trip ID: 187
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL302
+    Departure: 2025-01-23 12:00:00 from DCA
+    Arrival: 2025-01-23 13:30:00 in BOS
+  - Flight ID: FL302_UDH
+    Departure: 2025-01-23 18:30:00 from BOS
+    Arrival: 2025-01-23 20:00:00 in DCA
+========================================
+Trip ID: 188
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL303
+    Departure: 2025-01-24 12:00:00 from DCA
+    Arrival: 2025-01-24 13:30:00 in BOS
+  - Flight ID: FL303_UDH
+    Departure: 2025-01-24 18:30:00 from BOS
+    Arrival: 2025-01-24 20:00:00 in DCA
+========================================
+Trip ID: 189
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL304
+    Departure: 2025-01-25 12:00:00 from DCA
+    Arrival: 2025-01-25 13:30:00 in BOS
+  - Flight ID: FL304_UDH
+    Departure: 2025-01-25 18:30:00 from BOS
+    Arrival: 2025-01-25 20:00:00 in DCA
+========================================
+Trip ID: 190
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL305
+    Departure: 2025-01-26 12:00:00 from DCA
+    Arrival: 2025-01-26 13:30:00 in BOS
+  - Flight ID: FL305_UDH
+    Departure: 2025-01-26 18:30:00 from BOS
+    Arrival: 2025-01-26 20:00:00 in DCA
+========================================
+Trip ID: 191
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL306
+    Departure: 2025-01-27 12:00:00 from DCA
+    Arrival: 2025-01-27 13:30:00 in BOS
+  - Flight ID: FL306_UDH
+    Departure: 2025-01-27 18:30:00 from BOS
+    Arrival: 2025-01-27 20:00:00 in DCA
+========================================
+Trip ID: 192
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL307
+    Departure: 2025-01-28 12:00:00 from DCA
+    Arrival: 2025-01-28 13:30:00 in BOS
+  - Flight ID: FL307_UDH
+    Departure: 2025-01-28 18:30:00 from BOS
+    Arrival: 2025-01-28 20:00:00 in DCA
+========================================
+Trip ID: 193
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL308
+    Departure: 2025-01-29 12:00:00 from DCA
+    Arrival: 2025-01-29 13:30:00 in BOS
+  - Flight ID: FL308_UDH
+    Departure: 2025-01-29 18:30:00 from BOS
+    Arrival: 2025-01-29 20:00:00 in DCA
+========================================
+Trip ID: 194
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL309
+    Departure: 2025-01-30 12:00:00 from DCA
+    Arrival: 2025-01-30 13:30:00 in BOS
+  - Flight ID: FL309_UDH
+    Departure: 2025-01-30 18:30:00 from BOS
+    Arrival: 2025-01-30 20:00:00 in DCA
+========================================
+Trip ID: 195
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL310
+    Departure: 2025-01-31 12:00:00 from DCA
+    Arrival: 2025-01-31 13:30:00 in BOS
+  - Flight ID: FL310_UDH
+    Departure: 2025-01-31 18:30:00 from BOS
+    Arrival: 2025-01-31 20:00:00 in DCA
+========================================
+Trip ID: 196
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL324
+    Departure: 2025-01-14 08:00:00 from DEN
+    Arrival: 2025-01-14 09:30:00 in PHX
+  - Flight ID: FL324_UDH
+    Departure: 2025-01-14 14:30:00 from PHX
+    Arrival: 2025-01-14 16:00:00 in DEN
+========================================
+Trip ID: 197
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL325
+    Departure: 2025-01-15 08:00:00 from DEN
+    Arrival: 2025-01-15 09:30:00 in PHX
+  - Flight ID: FL325_UDH
+    Departure: 2025-01-15 14:30:00 from PHX
+    Arrival: 2025-01-15 16:00:00 in DEN
+========================================
+Trip ID: 198
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL326
+    Departure: 2025-01-16 08:00:00 from DEN
+    Arrival: 2025-01-16 09:30:00 in PHX
+  - Flight ID: FL326_UDH
+    Departure: 2025-01-16 14:30:00 from PHX
+    Arrival: 2025-01-16 16:00:00 in DEN
+========================================
+Trip ID: 199
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL327
+    Departure: 2025-01-17 08:00:00 from DEN
+    Arrival: 2025-01-17 09:30:00 in PHX
+  - Flight ID: FL327_UDH
+    Departure: 2025-01-17 14:30:00 from PHX
+    Arrival: 2025-01-17 16:00:00 in DEN
+========================================
+Trip ID: 200
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL328
+    Departure: 2025-01-18 08:00:00 from DEN
+    Arrival: 2025-01-18 09:30:00 in PHX
+  - Flight ID: FL328_UDH
+    Departure: 2025-01-18 14:30:00 from PHX
+    Arrival: 2025-01-18 16:00:00 in DEN
+========================================
+Trip ID: 201
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL329
+    Departure: 2025-01-19 08:00:00 from DEN
+    Arrival: 2025-01-19 09:30:00 in PHX
+  - Flight ID: FL329_UDH
+    Departure: 2025-01-19 14:30:00 from PHX
+    Arrival: 2025-01-19 16:00:00 in DEN
+========================================
+Trip ID: 202
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL330
+    Departure: 2025-01-20 08:00:00 from DEN
+    Arrival: 2025-01-20 09:30:00 in PHX
+  - Flight ID: FL330_UDH
+    Departure: 2025-01-20 14:30:00 from PHX
+    Arrival: 2025-01-20 16:00:00 in DEN
+========================================
+Trip ID: 203
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL331
+    Departure: 2025-01-21 08:00:00 from DEN
+    Arrival: 2025-01-21 09:30:00 in PHX
+  - Flight ID: FL331_UDH
+    Departure: 2025-01-21 14:30:00 from PHX
+    Arrival: 2025-01-21 16:00:00 in DEN
+========================================
+Trip ID: 204
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL332
+    Departure: 2025-01-22 08:00:00 from DEN
+    Arrival: 2025-01-22 09:30:00 in PHX
+  - Flight ID: FL332_UDH
+    Departure: 2025-01-22 14:30:00 from PHX
+    Arrival: 2025-01-22 16:00:00 in DEN
+========================================
+Trip ID: 205
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL333
+    Departure: 2025-01-23 08:00:00 from DEN
+    Arrival: 2025-01-23 09:30:00 in PHX
+  - Flight ID: FL333_UDH
+    Departure: 2025-01-23 14:30:00 from PHX
+    Arrival: 2025-01-23 16:00:00 in DEN
+========================================
+Trip ID: 206
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL334
+    Departure: 2025-01-24 08:00:00 from DEN
+    Arrival: 2025-01-24 09:30:00 in PHX
+  - Flight ID: FL334_UDH
+    Departure: 2025-01-24 14:30:00 from PHX
+    Arrival: 2025-01-24 16:00:00 in DEN
+========================================
+Trip ID: 207
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL335
+    Departure: 2025-01-25 08:00:00 from DEN
+    Arrival: 2025-01-25 09:30:00 in PHX
+  - Flight ID: FL335_UDH
+    Departure: 2025-01-25 14:30:00 from PHX
+    Arrival: 2025-01-25 16:00:00 in DEN
+========================================
+Trip ID: 208
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL336
+    Departure: 2025-01-26 08:00:00 from DEN
+    Arrival: 2025-01-26 09:30:00 in PHX
+  - Flight ID: FL336_UDH
+    Departure: 2025-01-26 14:30:00 from PHX
+    Arrival: 2025-01-26 16:00:00 in DEN
+========================================
+Trip ID: 209
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL337
+    Departure: 2025-01-27 08:00:00 from DEN
+    Arrival: 2025-01-27 09:30:00 in PHX
+  - Flight ID: FL337_UDH
+    Departure: 2025-01-27 14:30:00 from PHX
+    Arrival: 2025-01-27 16:00:00 in DEN
+========================================
+Trip ID: 210
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL338
+    Departure: 2025-01-28 08:00:00 from DEN
+    Arrival: 2025-01-28 09:30:00 in PHX
+  - Flight ID: FL338_UDH
+    Departure: 2025-01-28 14:30:00 from PHX
+    Arrival: 2025-01-28 16:00:00 in DEN
+========================================
+Trip ID: 211
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL339
+    Departure: 2025-01-29 08:00:00 from DEN
+    Arrival: 2025-01-29 09:30:00 in PHX
+  - Flight ID: FL339_UDH
+    Departure: 2025-01-29 14:30:00 from PHX
+    Arrival: 2025-01-29 16:00:00 in DEN
+========================================
+Trip ID: 212
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL340
+    Departure: 2025-01-30 08:00:00 from DEN
+    Arrival: 2025-01-30 09:30:00 in PHX
+  - Flight ID: FL340_UDH
+    Departure: 2025-01-30 14:30:00 from PHX
+    Arrival: 2025-01-30 16:00:00 in DEN
+========================================
+Trip ID: 213
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL341
+    Departure: 2025-01-31 08:00:00 from DEN
+    Arrival: 2025-01-31 09:30:00 in PHX
+  - Flight ID: FL341_UDH
+    Departure: 2025-01-31 14:30:00 from PHX
+    Arrival: 2025-01-31 16:00:00 in DEN
+========================================
+Trip ID: 214
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL354
+    Departure: 2025-01-13 14:00:00 from PHX
+    Arrival: 2025-01-13 15:30:00 in DEN
+  - Flight ID: FL354_UDH
+    Departure: 2025-01-13 20:30:00 from DEN
+    Arrival: 2025-01-13 22:00:00 in PHX
+========================================
+Trip ID: 215
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL355
+    Departure: 2025-01-14 14:00:00 from PHX
+    Arrival: 2025-01-14 15:30:00 in DEN
+  - Flight ID: FL355_UDH
+    Departure: 2025-01-14 20:30:00 from DEN
+    Arrival: 2025-01-14 22:00:00 in PHX
+========================================
+Trip ID: 216
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL356
+    Departure: 2025-01-15 14:00:00 from PHX
+    Arrival: 2025-01-15 15:30:00 in DEN
+  - Flight ID: FL356_UDH
+    Departure: 2025-01-15 20:30:00 from DEN
+    Arrival: 2025-01-15 22:00:00 in PHX
+========================================
+Trip ID: 217
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL357
+    Departure: 2025-01-16 14:00:00 from PHX
+    Arrival: 2025-01-16 15:30:00 in DEN
+  - Flight ID: FL357_UDH
+    Departure: 2025-01-16 20:30:00 from DEN
+    Arrival: 2025-01-16 22:00:00 in PHX
+========================================
+Trip ID: 218
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL358
+    Departure: 2025-01-17 14:00:00 from PHX
+    Arrival: 2025-01-17 15:30:00 in DEN
+  - Flight ID: FL358_UDH
+    Departure: 2025-01-17 20:30:00 from DEN
+    Arrival: 2025-01-17 22:00:00 in PHX
+========================================
+Trip ID: 219
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL359
+    Departure: 2025-01-18 14:00:00 from PHX
+    Arrival: 2025-01-18 15:30:00 in DEN
+  - Flight ID: FL359_UDH
+    Departure: 2025-01-18 20:30:00 from DEN
+    Arrival: 2025-01-18 22:00:00 in PHX
+========================================
+Trip ID: 220
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL360
+    Departure: 2025-01-19 14:00:00 from PHX
+    Arrival: 2025-01-19 15:30:00 in DEN
+  - Flight ID: FL360_UDH
+    Departure: 2025-01-19 20:30:00 from DEN
+    Arrival: 2025-01-19 22:00:00 in PHX
+========================================
+Trip ID: 221
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL361
+    Departure: 2025-01-20 14:00:00 from PHX
+    Arrival: 2025-01-20 15:30:00 in DEN
+  - Flight ID: FL361_UDH
+    Departure: 2025-01-20 20:30:00 from DEN
+    Arrival: 2025-01-20 22:00:00 in PHX
+========================================
+Trip ID: 222
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL362
+    Departure: 2025-01-21 14:00:00 from PHX
+    Arrival: 2025-01-21 15:30:00 in DEN
+  - Flight ID: FL362_UDH
+    Departure: 2025-01-21 20:30:00 from DEN
+    Arrival: 2025-01-21 22:00:00 in PHX
+========================================
+Trip ID: 223
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL363
+    Departure: 2025-01-22 14:00:00 from PHX
+    Arrival: 2025-01-22 15:30:00 in DEN
+  - Flight ID: FL363_UDH
+    Departure: 2025-01-22 20:30:00 from DEN
+    Arrival: 2025-01-22 22:00:00 in PHX
+========================================
+Trip ID: 224
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL364
+    Departure: 2025-01-23 14:00:00 from PHX
+    Arrival: 2025-01-23 15:30:00 in DEN
+  - Flight ID: FL364_UDH
+    Departure: 2025-01-23 20:30:00 from DEN
+    Arrival: 2025-01-23 22:00:00 in PHX
+========================================
+Trip ID: 225
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL365
+    Departure: 2025-01-24 14:00:00 from PHX
+    Arrival: 2025-01-24 15:30:00 in DEN
+  - Flight ID: FL365_UDH
+    Departure: 2025-01-24 20:30:00 from DEN
+    Arrival: 2025-01-24 22:00:00 in PHX
+========================================
+Trip ID: 226
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL366
+    Departure: 2025-01-25 14:00:00 from PHX
+    Arrival: 2025-01-25 15:30:00 in DEN
+  - Flight ID: FL366_UDH
+    Departure: 2025-01-25 20:30:00 from DEN
+    Arrival: 2025-01-25 22:00:00 in PHX
+========================================
+Trip ID: 227
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL367
+    Departure: 2025-01-26 14:00:00 from PHX
+    Arrival: 2025-01-26 15:30:00 in DEN
+  - Flight ID: FL367_UDH
+    Departure: 2025-01-26 20:30:00 from DEN
+    Arrival: 2025-01-26 22:00:00 in PHX
+========================================
+Trip ID: 228
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL368
+    Departure: 2025-01-27 14:00:00 from PHX
+    Arrival: 2025-01-27 15:30:00 in DEN
+  - Flight ID: FL368_UDH
+    Departure: 2025-01-27 20:30:00 from DEN
+    Arrival: 2025-01-27 22:00:00 in PHX
+========================================
+Trip ID: 229
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL369
+    Departure: 2025-01-28 14:00:00 from PHX
+    Arrival: 2025-01-28 15:30:00 in DEN
+  - Flight ID: FL369_UDH
+    Departure: 2025-01-28 20:30:00 from DEN
+    Arrival: 2025-01-28 22:00:00 in PHX
+========================================
+Trip ID: 230
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL370
+    Departure: 2025-01-29 14:00:00 from PHX
+    Arrival: 2025-01-29 15:30:00 in DEN
+  - Flight ID: FL370_UDH
+    Departure: 2025-01-29 20:30:00 from DEN
+    Arrival: 2025-01-29 22:00:00 in PHX
+========================================
+Trip ID: 231
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL371
+    Departure: 2025-01-30 14:00:00 from PHX
+    Arrival: 2025-01-30 15:30:00 in DEN
+  - Flight ID: FL371_UDH
+    Departure: 2025-01-30 20:30:00 from DEN
+    Arrival: 2025-01-30 22:00:00 in PHX
+========================================
+Trip ID: 232
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL372
+    Departure: 2025-01-31 14:00:00 from PHX
+    Arrival: 2025-01-31 15:30:00 in DEN
+  - Flight ID: FL372_UDH
+    Departure: 2025-01-31 20:30:00 from DEN
+    Arrival: 2025-01-31 22:00:00 in PHX
+========================================
+Trip ID: 233
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL386
+    Departure: 2025-01-14 07:30:00 from IAH
+    Arrival: 2025-01-14 10:00:00 in MSP
+  - Flight ID: FL386_UDH
+    Departure: 2025-01-14 15:00:00 from MSP
+    Arrival: 2025-01-14 17:30:00 in IAH
+========================================
+Trip ID: 234
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL387
+    Departure: 2025-01-15 07:30:00 from IAH
+    Arrival: 2025-01-15 10:00:00 in MSP
+  - Flight ID: FL387_UDH
+    Departure: 2025-01-15 15:00:00 from MSP
+    Arrival: 2025-01-15 17:30:00 in IAH
+========================================
+Trip ID: 235
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL388
+    Departure: 2025-01-16 07:30:00 from IAH
+    Arrival: 2025-01-16 10:00:00 in MSP
+  - Flight ID: FL388_UDH
+    Departure: 2025-01-16 15:00:00 from MSP
+    Arrival: 2025-01-16 17:30:00 in IAH
+========================================
+Trip ID: 236
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL389
+    Departure: 2025-01-17 07:30:00 from IAH
+    Arrival: 2025-01-17 10:00:00 in MSP
+  - Flight ID: FL389_UDH
+    Departure: 2025-01-17 15:00:00 from MSP
+    Arrival: 2025-01-17 17:30:00 in IAH
+========================================
+Trip ID: 237
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL390
+    Departure: 2025-01-18 07:30:00 from IAH
+    Arrival: 2025-01-18 10:00:00 in MSP
+  - Flight ID: FL390_UDH
+    Departure: 2025-01-18 15:00:00 from MSP
+    Arrival: 2025-01-18 17:30:00 in IAH
+========================================
+Trip ID: 238
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL391
+    Departure: 2025-01-19 07:30:00 from IAH
+    Arrival: 2025-01-19 10:00:00 in MSP
+  - Flight ID: FL391_UDH
+    Departure: 2025-01-19 15:00:00 from MSP
+    Arrival: 2025-01-19 17:30:00 in IAH
+========================================
+Trip ID: 239
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL392
+    Departure: 2025-01-20 07:30:00 from IAH
+    Arrival: 2025-01-20 10:00:00 in MSP
+  - Flight ID: FL392_UDH
+    Departure: 2025-01-20 15:00:00 from MSP
+    Arrival: 2025-01-20 17:30:00 in IAH
+========================================
+Trip ID: 240
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL393
+    Departure: 2025-01-21 07:30:00 from IAH
+    Arrival: 2025-01-21 10:00:00 in MSP
+  - Flight ID: FL393_UDH
+    Departure: 2025-01-21 15:00:00 from MSP
+    Arrival: 2025-01-21 17:30:00 in IAH
+========================================
+Trip ID: 241
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL394
+    Departure: 2025-01-22 07:30:00 from IAH
+    Arrival: 2025-01-22 10:00:00 in MSP
+  - Flight ID: FL394_UDH
+    Departure: 2025-01-22 15:00:00 from MSP
+    Arrival: 2025-01-22 17:30:00 in IAH
+========================================
+Trip ID: 242
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL395
+    Departure: 2025-01-23 07:30:00 from IAH
+    Arrival: 2025-01-23 10:00:00 in MSP
+  - Flight ID: FL395_UDH
+    Departure: 2025-01-23 15:00:00 from MSP
+    Arrival: 2025-01-23 17:30:00 in IAH
+========================================
+Trip ID: 243
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL396
+    Departure: 2025-01-24 07:30:00 from IAH
+    Arrival: 2025-01-24 10:00:00 in MSP
+  - Flight ID: FL396_UDH
+    Departure: 2025-01-24 15:00:00 from MSP
+    Arrival: 2025-01-24 17:30:00 in IAH
+========================================
+Trip ID: 244
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL397
+    Departure: 2025-01-25 07:30:00 from IAH
+    Arrival: 2025-01-25 10:00:00 in MSP
+  - Flight ID: FL397_UDH
+    Departure: 2025-01-25 15:00:00 from MSP
+    Arrival: 2025-01-25 17:30:00 in IAH
+========================================
+Trip ID: 245
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL398
+    Departure: 2025-01-26 07:30:00 from IAH
+    Arrival: 2025-01-26 10:00:00 in MSP
+  - Flight ID: FL398_UDH
+    Departure: 2025-01-26 15:00:00 from MSP
+    Arrival: 2025-01-26 17:30:00 in IAH
+========================================
+Trip ID: 246
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL399
+    Departure: 2025-01-27 07:30:00 from IAH
+    Arrival: 2025-01-27 10:00:00 in MSP
+  - Flight ID: FL399_UDH
+    Departure: 2025-01-27 15:00:00 from MSP
+    Arrival: 2025-01-27 17:30:00 in IAH
+========================================
+Trip ID: 247
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL400
+    Departure: 2025-01-28 07:30:00 from IAH
+    Arrival: 2025-01-28 10:00:00 in MSP
+  - Flight ID: FL400_UDH
+    Departure: 2025-01-28 15:00:00 from MSP
+    Arrival: 2025-01-28 17:30:00 in IAH
+========================================
+Trip ID: 248
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL401
+    Departure: 2025-01-29 07:30:00 from IAH
+    Arrival: 2025-01-29 10:00:00 in MSP
+  - Flight ID: FL401_UDH
+    Departure: 2025-01-29 15:00:00 from MSP
+    Arrival: 2025-01-29 17:30:00 in IAH
+========================================
+Trip ID: 249
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL402
+    Departure: 2025-01-30 07:30:00 from IAH
+    Arrival: 2025-01-30 10:00:00 in MSP
+  - Flight ID: FL402_UDH
+    Departure: 2025-01-30 15:00:00 from MSP
+    Arrival: 2025-01-30 17:30:00 in IAH
+========================================
+Trip ID: 250
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL403
+    Departure: 2025-01-31 07:30:00 from IAH
+    Arrival: 2025-01-31 10:00:00 in MSP
+  - Flight ID: FL403_UDH
+    Departure: 2025-01-31 15:00:00 from MSP
+    Arrival: 2025-01-31 17:30:00 in IAH
+========================================
+Trip ID: 251
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL416
+    Departure: 2025-01-13 13:30:00 from MSP
+    Arrival: 2025-01-13 16:00:00 in IAH
+  - Flight ID: FL416_UDH
+    Departure: 2025-01-13 21:00:00 from IAH
+    Arrival: 2025-01-13 23:30:00 in MSP
+========================================
+Trip ID: 252
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL417
+    Departure: 2025-01-14 13:30:00 from MSP
+    Arrival: 2025-01-14 16:00:00 in IAH
+  - Flight ID: FL417_UDH
+    Departure: 2025-01-14 21:00:00 from IAH
+    Arrival: 2025-01-14 23:30:00 in MSP
+========================================
+Trip ID: 253
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL418
+    Departure: 2025-01-15 13:30:00 from MSP
+    Arrival: 2025-01-15 16:00:00 in IAH
+  - Flight ID: FL418_UDH
+    Departure: 2025-01-15 21:00:00 from IAH
+    Arrival: 2025-01-15 23:30:00 in MSP
+========================================
+Trip ID: 254
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL419
+    Departure: 2025-01-16 13:30:00 from MSP
+    Arrival: 2025-01-16 16:00:00 in IAH
+  - Flight ID: FL419_UDH
+    Departure: 2025-01-16 21:00:00 from IAH
+    Arrival: 2025-01-16 23:30:00 in MSP
+========================================
+Trip ID: 255
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL420
+    Departure: 2025-01-17 13:30:00 from MSP
+    Arrival: 2025-01-17 16:00:00 in IAH
+  - Flight ID: FL420_UDH
+    Departure: 2025-01-17 21:00:00 from IAH
+    Arrival: 2025-01-17 23:30:00 in MSP
+========================================
+Trip ID: 256
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL421
+    Departure: 2025-01-18 13:30:00 from MSP
+    Arrival: 2025-01-18 16:00:00 in IAH
+  - Flight ID: FL421_UDH
+    Departure: 2025-01-18 21:00:00 from IAH
+    Arrival: 2025-01-18 23:30:00 in MSP
+========================================
+Trip ID: 257
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL422
+    Departure: 2025-01-19 13:30:00 from MSP
+    Arrival: 2025-01-19 16:00:00 in IAH
+  - Flight ID: FL422_UDH
+    Departure: 2025-01-19 21:00:00 from IAH
+    Arrival: 2025-01-19 23:30:00 in MSP
+========================================
+Trip ID: 258
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL423
+    Departure: 2025-01-20 13:30:00 from MSP
+    Arrival: 2025-01-20 16:00:00 in IAH
+  - Flight ID: FL423_UDH
+    Departure: 2025-01-20 21:00:00 from IAH
+    Arrival: 2025-01-20 23:30:00 in MSP
+========================================
+Trip ID: 259
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL424
+    Departure: 2025-01-21 13:30:00 from MSP
+    Arrival: 2025-01-21 16:00:00 in IAH
+  - Flight ID: FL424_UDH
+    Departure: 2025-01-21 21:00:00 from IAH
+    Arrival: 2025-01-21 23:30:00 in MSP
+========================================
+Trip ID: 260
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL425
+    Departure: 2025-01-22 13:30:00 from MSP
+    Arrival: 2025-01-22 16:00:00 in IAH
+  - Flight ID: FL425_UDH
+    Departure: 2025-01-22 21:00:00 from IAH
+    Arrival: 2025-01-22 23:30:00 in MSP
+========================================
+Trip ID: 261
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL426
+    Departure: 2025-01-23 13:30:00 from MSP
+    Arrival: 2025-01-23 16:00:00 in IAH
+  - Flight ID: FL426_UDH
+    Departure: 2025-01-23 21:00:00 from IAH
+    Arrival: 2025-01-23 23:30:00 in MSP
+========================================
+Trip ID: 262
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL427
+    Departure: 2025-01-24 13:30:00 from MSP
+    Arrival: 2025-01-24 16:00:00 in IAH
+  - Flight ID: FL427_UDH
+    Departure: 2025-01-24 21:00:00 from IAH
+    Arrival: 2025-01-24 23:30:00 in MSP
+========================================
+Trip ID: 263
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL428
+    Departure: 2025-01-25 13:30:00 from MSP
+    Arrival: 2025-01-25 16:00:00 in IAH
+  - Flight ID: FL428_UDH
+    Departure: 2025-01-25 21:00:00 from IAH
+    Arrival: 2025-01-25 23:30:00 in MSP
+========================================
+Trip ID: 264
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL429
+    Departure: 2025-01-26 13:30:00 from MSP
+    Arrival: 2025-01-26 16:00:00 in IAH
+  - Flight ID: FL429_UDH
+    Departure: 2025-01-26 21:00:00 from IAH
+    Arrival: 2025-01-26 23:30:00 in MSP
+========================================
+Trip ID: 265
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL430
+    Departure: 2025-01-27 13:30:00 from MSP
+    Arrival: 2025-01-27 16:00:00 in IAH
+  - Flight ID: FL430_UDH
+    Departure: 2025-01-27 21:00:00 from IAH
+    Arrival: 2025-01-27 23:30:00 in MSP
+========================================
+Trip ID: 266
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL431
+    Departure: 2025-01-28 13:30:00 from MSP
+    Arrival: 2025-01-28 16:00:00 in IAH
+  - Flight ID: FL431_UDH
+    Departure: 2025-01-28 21:00:00 from IAH
+    Arrival: 2025-01-28 23:30:00 in MSP
+========================================
+Trip ID: 267
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL432
+    Departure: 2025-01-29 13:30:00 from MSP
+    Arrival: 2025-01-29 16:00:00 in IAH
+  - Flight ID: FL432_UDH
+    Departure: 2025-01-29 21:00:00 from IAH
+    Arrival: 2025-01-29 23:30:00 in MSP
+========================================
+Trip ID: 268
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL433
+    Departure: 2025-01-30 13:30:00 from MSP
+    Arrival: 2025-01-30 16:00:00 in IAH
+  - Flight ID: FL433_UDH
+    Departure: 2025-01-30 21:00:00 from IAH
+    Arrival: 2025-01-30 23:30:00 in MSP
+========================================
+Trip ID: 269
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL434
+    Departure: 2025-01-31 13:30:00 from MSP
+    Arrival: 2025-01-31 16:00:00 in IAH
+  - Flight ID: FL434_UDH
+    Departure: 2025-01-31 21:00:00 from IAH
+    Arrival: 2025-01-31 23:30:00 in MSP
+========================================
+Trip ID: 270
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL448
+    Departure: 2025-01-14 08:00:00 from CLT
+    Arrival: 2025-01-14 09:30:00 in DTW
+  - Flight ID: FL448_UDH
+    Departure: 2025-01-14 14:30:00 from DTW
+    Arrival: 2025-01-14 16:00:00 in CLT
+========================================
+Trip ID: 271
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL449
+    Departure: 2025-01-15 08:00:00 from CLT
+    Arrival: 2025-01-15 09:30:00 in DTW
+  - Flight ID: FL449_UDH
+    Departure: 2025-01-15 14:30:00 from DTW
+    Arrival: 2025-01-15 16:00:00 in CLT
+========================================
+Trip ID: 272
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL450
+    Departure: 2025-01-16 08:00:00 from CLT
+    Arrival: 2025-01-16 09:30:00 in DTW
+  - Flight ID: FL450_UDH
+    Departure: 2025-01-16 14:30:00 from DTW
+    Arrival: 2025-01-16 16:00:00 in CLT
+========================================
+Trip ID: 273
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL451
+    Departure: 2025-01-17 08:00:00 from CLT
+    Arrival: 2025-01-17 09:30:00 in DTW
+  - Flight ID: FL451_UDH
+    Departure: 2025-01-17 14:30:00 from DTW
+    Arrival: 2025-01-17 16:00:00 in CLT
+========================================
+Trip ID: 274
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL452
+    Departure: 2025-01-18 08:00:00 from CLT
+    Arrival: 2025-01-18 09:30:00 in DTW
+  - Flight ID: FL452_UDH
+    Departure: 2025-01-18 14:30:00 from DTW
+    Arrival: 2025-01-18 16:00:00 in CLT
+========================================
+Trip ID: 275
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL453
+    Departure: 2025-01-19 08:00:00 from CLT
+    Arrival: 2025-01-19 09:30:00 in DTW
+  - Flight ID: FL453_UDH
+    Departure: 2025-01-19 14:30:00 from DTW
+    Arrival: 2025-01-19 16:00:00 in CLT
+========================================
+Trip ID: 276
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL454
+    Departure: 2025-01-20 08:00:00 from CLT
+    Arrival: 2025-01-20 09:30:00 in DTW
+  - Flight ID: FL454_UDH
+    Departure: 2025-01-20 14:30:00 from DTW
+    Arrival: 2025-01-20 16:00:00 in CLT
+========================================
+Trip ID: 277
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL455
+    Departure: 2025-01-21 08:00:00 from CLT
+    Arrival: 2025-01-21 09:30:00 in DTW
+  - Flight ID: FL455_UDH
+    Departure: 2025-01-21 14:30:00 from DTW
+    Arrival: 2025-01-21 16:00:00 in CLT
+========================================
+Trip ID: 278
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL456
+    Departure: 2025-01-22 08:00:00 from CLT
+    Arrival: 2025-01-22 09:30:00 in DTW
+  - Flight ID: FL456_UDH
+    Departure: 2025-01-22 14:30:00 from DTW
+    Arrival: 2025-01-22 16:00:00 in CLT
+========================================
+Trip ID: 279
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL457
+    Departure: 2025-01-23 08:00:00 from CLT
+    Arrival: 2025-01-23 09:30:00 in DTW
+  - Flight ID: FL457_UDH
+    Departure: 2025-01-23 14:30:00 from DTW
+    Arrival: 2025-01-23 16:00:00 in CLT
+========================================
+Trip ID: 280
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL458
+    Departure: 2025-01-24 08:00:00 from CLT
+    Arrival: 2025-01-24 09:30:00 in DTW
+  - Flight ID: FL458_UDH
+    Departure: 2025-01-24 14:30:00 from DTW
+    Arrival: 2025-01-24 16:00:00 in CLT
+========================================
+Trip ID: 281
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL459
+    Departure: 2025-01-25 08:00:00 from CLT
+    Arrival: 2025-01-25 09:30:00 in DTW
+  - Flight ID: FL459_UDH
+    Departure: 2025-01-25 14:30:00 from DTW
+    Arrival: 2025-01-25 16:00:00 in CLT
+========================================
+Trip ID: 282
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL460
+    Departure: 2025-01-26 08:00:00 from CLT
+    Arrival: 2025-01-26 09:30:00 in DTW
+  - Flight ID: FL460_UDH
+    Departure: 2025-01-26 14:30:00 from DTW
+    Arrival: 2025-01-26 16:00:00 in CLT
+========================================
+Trip ID: 283
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL461
+    Departure: 2025-01-27 08:00:00 from CLT
+    Arrival: 2025-01-27 09:30:00 in DTW
+  - Flight ID: FL461_UDH
+    Departure: 2025-01-27 14:30:00 from DTW
+    Arrival: 2025-01-27 16:00:00 in CLT
+========================================
+Trip ID: 284
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL462
+    Departure: 2025-01-28 08:00:00 from CLT
+    Arrival: 2025-01-28 09:30:00 in DTW
+  - Flight ID: FL462_UDH
+    Departure: 2025-01-28 14:30:00 from DTW
+    Arrival: 2025-01-28 16:00:00 in CLT
+========================================
+Trip ID: 285
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL463
+    Departure: 2025-01-29 08:00:00 from CLT
+    Arrival: 2025-01-29 09:30:00 in DTW
+  - Flight ID: FL463_UDH
+    Departure: 2025-01-29 14:30:00 from DTW
+    Arrival: 2025-01-29 16:00:00 in CLT
+========================================
+Trip ID: 286
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL464
+    Departure: 2025-01-30 08:00:00 from CLT
+    Arrival: 2025-01-30 09:30:00 in DTW
+  - Flight ID: FL464_UDH
+    Departure: 2025-01-30 14:30:00 from DTW
+    Arrival: 2025-01-30 16:00:00 in CLT
+========================================
+Trip ID: 287
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL465
+    Departure: 2025-01-31 08:00:00 from CLT
+    Arrival: 2025-01-31 09:30:00 in DTW
+  - Flight ID: FL465_UDH
+    Departure: 2025-01-31 14:30:00 from DTW
+    Arrival: 2025-01-31 16:00:00 in CLT
+========================================
+Trip ID: 288
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL478
+    Departure: 2025-01-13 14:00:00 from DTW
+    Arrival: 2025-01-13 15:30:00 in CLT
+  - Flight ID: FL478_UDH
+    Departure: 2025-01-13 20:30:00 from CLT
+    Arrival: 2025-01-13 22:00:00 in DTW
+========================================
+Trip ID: 289
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL479
+    Departure: 2025-01-14 14:00:00 from DTW
+    Arrival: 2025-01-14 15:30:00 in CLT
+  - Flight ID: FL479_UDH
+    Departure: 2025-01-14 20:30:00 from CLT
+    Arrival: 2025-01-14 22:00:00 in DTW
+========================================
+Trip ID: 290
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL480
+    Departure: 2025-01-15 14:00:00 from DTW
+    Arrival: 2025-01-15 15:30:00 in CLT
+  - Flight ID: FL480_UDH
+    Departure: 2025-01-15 20:30:00 from CLT
+    Arrival: 2025-01-15 22:00:00 in DTW
+========================================
+Trip ID: 291
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL481
+    Departure: 2025-01-16 14:00:00 from DTW
+    Arrival: 2025-01-16 15:30:00 in CLT
+  - Flight ID: FL481_UDH
+    Departure: 2025-01-16 20:30:00 from CLT
+    Arrival: 2025-01-16 22:00:00 in DTW
+========================================
+Trip ID: 292
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL482
+    Departure: 2025-01-17 14:00:00 from DTW
+    Arrival: 2025-01-17 15:30:00 in CLT
+  - Flight ID: FL482_UDH
+    Departure: 2025-01-17 20:30:00 from CLT
+    Arrival: 2025-01-17 22:00:00 in DTW
+========================================
+Trip ID: 293
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL483
+    Departure: 2025-01-18 14:00:00 from DTW
+    Arrival: 2025-01-18 15:30:00 in CLT
+  - Flight ID: FL483_UDH
+    Departure: 2025-01-18 20:30:00 from CLT
+    Arrival: 2025-01-18 22:00:00 in DTW
+========================================
+Trip ID: 294
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL484
+    Departure: 2025-01-19 14:00:00 from DTW
+    Arrival: 2025-01-19 15:30:00 in CLT
+  - Flight ID: FL484_UDH
+    Departure: 2025-01-19 20:30:00 from CLT
+    Arrival: 2025-01-19 22:00:00 in DTW
+========================================
+Trip ID: 295
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL485
+    Departure: 2025-01-20 14:00:00 from DTW
+    Arrival: 2025-01-20 15:30:00 in CLT
+  - Flight ID: FL485_UDH
+    Departure: 2025-01-20 20:30:00 from CLT
+    Arrival: 2025-01-20 22:00:00 in DTW
+========================================
+Trip ID: 296
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL486
+    Departure: 2025-01-21 14:00:00 from DTW
+    Arrival: 2025-01-21 15:30:00 in CLT
+  - Flight ID: FL486_UDH
+    Departure: 2025-01-21 20:30:00 from CLT
+    Arrival: 2025-01-21 22:00:00 in DTW
+========================================
+Trip ID: 297
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL487
+    Departure: 2025-01-22 14:00:00 from DTW
+    Arrival: 2025-01-22 15:30:00 in CLT
+  - Flight ID: FL487_UDH
+    Departure: 2025-01-22 20:30:00 from CLT
+    Arrival: 2025-01-22 22:00:00 in DTW
+========================================
+Trip ID: 298
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL488
+    Departure: 2025-01-23 14:00:00 from DTW
+    Arrival: 2025-01-23 15:30:00 in CLT
+  - Flight ID: FL488_UDH
+    Departure: 2025-01-23 20:30:00 from CLT
+    Arrival: 2025-01-23 22:00:00 in DTW
+========================================
+Trip ID: 299
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL489
+    Departure: 2025-01-24 14:00:00 from DTW
+    Arrival: 2025-01-24 15:30:00 in CLT
+  - Flight ID: FL489_UDH
+    Departure: 2025-01-24 20:30:00 from CLT
+    Arrival: 2025-01-24 22:00:00 in DTW
+========================================
+Trip ID: 300
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL490
+    Departure: 2025-01-25 14:00:00 from DTW
+    Arrival: 2025-01-25 15:30:00 in CLT
+  - Flight ID: FL490_UDH
+    Departure: 2025-01-25 20:30:00 from CLT
+    Arrival: 2025-01-25 22:00:00 in DTW
+========================================
+Trip ID: 301
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL491
+    Departure: 2025-01-26 14:00:00 from DTW
+    Arrival: 2025-01-26 15:30:00 in CLT
+  - Flight ID: FL491_UDH
+    Departure: 2025-01-26 20:30:00 from CLT
+    Arrival: 2025-01-26 22:00:00 in DTW
+========================================
+Trip ID: 302
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL492
+    Departure: 2025-01-27 14:00:00 from DTW
+    Arrival: 2025-01-27 15:30:00 in CLT
+  - Flight ID: FL492_UDH
+    Departure: 2025-01-27 20:30:00 from CLT
+    Arrival: 2025-01-27 22:00:00 in DTW
+========================================
+Trip ID: 303
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL493
+    Departure: 2025-01-28 14:00:00 from DTW
+    Arrival: 2025-01-28 15:30:00 in CLT
+  - Flight ID: FL493_UDH
+    Departure: 2025-01-28 20:30:00 from CLT
+    Arrival: 2025-01-28 22:00:00 in DTW
+========================================
+Trip ID: 304
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL494
+    Departure: 2025-01-29 14:00:00 from DTW
+    Arrival: 2025-01-29 15:30:00 in CLT
+  - Flight ID: FL494_UDH
+    Departure: 2025-01-29 20:30:00 from CLT
+    Arrival: 2025-01-29 22:00:00 in DTW
+========================================
+Trip ID: 305
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL495
+    Departure: 2025-01-30 14:00:00 from DTW
+    Arrival: 2025-01-30 15:30:00 in CLT
+  - Flight ID: FL495_UDH
+    Departure: 2025-01-30 20:30:00 from CLT
+    Arrival: 2025-01-30 22:00:00 in DTW
+========================================
+Trip ID: 306
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL496
+    Departure: 2025-01-31 14:00:00 from DTW
+    Arrival: 2025-01-31 15:30:00 in CLT
+  - Flight ID: FL496_UDH
+    Departure: 2025-01-31 20:30:00 from CLT
+    Arrival: 2025-01-31 22:00:00 in DTW
+========================================
+Trip ID: 307
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL507
+    Departure: 2025-01-11 09:00:00 from LAS
+    Arrival: 2025-01-11 10:15:00 in SLC
+  - Flight ID: FL507_UDH
+    Departure: 2025-01-11 15:15:00 from SLC
+    Arrival: 2025-01-11 16:30:00 in LAS
+========================================
+Trip ID: 308
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL508
+    Departure: 2025-01-12 09:00:00 from LAS
+    Arrival: 2025-01-12 10:15:00 in SLC
+  - Flight ID: FL508_UDH
+    Departure: 2025-01-12 15:15:00 from SLC
+    Arrival: 2025-01-12 16:30:00 in LAS
+========================================
+Trip ID: 309
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL509
+    Departure: 2025-01-13 09:00:00 from LAS
+    Arrival: 2025-01-13 10:15:00 in SLC
+  - Flight ID: FL509_UDH
+    Departure: 2025-01-13 15:15:00 from SLC
+    Arrival: 2025-01-13 16:30:00 in LAS
+========================================
+Trip ID: 310
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL510
+    Departure: 2025-01-14 09:00:00 from LAS
+    Arrival: 2025-01-14 10:15:00 in SLC
+  - Flight ID: FL510_UDH
+    Departure: 2025-01-14 15:15:00 from SLC
+    Arrival: 2025-01-14 16:30:00 in LAS
+========================================
+Trip ID: 311
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL511
+    Departure: 2025-01-15 09:00:00 from LAS
+    Arrival: 2025-01-15 10:15:00 in SLC
+  - Flight ID: FL511_UDH
+    Departure: 2025-01-15 15:15:00 from SLC
+    Arrival: 2025-01-15 16:30:00 in LAS
+========================================
+Trip ID: 312
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL512
+    Departure: 2025-01-16 09:00:00 from LAS
+    Arrival: 2025-01-16 10:15:00 in SLC
+  - Flight ID: FL512_UDH
+    Departure: 2025-01-16 15:15:00 from SLC
+    Arrival: 2025-01-16 16:30:00 in LAS
+========================================
+Trip ID: 313
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL513
+    Departure: 2025-01-17 09:00:00 from LAS
+    Arrival: 2025-01-17 10:15:00 in SLC
+  - Flight ID: FL513_UDH
+    Departure: 2025-01-17 15:15:00 from SLC
+    Arrival: 2025-01-17 16:30:00 in LAS
+========================================
+Trip ID: 314
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL514
+    Departure: 2025-01-18 09:00:00 from LAS
+    Arrival: 2025-01-18 10:15:00 in SLC
+  - Flight ID: FL514_UDH
+    Departure: 2025-01-18 15:15:00 from SLC
+    Arrival: 2025-01-18 16:30:00 in LAS
+========================================
+Trip ID: 315
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL515
+    Departure: 2025-01-19 09:00:00 from LAS
+    Arrival: 2025-01-19 10:15:00 in SLC
+  - Flight ID: FL515_UDH
+    Departure: 2025-01-19 15:15:00 from SLC
+    Arrival: 2025-01-19 16:30:00 in LAS
+========================================
+Trip ID: 316
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL516
+    Departure: 2025-01-20 09:00:00 from LAS
+    Arrival: 2025-01-20 10:15:00 in SLC
+  - Flight ID: FL516_UDH
+    Departure: 2025-01-20 15:15:00 from SLC
+    Arrival: 2025-01-20 16:30:00 in LAS
+========================================
+Trip ID: 317
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL517
+    Departure: 2025-01-21 09:00:00 from LAS
+    Arrival: 2025-01-21 10:15:00 in SLC
+  - Flight ID: FL517_UDH
+    Departure: 2025-01-21 15:15:00 from SLC
+    Arrival: 2025-01-21 16:30:00 in LAS
+========================================
+Trip ID: 318
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL518
+    Departure: 2025-01-22 09:00:00 from LAS
+    Arrival: 2025-01-22 10:15:00 in SLC
+  - Flight ID: FL518_UDH
+    Departure: 2025-01-22 15:15:00 from SLC
+    Arrival: 2025-01-22 16:30:00 in LAS
+========================================
+Trip ID: 319
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL519
+    Departure: 2025-01-23 09:00:00 from LAS
+    Arrival: 2025-01-23 10:15:00 in SLC
+  - Flight ID: FL519_UDH
+    Departure: 2025-01-23 15:15:00 from SLC
+    Arrival: 2025-01-23 16:30:00 in LAS
+========================================
+Trip ID: 320
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL520
+    Departure: 2025-01-24 09:00:00 from LAS
+    Arrival: 2025-01-24 10:15:00 in SLC
+  - Flight ID: FL520_UDH
+    Departure: 2025-01-24 15:15:00 from SLC
+    Arrival: 2025-01-24 16:30:00 in LAS
+========================================
+Trip ID: 321
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL521
+    Departure: 2025-01-25 09:00:00 from LAS
+    Arrival: 2025-01-25 10:15:00 in SLC
+  - Flight ID: FL521_UDH
+    Departure: 2025-01-25 15:15:00 from SLC
+    Arrival: 2025-01-25 16:30:00 in LAS
+========================================
+Trip ID: 322
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL522
+    Departure: 2025-01-26 09:00:00 from LAS
+    Arrival: 2025-01-26 10:15:00 in SLC
+  - Flight ID: FL522_UDH
+    Departure: 2025-01-26 15:15:00 from SLC
+    Arrival: 2025-01-26 16:30:00 in LAS
+========================================
+Trip ID: 323
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL523
+    Departure: 2025-01-27 09:00:00 from LAS
+    Arrival: 2025-01-27 10:15:00 in SLC
+  - Flight ID: FL523_UDH
+    Departure: 2025-01-27 15:15:00 from SLC
+    Arrival: 2025-01-27 16:30:00 in LAS
+========================================
+Trip ID: 324
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL524
+    Departure: 2025-01-28 09:00:00 from LAS
+    Arrival: 2025-01-28 10:15:00 in SLC
+  - Flight ID: FL524_UDH
+    Departure: 2025-01-28 15:15:00 from SLC
+    Arrival: 2025-01-28 16:30:00 in LAS
+========================================
+Trip ID: 325
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL525
+    Departure: 2025-01-29 09:00:00 from LAS
+    Arrival: 2025-01-29 10:15:00 in SLC
+  - Flight ID: FL525_UDH
+    Departure: 2025-01-29 15:15:00 from SLC
+    Arrival: 2025-01-29 16:30:00 in LAS
+========================================
+Trip ID: 326
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL526
+    Departure: 2025-01-30 09:00:00 from LAS
+    Arrival: 2025-01-30 10:15:00 in SLC
+  - Flight ID: FL526_UDH
+    Departure: 2025-01-30 15:15:00 from SLC
+    Arrival: 2025-01-30 16:30:00 in LAS
+========================================
+Trip ID: 327
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL527
+    Departure: 2025-01-31 09:00:00 from LAS
+    Arrival: 2025-01-31 10:15:00 in SLC
+  - Flight ID: FL527_UDH
+    Departure: 2025-01-31 15:15:00 from SLC
+    Arrival: 2025-01-31 16:30:00 in LAS
+========================================
+Trip ID: 328
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL533
+    Departure: 2025-01-06 13:00:00 from SLC
+    Arrival: 2025-01-06 14:15:00 in LAS
+  - Flight ID: FL533_UDH
+    Departure: 2025-01-06 19:15:00 from LAS
+    Arrival: 2025-01-06 20:30:00 in SLC
+========================================
+Trip ID: 329
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL534
+    Departure: 2025-01-07 13:00:00 from SLC
+    Arrival: 2025-01-07 14:15:00 in LAS
+  - Flight ID: FL534_UDH
+    Departure: 2025-01-07 19:15:00 from LAS
+    Arrival: 2025-01-07 20:30:00 in SLC
+========================================
+Trip ID: 330
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL535
+    Departure: 2025-01-08 13:00:00 from SLC
+    Arrival: 2025-01-08 14:15:00 in LAS
+  - Flight ID: FL535_UDH
+    Departure: 2025-01-08 19:15:00 from LAS
+    Arrival: 2025-01-08 20:30:00 in SLC
+========================================
+Trip ID: 331
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL536
+    Departure: 2025-01-09 13:00:00 from SLC
+    Arrival: 2025-01-09 14:15:00 in LAS
+  - Flight ID: FL536_UDH
+    Departure: 2025-01-09 19:15:00 from LAS
+    Arrival: 2025-01-09 20:30:00 in SLC
+========================================
+Trip ID: 332
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL537
+    Departure: 2025-01-10 13:00:00 from SLC
+    Arrival: 2025-01-10 14:15:00 in LAS
+  - Flight ID: FL537_UDH
+    Departure: 2025-01-10 19:15:00 from LAS
+    Arrival: 2025-01-10 20:30:00 in SLC
+========================================
+Trip ID: 333
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL538
+    Departure: 2025-01-11 13:00:00 from SLC
+    Arrival: 2025-01-11 14:15:00 in LAS
+  - Flight ID: FL538_UDH
+    Departure: 2025-01-11 19:15:00 from LAS
+    Arrival: 2025-01-11 20:30:00 in SLC
+========================================
+Trip ID: 334
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL539
+    Departure: 2025-01-12 13:00:00 from SLC
+    Arrival: 2025-01-12 14:15:00 in LAS
+  - Flight ID: FL539_UDH
+    Departure: 2025-01-12 19:15:00 from LAS
+    Arrival: 2025-01-12 20:30:00 in SLC
+========================================
+Trip ID: 335
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL540
+    Departure: 2025-01-13 13:00:00 from SLC
+    Arrival: 2025-01-13 14:15:00 in LAS
+  - Flight ID: FL540_UDH
+    Departure: 2025-01-13 19:15:00 from LAS
+    Arrival: 2025-01-13 20:30:00 in SLC
+========================================
+Trip ID: 336
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL541
+    Departure: 2025-01-14 13:00:00 from SLC
+    Arrival: 2025-01-14 14:15:00 in LAS
+  - Flight ID: FL541_UDH
+    Departure: 2025-01-14 19:15:00 from LAS
+    Arrival: 2025-01-14 20:30:00 in SLC
+========================================
+Trip ID: 337
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL542
+    Departure: 2025-01-15 13:00:00 from SLC
+    Arrival: 2025-01-15 14:15:00 in LAS
+  - Flight ID: FL542_UDH
+    Departure: 2025-01-15 19:15:00 from LAS
+    Arrival: 2025-01-15 20:30:00 in SLC
+========================================
+Trip ID: 338
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL543
+    Departure: 2025-01-16 13:00:00 from SLC
+    Arrival: 2025-01-16 14:15:00 in LAS
+  - Flight ID: FL543_UDH
+    Departure: 2025-01-16 19:15:00 from LAS
+    Arrival: 2025-01-16 20:30:00 in SLC
+========================================
+Trip ID: 339
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL544
+    Departure: 2025-01-17 13:00:00 from SLC
+    Arrival: 2025-01-17 14:15:00 in LAS
+  - Flight ID: FL544_UDH
+    Departure: 2025-01-17 19:15:00 from LAS
+    Arrival: 2025-01-17 20:30:00 in SLC
+========================================
+Trip ID: 340
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL545
+    Departure: 2025-01-18 13:00:00 from SLC
+    Arrival: 2025-01-18 14:15:00 in LAS
+  - Flight ID: FL545_UDH
+    Departure: 2025-01-18 19:15:00 from LAS
+    Arrival: 2025-01-18 20:30:00 in SLC
+========================================
+Trip ID: 341
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL546
+    Departure: 2025-01-19 13:00:00 from SLC
+    Arrival: 2025-01-19 14:15:00 in LAS
+  - Flight ID: FL546_UDH
+    Departure: 2025-01-19 19:15:00 from LAS
+    Arrival: 2025-01-19 20:30:00 in SLC
+========================================
+Trip ID: 342
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL547
+    Departure: 2025-01-20 13:00:00 from SLC
+    Arrival: 2025-01-20 14:15:00 in LAS
+  - Flight ID: FL547_UDH
+    Departure: 2025-01-20 19:15:00 from LAS
+    Arrival: 2025-01-20 20:30:00 in SLC
+========================================
+Trip ID: 343
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL548
+    Departure: 2025-01-21 13:00:00 from SLC
+    Arrival: 2025-01-21 14:15:00 in LAS
+  - Flight ID: FL548_UDH
+    Departure: 2025-01-21 19:15:00 from LAS
+    Arrival: 2025-01-21 20:30:00 in SLC
+========================================
+Trip ID: 344
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL549
+    Departure: 2025-01-22 13:00:00 from SLC
+    Arrival: 2025-01-22 14:15:00 in LAS
+  - Flight ID: FL549_UDH
+    Departure: 2025-01-22 19:15:00 from LAS
+    Arrival: 2025-01-22 20:30:00 in SLC
+========================================
+Trip ID: 345
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL550
+    Departure: 2025-01-23 13:00:00 from SLC
+    Arrival: 2025-01-23 14:15:00 in LAS
+  - Flight ID: FL550_UDH
+    Departure: 2025-01-23 19:15:00 from LAS
+    Arrival: 2025-01-23 20:30:00 in SLC
+========================================
+Trip ID: 346
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL551
+    Departure: 2025-01-24 13:00:00 from SLC
+    Arrival: 2025-01-24 14:15:00 in LAS
+  - Flight ID: FL551_UDH
+    Departure: 2025-01-24 19:15:00 from LAS
+    Arrival: 2025-01-24 20:30:00 in SLC
+========================================
+Trip ID: 347
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL552
+    Departure: 2025-01-25 13:00:00 from SLC
+    Arrival: 2025-01-25 14:15:00 in LAS
+  - Flight ID: FL552_UDH
+    Departure: 2025-01-25 19:15:00 from LAS
+    Arrival: 2025-01-25 20:30:00 in SLC
+========================================
+Trip ID: 348
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL553
+    Departure: 2025-01-26 13:00:00 from SLC
+    Arrival: 2025-01-26 14:15:00 in LAS
+  - Flight ID: FL553_UDH
+    Departure: 2025-01-26 19:15:00 from LAS
+    Arrival: 2025-01-26 20:30:00 in SLC
+========================================
+Trip ID: 349
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL554
+    Departure: 2025-01-27 13:00:00 from SLC
+    Arrival: 2025-01-27 14:15:00 in LAS
+  - Flight ID: FL554_UDH
+    Departure: 2025-01-27 19:15:00 from LAS
+    Arrival: 2025-01-27 20:30:00 in SLC
+========================================
+Trip ID: 350
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL555
+    Departure: 2025-01-28 13:00:00 from SLC
+    Arrival: 2025-01-28 14:15:00 in LAS
+  - Flight ID: FL555_UDH
+    Departure: 2025-01-28 19:15:00 from LAS
+    Arrival: 2025-01-28 20:30:00 in SLC
+========================================
+Trip ID: 351
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL556
+    Departure: 2025-01-29 13:00:00 from SLC
+    Arrival: 2025-01-29 14:15:00 in LAS
+  - Flight ID: FL556_UDH
+    Departure: 2025-01-29 19:15:00 from LAS
+    Arrival: 2025-01-29 20:30:00 in SLC
+========================================
+Trip ID: 352
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL557
+    Departure: 2025-01-30 13:00:00 from SLC
+    Arrival: 2025-01-30 14:15:00 in LAS
+  - Flight ID: FL557_UDH
+    Departure: 2025-01-30 19:15:00 from LAS
+    Arrival: 2025-01-30 20:30:00 in SLC
+========================================
+Trip ID: 353
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL558
+    Departure: 2025-01-31 13:00:00 from SLC
+    Arrival: 2025-01-31 14:15:00 in LAS
+  - Flight ID: FL558_UDH
+    Departure: 2025-01-31 19:15:00 from LAS
+    Arrival: 2025-01-31 20:30:00 in SLC
+========================================
+Trip ID: 354
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL569
+    Departure: 2025-01-11 07:30:00 from PHL
+    Arrival: 2025-01-11 09:30:00 in BNA
+  - Flight ID: FL569_UDH
+    Departure: 2025-01-11 14:30:00 from BNA
+    Arrival: 2025-01-11 16:30:00 in PHL
+========================================
+Trip ID: 355
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL570
+    Departure: 2025-01-12 07:30:00 from PHL
+    Arrival: 2025-01-12 09:30:00 in BNA
+  - Flight ID: FL570_UDH
+    Departure: 2025-01-12 14:30:00 from BNA
+    Arrival: 2025-01-12 16:30:00 in PHL
+========================================
+Trip ID: 356
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL571
+    Departure: 2025-01-13 07:30:00 from PHL
+    Arrival: 2025-01-13 09:30:00 in BNA
+  - Flight ID: FL571_UDH
+    Departure: 2025-01-13 14:30:00 from BNA
+    Arrival: 2025-01-13 16:30:00 in PHL
+========================================
+Trip ID: 357
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL572
+    Departure: 2025-01-14 07:30:00 from PHL
+    Arrival: 2025-01-14 09:30:00 in BNA
+  - Flight ID: FL572_UDH
+    Departure: 2025-01-14 14:30:00 from BNA
+    Arrival: 2025-01-14 16:30:00 in PHL
+========================================
+Trip ID: 358
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL573
+    Departure: 2025-01-15 07:30:00 from PHL
+    Arrival: 2025-01-15 09:30:00 in BNA
+  - Flight ID: FL573_UDH
+    Departure: 2025-01-15 14:30:00 from BNA
+    Arrival: 2025-01-15 16:30:00 in PHL
+========================================
+Trip ID: 359
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL574
+    Departure: 2025-01-16 07:30:00 from PHL
+    Arrival: 2025-01-16 09:30:00 in BNA
+  - Flight ID: FL574_UDH
+    Departure: 2025-01-16 14:30:00 from BNA
+    Arrival: 2025-01-16 16:30:00 in PHL
+========================================
+Trip ID: 360
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL575
+    Departure: 2025-01-17 07:30:00 from PHL
+    Arrival: 2025-01-17 09:30:00 in BNA
+  - Flight ID: FL575_UDH
+    Departure: 2025-01-17 14:30:00 from BNA
+    Arrival: 2025-01-17 16:30:00 in PHL
+========================================
+Trip ID: 361
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL576
+    Departure: 2025-01-18 07:30:00 from PHL
+    Arrival: 2025-01-18 09:30:00 in BNA
+  - Flight ID: FL576_UDH
+    Departure: 2025-01-18 14:30:00 from BNA
+    Arrival: 2025-01-18 16:30:00 in PHL
+========================================
+Trip ID: 362
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL577
+    Departure: 2025-01-19 07:30:00 from PHL
+    Arrival: 2025-01-19 09:30:00 in BNA
+  - Flight ID: FL577_UDH
+    Departure: 2025-01-19 14:30:00 from BNA
+    Arrival: 2025-01-19 16:30:00 in PHL
+========================================
+Trip ID: 363
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL578
+    Departure: 2025-01-20 07:30:00 from PHL
+    Arrival: 2025-01-20 09:30:00 in BNA
+  - Flight ID: FL578_UDH
+    Departure: 2025-01-20 14:30:00 from BNA
+    Arrival: 2025-01-20 16:30:00 in PHL
+========================================
+Trip ID: 364
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL579
+    Departure: 2025-01-21 07:30:00 from PHL
+    Arrival: 2025-01-21 09:30:00 in BNA
+  - Flight ID: FL579_UDH
+    Departure: 2025-01-21 14:30:00 from BNA
+    Arrival: 2025-01-21 16:30:00 in PHL
+========================================
+Trip ID: 365
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL580
+    Departure: 2025-01-22 07:30:00 from PHL
+    Arrival: 2025-01-22 09:30:00 in BNA
+  - Flight ID: FL580_UDH
+    Departure: 2025-01-22 14:30:00 from BNA
+    Arrival: 2025-01-22 16:30:00 in PHL
+========================================
+Trip ID: 366
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL581
+    Departure: 2025-01-23 07:30:00 from PHL
+    Arrival: 2025-01-23 09:30:00 in BNA
+  - Flight ID: FL581_UDH
+    Departure: 2025-01-23 14:30:00 from BNA
+    Arrival: 2025-01-23 16:30:00 in PHL
+========================================
+Trip ID: 367
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL582
+    Departure: 2025-01-24 07:30:00 from PHL
+    Arrival: 2025-01-24 09:30:00 in BNA
+  - Flight ID: FL582_UDH
+    Departure: 2025-01-24 14:30:00 from BNA
+    Arrival: 2025-01-24 16:30:00 in PHL
+========================================
+Trip ID: 368
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL583
+    Departure: 2025-01-25 07:30:00 from PHL
+    Arrival: 2025-01-25 09:30:00 in BNA
+  - Flight ID: FL583_UDH
+    Departure: 2025-01-25 14:30:00 from BNA
+    Arrival: 2025-01-25 16:30:00 in PHL
+========================================
+Trip ID: 369
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL584
+    Departure: 2025-01-26 07:30:00 from PHL
+    Arrival: 2025-01-26 09:30:00 in BNA
+  - Flight ID: FL584_UDH
+    Departure: 2025-01-26 14:30:00 from BNA
+    Arrival: 2025-01-26 16:30:00 in PHL
+========================================
+Trip ID: 370
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL585
+    Departure: 2025-01-27 07:30:00 from PHL
+    Arrival: 2025-01-27 09:30:00 in BNA
+  - Flight ID: FL585_UDH
+    Departure: 2025-01-27 14:30:00 from BNA
+    Arrival: 2025-01-27 16:30:00 in PHL
+========================================
+Trip ID: 371
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL586
+    Departure: 2025-01-28 07:30:00 from PHL
+    Arrival: 2025-01-28 09:30:00 in BNA
+  - Flight ID: FL586_UDH
+    Departure: 2025-01-28 14:30:00 from BNA
+    Arrival: 2025-01-28 16:30:00 in PHL
+========================================
+Trip ID: 372
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL587
+    Departure: 2025-01-29 07:30:00 from PHL
+    Arrival: 2025-01-29 09:30:00 in BNA
+  - Flight ID: FL587_UDH
+    Departure: 2025-01-29 14:30:00 from BNA
+    Arrival: 2025-01-29 16:30:00 in PHL
+========================================
+Trip ID: 373
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL588
+    Departure: 2025-01-30 07:30:00 from PHL
+    Arrival: 2025-01-30 09:30:00 in BNA
+  - Flight ID: FL588_UDH
+    Departure: 2025-01-30 14:30:00 from BNA
+    Arrival: 2025-01-30 16:30:00 in PHL
+========================================
+Trip ID: 374
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL589
+    Departure: 2025-01-31 07:30:00 from PHL
+    Arrival: 2025-01-31 09:30:00 in BNA
+  - Flight ID: FL589_UDH
+    Departure: 2025-01-31 14:30:00 from BNA
+    Arrival: 2025-01-31 16:30:00 in PHL
+========================================
+Trip ID: 375
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL595
+    Departure: 2025-01-06 14:00:00 from BNA
+    Arrival: 2025-01-06 16:00:00 in PHL
+  - Flight ID: FL595_UDH
+    Departure: 2025-01-06 21:00:00 from PHL
+    Arrival: 2025-01-06 23:00:00 in BNA
+========================================
+Trip ID: 376
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL596
+    Departure: 2025-01-07 14:00:00 from BNA
+    Arrival: 2025-01-07 16:00:00 in PHL
+  - Flight ID: FL596_UDH
+    Departure: 2025-01-07 21:00:00 from PHL
+    Arrival: 2025-01-07 23:00:00 in BNA
+========================================
+Trip ID: 377
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL597
+    Departure: 2025-01-08 14:00:00 from BNA
+    Arrival: 2025-01-08 16:00:00 in PHL
+  - Flight ID: FL597_UDH
+    Departure: 2025-01-08 21:00:00 from PHL
+    Arrival: 2025-01-08 23:00:00 in BNA
+========================================
+Trip ID: 378
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL598
+    Departure: 2025-01-09 14:00:00 from BNA
+    Arrival: 2025-01-09 16:00:00 in PHL
+  - Flight ID: FL598_UDH
+    Departure: 2025-01-09 21:00:00 from PHL
+    Arrival: 2025-01-09 23:00:00 in BNA
+========================================
+Trip ID: 379
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL599
+    Departure: 2025-01-10 14:00:00 from BNA
+    Arrival: 2025-01-10 16:00:00 in PHL
+  - Flight ID: FL599_UDH
+    Departure: 2025-01-10 21:00:00 from PHL
+    Arrival: 2025-01-10 23:00:00 in BNA
+========================================
+Trip ID: 380
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL600
+    Departure: 2025-01-11 14:00:00 from BNA
+    Arrival: 2025-01-11 16:00:00 in PHL
+  - Flight ID: FL600_UDH
+    Departure: 2025-01-11 21:00:00 from PHL
+    Arrival: 2025-01-11 23:00:00 in BNA
+========================================
+Trip ID: 381
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL601
+    Departure: 2025-01-12 14:00:00 from BNA
+    Arrival: 2025-01-12 16:00:00 in PHL
+  - Flight ID: FL601_UDH
+    Departure: 2025-01-12 21:00:00 from PHL
+    Arrival: 2025-01-12 23:00:00 in BNA
+========================================
+Trip ID: 382
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL602
+    Departure: 2025-01-13 14:00:00 from BNA
+    Arrival: 2025-01-13 16:00:00 in PHL
+  - Flight ID: FL602_UDH
+    Departure: 2025-01-13 21:00:00 from PHL
+    Arrival: 2025-01-13 23:00:00 in BNA
+========================================
+Trip ID: 383
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL603
+    Departure: 2025-01-14 14:00:00 from BNA
+    Arrival: 2025-01-14 16:00:00 in PHL
+  - Flight ID: FL603_UDH
+    Departure: 2025-01-14 21:00:00 from PHL
+    Arrival: 2025-01-14 23:00:00 in BNA
+========================================
+Trip ID: 384
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL604
+    Departure: 2025-01-15 14:00:00 from BNA
+    Arrival: 2025-01-15 16:00:00 in PHL
+  - Flight ID: FL604_UDH
+    Departure: 2025-01-15 21:00:00 from PHL
+    Arrival: 2025-01-15 23:00:00 in BNA
+========================================
+Trip ID: 385
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL605
+    Departure: 2025-01-16 14:00:00 from BNA
+    Arrival: 2025-01-16 16:00:00 in PHL
+  - Flight ID: FL605_UDH
+    Departure: 2025-01-16 21:00:00 from PHL
+    Arrival: 2025-01-16 23:00:00 in BNA
+========================================
+Trip ID: 386
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL606
+    Departure: 2025-01-17 14:00:00 from BNA
+    Arrival: 2025-01-17 16:00:00 in PHL
+  - Flight ID: FL606_UDH
+    Departure: 2025-01-17 21:00:00 from PHL
+    Arrival: 2025-01-17 23:00:00 in BNA
+========================================
+Trip ID: 387
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL607
+    Departure: 2025-01-18 14:00:00 from BNA
+    Arrival: 2025-01-18 16:00:00 in PHL
+  - Flight ID: FL607_UDH
+    Departure: 2025-01-18 21:00:00 from PHL
+    Arrival: 2025-01-18 23:00:00 in BNA
+========================================
+Trip ID: 388
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL608
+    Departure: 2025-01-19 14:00:00 from BNA
+    Arrival: 2025-01-19 16:00:00 in PHL
+  - Flight ID: FL608_UDH
+    Departure: 2025-01-19 21:00:00 from PHL
+    Arrival: 2025-01-19 23:00:00 in BNA
+========================================
+Trip ID: 389
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL609
+    Departure: 2025-01-20 14:00:00 from BNA
+    Arrival: 2025-01-20 16:00:00 in PHL
+  - Flight ID: FL609_UDH
+    Departure: 2025-01-20 21:00:00 from PHL
+    Arrival: 2025-01-20 23:00:00 in BNA
+========================================
+Trip ID: 390
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL610
+    Departure: 2025-01-21 14:00:00 from BNA
+    Arrival: 2025-01-21 16:00:00 in PHL
+  - Flight ID: FL610_UDH
+    Departure: 2025-01-21 21:00:00 from PHL
+    Arrival: 2025-01-21 23:00:00 in BNA
+========================================
+Trip ID: 391
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL611
+    Departure: 2025-01-22 14:00:00 from BNA
+    Arrival: 2025-01-22 16:00:00 in PHL
+  - Flight ID: FL611_UDH
+    Departure: 2025-01-22 21:00:00 from PHL
+    Arrival: 2025-01-22 23:00:00 in BNA
+========================================
+Trip ID: 392
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL612
+    Departure: 2025-01-23 14:00:00 from BNA
+    Arrival: 2025-01-23 16:00:00 in PHL
+  - Flight ID: FL612_UDH
+    Departure: 2025-01-23 21:00:00 from PHL
+    Arrival: 2025-01-23 23:00:00 in BNA
+========================================
+Trip ID: 393
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL613
+    Departure: 2025-01-24 14:00:00 from BNA
+    Arrival: 2025-01-24 16:00:00 in PHL
+  - Flight ID: FL613_UDH
+    Departure: 2025-01-24 21:00:00 from PHL
+    Arrival: 2025-01-24 23:00:00 in BNA
+========================================
+Trip ID: 394
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL614
+    Departure: 2025-01-25 14:00:00 from BNA
+    Arrival: 2025-01-25 16:00:00 in PHL
+  - Flight ID: FL614_UDH
+    Departure: 2025-01-25 21:00:00 from PHL
+    Arrival: 2025-01-25 23:00:00 in BNA
+========================================
+Trip ID: 395
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL615
+    Departure: 2025-01-26 14:00:00 from BNA
+    Arrival: 2025-01-26 16:00:00 in PHL
+  - Flight ID: FL615_UDH
+    Departure: 2025-01-26 21:00:00 from PHL
+    Arrival: 2025-01-26 23:00:00 in BNA
+========================================
+Trip ID: 396
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL616
+    Departure: 2025-01-27 14:00:00 from BNA
+    Arrival: 2025-01-27 16:00:00 in PHL
+  - Flight ID: FL616_UDH
+    Departure: 2025-01-27 21:00:00 from PHL
+    Arrival: 2025-01-27 23:00:00 in BNA
+========================================
+Trip ID: 397
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL617
+    Departure: 2025-01-28 14:00:00 from BNA
+    Arrival: 2025-01-28 16:00:00 in PHL
+  - Flight ID: FL617_UDH
+    Departure: 2025-01-28 21:00:00 from PHL
+    Arrival: 2025-01-28 23:00:00 in BNA
+========================================
+Trip ID: 398
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL618
+    Departure: 2025-01-29 14:00:00 from BNA
+    Arrival: 2025-01-29 16:00:00 in PHL
+  - Flight ID: FL618_UDH
+    Departure: 2025-01-29 21:00:00 from PHL
+    Arrival: 2025-01-29 23:00:00 in BNA
+========================================
+Trip ID: 399
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL619
+    Departure: 2025-01-30 14:00:00 from BNA
+    Arrival: 2025-01-30 16:00:00 in PHL
+  - Flight ID: FL619_UDH
+    Departure: 2025-01-30 21:00:00 from PHL
+    Arrival: 2025-01-30 23:00:00 in BNA
+========================================
+Trip ID: 400
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL620
+    Departure: 2025-01-31 14:00:00 from BNA
+    Arrival: 2025-01-31 16:00:00 in PHL
+  - Flight ID: FL620_UDH
+    Departure: 2025-01-31 21:00:00 from PHL
+    Arrival: 2025-01-31 23:00:00 in BNA
+========================================
+Trip ID: 401
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL631
+    Departure: 2025-01-11 10:00:00 from SAN
+    Arrival: 2025-01-11 12:00:00 in PDX
+  - Flight ID: FL631_UDH
+    Departure: 2025-01-11 17:00:00 from PDX
+    Arrival: 2025-01-11 19:00:00 in SAN
+========================================
+Trip ID: 402
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL632
+    Departure: 2025-01-12 10:00:00 from SAN
+    Arrival: 2025-01-12 12:00:00 in PDX
+  - Flight ID: FL632_UDH
+    Departure: 2025-01-12 17:00:00 from PDX
+    Arrival: 2025-01-12 19:00:00 in SAN
+========================================
+Trip ID: 403
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL633
+    Departure: 2025-01-13 10:00:00 from SAN
+    Arrival: 2025-01-13 12:00:00 in PDX
+  - Flight ID: FL633_UDH
+    Departure: 2025-01-13 17:00:00 from PDX
+    Arrival: 2025-01-13 19:00:00 in SAN
+========================================
+Trip ID: 404
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL634
+    Departure: 2025-01-14 10:00:00 from SAN
+    Arrival: 2025-01-14 12:00:00 in PDX
+  - Flight ID: FL634_UDH
+    Departure: 2025-01-14 17:00:00 from PDX
+    Arrival: 2025-01-14 19:00:00 in SAN
+========================================
+Trip ID: 405
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL635
+    Departure: 2025-01-15 10:00:00 from SAN
+    Arrival: 2025-01-15 12:00:00 in PDX
+  - Flight ID: FL635_UDH
+    Departure: 2025-01-15 17:00:00 from PDX
+    Arrival: 2025-01-15 19:00:00 in SAN
+========================================
+Trip ID: 406
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL636
+    Departure: 2025-01-16 10:00:00 from SAN
+    Arrival: 2025-01-16 12:00:00 in PDX
+  - Flight ID: FL636_UDH
+    Departure: 2025-01-16 17:00:00 from PDX
+    Arrival: 2025-01-16 19:00:00 in SAN
+========================================
+Trip ID: 407
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL637
+    Departure: 2025-01-17 10:00:00 from SAN
+    Arrival: 2025-01-17 12:00:00 in PDX
+  - Flight ID: FL637_UDH
+    Departure: 2025-01-17 17:00:00 from PDX
+    Arrival: 2025-01-17 19:00:00 in SAN
+========================================
+Trip ID: 408
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL638
+    Departure: 2025-01-18 10:00:00 from SAN
+    Arrival: 2025-01-18 12:00:00 in PDX
+  - Flight ID: FL638_UDH
+    Departure: 2025-01-18 17:00:00 from PDX
+    Arrival: 2025-01-18 19:00:00 in SAN
+========================================
+Trip ID: 409
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL639
+    Departure: 2025-01-19 10:00:00 from SAN
+    Arrival: 2025-01-19 12:00:00 in PDX
+  - Flight ID: FL639_UDH
+    Departure: 2025-01-19 17:00:00 from PDX
+    Arrival: 2025-01-19 19:00:00 in SAN
+========================================
+Trip ID: 410
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL640
+    Departure: 2025-01-20 10:00:00 from SAN
+    Arrival: 2025-01-20 12:00:00 in PDX
+  - Flight ID: FL640_UDH
+    Departure: 2025-01-20 17:00:00 from PDX
+    Arrival: 2025-01-20 19:00:00 in SAN
+========================================
+Trip ID: 411
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL641
+    Departure: 2025-01-21 10:00:00 from SAN
+    Arrival: 2025-01-21 12:00:00 in PDX
+  - Flight ID: FL641_UDH
+    Departure: 2025-01-21 17:00:00 from PDX
+    Arrival: 2025-01-21 19:00:00 in SAN
+========================================
+Trip ID: 412
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL642
+    Departure: 2025-01-22 10:00:00 from SAN
+    Arrival: 2025-01-22 12:00:00 in PDX
+  - Flight ID: FL642_UDH
+    Departure: 2025-01-22 17:00:00 from PDX
+    Arrival: 2025-01-22 19:00:00 in SAN
+========================================
+Trip ID: 413
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL643
+    Departure: 2025-01-23 10:00:00 from SAN
+    Arrival: 2025-01-23 12:00:00 in PDX
+  - Flight ID: FL643_UDH
+    Departure: 2025-01-23 17:00:00 from PDX
+    Arrival: 2025-01-23 19:00:00 in SAN
+========================================
+Trip ID: 414
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL644
+    Departure: 2025-01-24 10:00:00 from SAN
+    Arrival: 2025-01-24 12:00:00 in PDX
+  - Flight ID: FL644_UDH
+    Departure: 2025-01-24 17:00:00 from PDX
+    Arrival: 2025-01-24 19:00:00 in SAN
+========================================
+Trip ID: 415
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL645
+    Departure: 2025-01-25 10:00:00 from SAN
+    Arrival: 2025-01-25 12:00:00 in PDX
+  - Flight ID: FL645_UDH
+    Departure: 2025-01-25 17:00:00 from PDX
+    Arrival: 2025-01-25 19:00:00 in SAN
+========================================
+Trip ID: 416
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL646
+    Departure: 2025-01-26 10:00:00 from SAN
+    Arrival: 2025-01-26 12:00:00 in PDX
+  - Flight ID: FL646_UDH
+    Departure: 2025-01-26 17:00:00 from PDX
+    Arrival: 2025-01-26 19:00:00 in SAN
+========================================
+Trip ID: 417
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL647
+    Departure: 2025-01-27 10:00:00 from SAN
+    Arrival: 2025-01-27 12:00:00 in PDX
+  - Flight ID: FL647_UDH
+    Departure: 2025-01-27 17:00:00 from PDX
+    Arrival: 2025-01-27 19:00:00 in SAN
+========================================
+Trip ID: 418
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL648
+    Departure: 2025-01-28 10:00:00 from SAN
+    Arrival: 2025-01-28 12:00:00 in PDX
+  - Flight ID: FL648_UDH
+    Departure: 2025-01-28 17:00:00 from PDX
+    Arrival: 2025-01-28 19:00:00 in SAN
+========================================
+Trip ID: 419
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL649
+    Departure: 2025-01-29 10:00:00 from SAN
+    Arrival: 2025-01-29 12:00:00 in PDX
+  - Flight ID: FL649_UDH
+    Departure: 2025-01-29 17:00:00 from PDX
+    Arrival: 2025-01-29 19:00:00 in SAN
+========================================
+Trip ID: 420
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL650
+    Departure: 2025-01-30 10:00:00 from SAN
+    Arrival: 2025-01-30 12:00:00 in PDX
+  - Flight ID: FL650_UDH
+    Departure: 2025-01-30 17:00:00 from PDX
+    Arrival: 2025-01-30 19:00:00 in SAN
+========================================
+Trip ID: 421
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL651
+    Departure: 2025-01-31 10:00:00 from SAN
+    Arrival: 2025-01-31 12:00:00 in PDX
+  - Flight ID: FL651_UDH
+    Departure: 2025-01-31 17:00:00 from PDX
+    Arrival: 2025-01-31 19:00:00 in SAN
+========================================
+Trip ID: 422
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL657
+    Departure: 2025-01-06 16:00:00 from PDX
+    Arrival: 2025-01-06 18:00:00 in SAN
+  - Flight ID: FL657_UDH
+    Departure: 2025-01-06 23:00:00 from SAN
+    Arrival: 2025-01-07 01:00:00 in PDX
+========================================
+Trip ID: 423
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL658
+    Departure: 2025-01-07 16:00:00 from PDX
+    Arrival: 2025-01-07 18:00:00 in SAN
+  - Flight ID: FL658_UDH
+    Departure: 2025-01-07 23:00:00 from SAN
+    Arrival: 2025-01-08 01:00:00 in PDX
+========================================
+Trip ID: 424
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL659
+    Departure: 2025-01-08 16:00:00 from PDX
+    Arrival: 2025-01-08 18:00:00 in SAN
+  - Flight ID: FL659_UDH
+    Departure: 2025-01-08 23:00:00 from SAN
+    Arrival: 2025-01-09 01:00:00 in PDX
+========================================
+Trip ID: 425
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL660
+    Departure: 2025-01-09 16:00:00 from PDX
+    Arrival: 2025-01-09 18:00:00 in SAN
+  - Flight ID: FL660_UDH
+    Departure: 2025-01-09 23:00:00 from SAN
+    Arrival: 2025-01-10 01:00:00 in PDX
+========================================
+Trip ID: 426
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL661
+    Departure: 2025-01-10 16:00:00 from PDX
+    Arrival: 2025-01-10 18:00:00 in SAN
+  - Flight ID: FL661_UDH
+    Departure: 2025-01-10 23:00:00 from SAN
+    Arrival: 2025-01-11 01:00:00 in PDX
+========================================
+Trip ID: 427
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL662
+    Departure: 2025-01-11 16:00:00 from PDX
+    Arrival: 2025-01-11 18:00:00 in SAN
+  - Flight ID: FL662_UDH
+    Departure: 2025-01-11 23:00:00 from SAN
+    Arrival: 2025-01-12 01:00:00 in PDX
+========================================
+Trip ID: 428
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL663
+    Departure: 2025-01-12 16:00:00 from PDX
+    Arrival: 2025-01-12 18:00:00 in SAN
+  - Flight ID: FL663_UDH
+    Departure: 2025-01-12 23:00:00 from SAN
+    Arrival: 2025-01-13 01:00:00 in PDX
+========================================
+Trip ID: 429
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL664
+    Departure: 2025-01-13 16:00:00 from PDX
+    Arrival: 2025-01-13 18:00:00 in SAN
+  - Flight ID: FL664_UDH
+    Departure: 2025-01-13 23:00:00 from SAN
+    Arrival: 2025-01-14 01:00:00 in PDX
+========================================
+Trip ID: 430
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL665
+    Departure: 2025-01-14 16:00:00 from PDX
+    Arrival: 2025-01-14 18:00:00 in SAN
+  - Flight ID: FL665_UDH
+    Departure: 2025-01-14 23:00:00 from SAN
+    Arrival: 2025-01-15 01:00:00 in PDX
+========================================
+Trip ID: 431
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL666
+    Departure: 2025-01-15 16:00:00 from PDX
+    Arrival: 2025-01-15 18:00:00 in SAN
+  - Flight ID: FL666_UDH
+    Departure: 2025-01-15 23:00:00 from SAN
+    Arrival: 2025-01-16 01:00:00 in PDX
+========================================
+Trip ID: 432
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL667
+    Departure: 2025-01-16 16:00:00 from PDX
+    Arrival: 2025-01-16 18:00:00 in SAN
+  - Flight ID: FL667_UDH
+    Departure: 2025-01-16 23:00:00 from SAN
+    Arrival: 2025-01-17 01:00:00 in PDX
+========================================
+Trip ID: 433
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL668
+    Departure: 2025-01-17 16:00:00 from PDX
+    Arrival: 2025-01-17 18:00:00 in SAN
+  - Flight ID: FL668_UDH
+    Departure: 2025-01-17 23:00:00 from SAN
+    Arrival: 2025-01-18 01:00:00 in PDX
+========================================
+Trip ID: 434
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL669
+    Departure: 2025-01-18 16:00:00 from PDX
+    Arrival: 2025-01-18 18:00:00 in SAN
+  - Flight ID: FL669_UDH
+    Departure: 2025-01-18 23:00:00 from SAN
+    Arrival: 2025-01-19 01:00:00 in PDX
+========================================
+Trip ID: 435
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL670
+    Departure: 2025-01-19 16:00:00 from PDX
+    Arrival: 2025-01-19 18:00:00 in SAN
+  - Flight ID: FL670_UDH
+    Departure: 2025-01-19 23:00:00 from SAN
+    Arrival: 2025-01-20 01:00:00 in PDX
+========================================
+Trip ID: 436
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL671
+    Departure: 2025-01-20 16:00:00 from PDX
+    Arrival: 2025-01-20 18:00:00 in SAN
+  - Flight ID: FL671_UDH
+    Departure: 2025-01-20 23:00:00 from SAN
+    Arrival: 2025-01-21 01:00:00 in PDX
+========================================
+Trip ID: 437
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL672
+    Departure: 2025-01-21 16:00:00 from PDX
+    Arrival: 2025-01-21 18:00:00 in SAN
+  - Flight ID: FL672_UDH
+    Departure: 2025-01-21 23:00:00 from SAN
+    Arrival: 2025-01-22 01:00:00 in PDX
+========================================
+Trip ID: 438
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL673
+    Departure: 2025-01-22 16:00:00 from PDX
+    Arrival: 2025-01-22 18:00:00 in SAN
+  - Flight ID: FL673_UDH
+    Departure: 2025-01-22 23:00:00 from SAN
+    Arrival: 2025-01-23 01:00:00 in PDX
+========================================
+Trip ID: 439
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL674
+    Departure: 2025-01-23 16:00:00 from PDX
+    Arrival: 2025-01-23 18:00:00 in SAN
+  - Flight ID: FL674_UDH
+    Departure: 2025-01-23 23:00:00 from SAN
+    Arrival: 2025-01-24 01:00:00 in PDX
+========================================
+Trip ID: 440
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL675
+    Departure: 2025-01-24 16:00:00 from PDX
+    Arrival: 2025-01-24 18:00:00 in SAN
+  - Flight ID: FL675_UDH
+    Departure: 2025-01-24 23:00:00 from SAN
+    Arrival: 2025-01-25 01:00:00 in PDX
+========================================
+Trip ID: 441
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL676
+    Departure: 2025-01-25 16:00:00 from PDX
+    Arrival: 2025-01-25 18:00:00 in SAN
+  - Flight ID: FL676_UDH
+    Departure: 2025-01-25 23:00:00 from SAN
+    Arrival: 2025-01-26 01:00:00 in PDX
+========================================
+Trip ID: 442
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL677
+    Departure: 2025-01-26 16:00:00 from PDX
+    Arrival: 2025-01-26 18:00:00 in SAN
+  - Flight ID: FL677_UDH
+    Departure: 2025-01-26 23:00:00 from SAN
+    Arrival: 2025-01-27 01:00:00 in PDX
+========================================
+Trip ID: 443
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL678
+    Departure: 2025-01-27 16:00:00 from PDX
+    Arrival: 2025-01-27 18:00:00 in SAN
+  - Flight ID: FL678_UDH
+    Departure: 2025-01-27 23:00:00 from SAN
+    Arrival: 2025-01-28 01:00:00 in PDX
+========================================
+Trip ID: 444
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL679
+    Departure: 2025-01-28 16:00:00 from PDX
+    Arrival: 2025-01-28 18:00:00 in SAN
+  - Flight ID: FL679_UDH
+    Departure: 2025-01-28 23:00:00 from SAN
+    Arrival: 2025-01-29 01:00:00 in PDX
+========================================
+Trip ID: 445
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL680
+    Departure: 2025-01-29 16:00:00 from PDX
+    Arrival: 2025-01-29 18:00:00 in SAN
+  - Flight ID: FL680_UDH
+    Departure: 2025-01-29 23:00:00 from SAN
+    Arrival: 2025-01-30 01:00:00 in PDX
+========================================
+Trip ID: 446
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL681
+    Departure: 2025-01-30 16:00:00 from PDX
+    Arrival: 2025-01-30 18:00:00 in SAN
+  - Flight ID: FL681_UDH
+    Departure: 2025-01-30 23:00:00 from SAN
+    Arrival: 2025-01-31 01:00:00 in PDX
+========================================
+Trip ID: 447
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL682
+    Departure: 2025-01-31 16:00:00 from PDX
+    Arrival: 2025-01-31 18:00:00 in SAN
+  - Flight ID: FL682_UDH
+    Departure: 2025-01-31 23:00:00 from SAN
+    Arrival: 2025-02-01 01:00:00 in PDX
+========================================
+Trip ID: 448
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL693
+    Departure: 2025-01-11 08:00:00 from AUS
+    Arrival: 2025-01-11 09:00:00 in DAL
+  - Flight ID: FL693_UDH
+    Departure: 2025-01-11 14:00:00 from DAL
+    Arrival: 2025-01-11 15:00:00 in AUS
+========================================
+Trip ID: 449
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL694
+    Departure: 2025-01-12 08:00:00 from AUS
+    Arrival: 2025-01-12 09:00:00 in DAL
+  - Flight ID: FL694_UDH
+    Departure: 2025-01-12 14:00:00 from DAL
+    Arrival: 2025-01-12 15:00:00 in AUS
+========================================
+Trip ID: 450
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL695
+    Departure: 2025-01-13 08:00:00 from AUS
+    Arrival: 2025-01-13 09:00:00 in DAL
+  - Flight ID: FL695_UDH
+    Departure: 2025-01-13 14:00:00 from DAL
+    Arrival: 2025-01-13 15:00:00 in AUS
+========================================
+Trip ID: 451
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL696
+    Departure: 2025-01-14 08:00:00 from AUS
+    Arrival: 2025-01-14 09:00:00 in DAL
+  - Flight ID: FL696_UDH
+    Departure: 2025-01-14 14:00:00 from DAL
+    Arrival: 2025-01-14 15:00:00 in AUS
+========================================
+Trip ID: 452
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL697
+    Departure: 2025-01-15 08:00:00 from AUS
+    Arrival: 2025-01-15 09:00:00 in DAL
+  - Flight ID: FL697_UDH
+    Departure: 2025-01-15 14:00:00 from DAL
+    Arrival: 2025-01-15 15:00:00 in AUS
+========================================
+Trip ID: 453
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL698
+    Departure: 2025-01-16 08:00:00 from AUS
+    Arrival: 2025-01-16 09:00:00 in DAL
+  - Flight ID: FL698_UDH
+    Departure: 2025-01-16 14:00:00 from DAL
+    Arrival: 2025-01-16 15:00:00 in AUS
+========================================
+Trip ID: 454
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL699
+    Departure: 2025-01-17 08:00:00 from AUS
+    Arrival: 2025-01-17 09:00:00 in DAL
+  - Flight ID: FL699_UDH
+    Departure: 2025-01-17 14:00:00 from DAL
+    Arrival: 2025-01-17 15:00:00 in AUS
+========================================
+Trip ID: 455
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL700
+    Departure: 2025-01-18 08:00:00 from AUS
+    Arrival: 2025-01-18 09:00:00 in DAL
+  - Flight ID: FL700_UDH
+    Departure: 2025-01-18 14:00:00 from DAL
+    Arrival: 2025-01-18 15:00:00 in AUS
+========================================
+Trip ID: 456
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL701
+    Departure: 2025-01-19 08:00:00 from AUS
+    Arrival: 2025-01-19 09:00:00 in DAL
+  - Flight ID: FL701_UDH
+    Departure: 2025-01-19 14:00:00 from DAL
+    Arrival: 2025-01-19 15:00:00 in AUS
+========================================
+Trip ID: 457
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL702
+    Departure: 2025-01-20 08:00:00 from AUS
+    Arrival: 2025-01-20 09:00:00 in DAL
+  - Flight ID: FL702_UDH
+    Departure: 2025-01-20 14:00:00 from DAL
+    Arrival: 2025-01-20 15:00:00 in AUS
+========================================
+Trip ID: 458
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL703
+    Departure: 2025-01-21 08:00:00 from AUS
+    Arrival: 2025-01-21 09:00:00 in DAL
+  - Flight ID: FL703_UDH
+    Departure: 2025-01-21 14:00:00 from DAL
+    Arrival: 2025-01-21 15:00:00 in AUS
+========================================
+Trip ID: 459
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL704
+    Departure: 2025-01-22 08:00:00 from AUS
+    Arrival: 2025-01-22 09:00:00 in DAL
+  - Flight ID: FL704_UDH
+    Departure: 2025-01-22 14:00:00 from DAL
+    Arrival: 2025-01-22 15:00:00 in AUS
+========================================
+Trip ID: 460
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL705
+    Departure: 2025-01-23 08:00:00 from AUS
+    Arrival: 2025-01-23 09:00:00 in DAL
+  - Flight ID: FL705_UDH
+    Departure: 2025-01-23 14:00:00 from DAL
+    Arrival: 2025-01-23 15:00:00 in AUS
+========================================
+Trip ID: 461
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL706
+    Departure: 2025-01-24 08:00:00 from AUS
+    Arrival: 2025-01-24 09:00:00 in DAL
+  - Flight ID: FL706_UDH
+    Departure: 2025-01-24 14:00:00 from DAL
+    Arrival: 2025-01-24 15:00:00 in AUS
+========================================
+Trip ID: 462
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL707
+    Departure: 2025-01-25 08:00:00 from AUS
+    Arrival: 2025-01-25 09:00:00 in DAL
+  - Flight ID: FL707_UDH
+    Departure: 2025-01-25 14:00:00 from DAL
+    Arrival: 2025-01-25 15:00:00 in AUS
+========================================
+Trip ID: 463
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL708
+    Departure: 2025-01-26 08:00:00 from AUS
+    Arrival: 2025-01-26 09:00:00 in DAL
+  - Flight ID: FL708_UDH
+    Departure: 2025-01-26 14:00:00 from DAL
+    Arrival: 2025-01-26 15:00:00 in AUS
+========================================
+Trip ID: 464
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL709
+    Departure: 2025-01-27 08:00:00 from AUS
+    Arrival: 2025-01-27 09:00:00 in DAL
+  - Flight ID: FL709_UDH
+    Departure: 2025-01-27 14:00:00 from DAL
+    Arrival: 2025-01-27 15:00:00 in AUS
+========================================
+Trip ID: 465
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL710
+    Departure: 2025-01-28 08:00:00 from AUS
+    Arrival: 2025-01-28 09:00:00 in DAL
+  - Flight ID: FL710_UDH
+    Departure: 2025-01-28 14:00:00 from DAL
+    Arrival: 2025-01-28 15:00:00 in AUS
+========================================
+Trip ID: 466
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL711
+    Departure: 2025-01-29 08:00:00 from AUS
+    Arrival: 2025-01-29 09:00:00 in DAL
+  - Flight ID: FL711_UDH
+    Departure: 2025-01-29 14:00:00 from DAL
+    Arrival: 2025-01-29 15:00:00 in AUS
+========================================
+Trip ID: 467
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL712
+    Departure: 2025-01-30 08:00:00 from AUS
+    Arrival: 2025-01-30 09:00:00 in DAL
+  - Flight ID: FL712_UDH
+    Departure: 2025-01-30 14:00:00 from DAL
+    Arrival: 2025-01-30 15:00:00 in AUS
+========================================
+Trip ID: 468
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL713
+    Departure: 2025-01-31 08:00:00 from AUS
+    Arrival: 2025-01-31 09:00:00 in DAL
+  - Flight ID: FL713_UDH
+    Departure: 2025-01-31 14:00:00 from DAL
+    Arrival: 2025-01-31 15:00:00 in AUS
+========================================
+Trip ID: 469
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL719
+    Departure: 2025-01-06 17:00:00 from DAL
+    Arrival: 2025-01-06 18:00:00 in AUS
+  - Flight ID: FL719_UDH
+    Departure: 2025-01-06 23:00:00 from AUS
+    Arrival: 2025-01-07 00:00:00 in DAL
+========================================
+Trip ID: 470
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL720
+    Departure: 2025-01-07 17:00:00 from DAL
+    Arrival: 2025-01-07 18:00:00 in AUS
+  - Flight ID: FL720_UDH
+    Departure: 2025-01-07 23:00:00 from AUS
+    Arrival: 2025-01-08 00:00:00 in DAL
+========================================
+Trip ID: 471
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL721
+    Departure: 2025-01-08 17:00:00 from DAL
+    Arrival: 2025-01-08 18:00:00 in AUS
+  - Flight ID: FL721_UDH
+    Departure: 2025-01-08 23:00:00 from AUS
+    Arrival: 2025-01-09 00:00:00 in DAL
+========================================
+Trip ID: 472
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL722
+    Departure: 2025-01-09 17:00:00 from DAL
+    Arrival: 2025-01-09 18:00:00 in AUS
+  - Flight ID: FL722_UDH
+    Departure: 2025-01-09 23:00:00 from AUS
+    Arrival: 2025-01-10 00:00:00 in DAL
+========================================
+Trip ID: 473
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL723
+    Departure: 2025-01-10 17:00:00 from DAL
+    Arrival: 2025-01-10 18:00:00 in AUS
+  - Flight ID: FL723_UDH
+    Departure: 2025-01-10 23:00:00 from AUS
+    Arrival: 2025-01-11 00:00:00 in DAL
+========================================
+Trip ID: 474
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL724
+    Departure: 2025-01-11 17:00:00 from DAL
+    Arrival: 2025-01-11 18:00:00 in AUS
+  - Flight ID: FL724_UDH
+    Departure: 2025-01-11 23:00:00 from AUS
+    Arrival: 2025-01-12 00:00:00 in DAL
+========================================
+Trip ID: 475
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL725
+    Departure: 2025-01-12 17:00:00 from DAL
+    Arrival: 2025-01-12 18:00:00 in AUS
+  - Flight ID: FL725_UDH
+    Departure: 2025-01-12 23:00:00 from AUS
+    Arrival: 2025-01-13 00:00:00 in DAL
+========================================
+Trip ID: 476
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL726
+    Departure: 2025-01-13 17:00:00 from DAL
+    Arrival: 2025-01-13 18:00:00 in AUS
+  - Flight ID: FL726_UDH
+    Departure: 2025-01-13 23:00:00 from AUS
+    Arrival: 2025-01-14 00:00:00 in DAL
+========================================
+Trip ID: 477
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL727
+    Departure: 2025-01-14 17:00:00 from DAL
+    Arrival: 2025-01-14 18:00:00 in AUS
+  - Flight ID: FL727_UDH
+    Departure: 2025-01-14 23:00:00 from AUS
+    Arrival: 2025-01-15 00:00:00 in DAL
+========================================
+Trip ID: 478
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL728
+    Departure: 2025-01-15 17:00:00 from DAL
+    Arrival: 2025-01-15 18:00:00 in AUS
+  - Flight ID: FL728_UDH
+    Departure: 2025-01-15 23:00:00 from AUS
+    Arrival: 2025-01-16 00:00:00 in DAL
+========================================
+Trip ID: 479
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL729
+    Departure: 2025-01-16 17:00:00 from DAL
+    Arrival: 2025-01-16 18:00:00 in AUS
+  - Flight ID: FL729_UDH
+    Departure: 2025-01-16 23:00:00 from AUS
+    Arrival: 2025-01-17 00:00:00 in DAL
+========================================
+Trip ID: 480
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL730
+    Departure: 2025-01-17 17:00:00 from DAL
+    Arrival: 2025-01-17 18:00:00 in AUS
+  - Flight ID: FL730_UDH
+    Departure: 2025-01-17 23:00:00 from AUS
+    Arrival: 2025-01-18 00:00:00 in DAL
+========================================
+Trip ID: 481
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL731
+    Departure: 2025-01-18 17:00:00 from DAL
+    Arrival: 2025-01-18 18:00:00 in AUS
+  - Flight ID: FL731_UDH
+    Departure: 2025-01-18 23:00:00 from AUS
+    Arrival: 2025-01-19 00:00:00 in DAL
+========================================
+Trip ID: 482
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL732
+    Departure: 2025-01-19 17:00:00 from DAL
+    Arrival: 2025-01-19 18:00:00 in AUS
+  - Flight ID: FL732_UDH
+    Departure: 2025-01-19 23:00:00 from AUS
+    Arrival: 2025-01-20 00:00:00 in DAL
+========================================
+Trip ID: 483
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL733
+    Departure: 2025-01-20 17:00:00 from DAL
+    Arrival: 2025-01-20 18:00:00 in AUS
+  - Flight ID: FL733_UDH
+    Departure: 2025-01-20 23:00:00 from AUS
+    Arrival: 2025-01-21 00:00:00 in DAL
+========================================
+Trip ID: 484
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL734
+    Departure: 2025-01-21 17:00:00 from DAL
+    Arrival: 2025-01-21 18:00:00 in AUS
+  - Flight ID: FL734_UDH
+    Departure: 2025-01-21 23:00:00 from AUS
+    Arrival: 2025-01-22 00:00:00 in DAL
+========================================
+Trip ID: 485
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL735
+    Departure: 2025-01-22 17:00:00 from DAL
+    Arrival: 2025-01-22 18:00:00 in AUS
+  - Flight ID: FL735_UDH
+    Departure: 2025-01-22 23:00:00 from AUS
+    Arrival: 2025-01-23 00:00:00 in DAL
+========================================
+Trip ID: 486
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL736
+    Departure: 2025-01-23 17:00:00 from DAL
+    Arrival: 2025-01-23 18:00:00 in AUS
+  - Flight ID: FL736_UDH
+    Departure: 2025-01-23 23:00:00 from AUS
+    Arrival: 2025-01-24 00:00:00 in DAL
+========================================
+Trip ID: 487
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL737
+    Departure: 2025-01-24 17:00:00 from DAL
+    Arrival: 2025-01-24 18:00:00 in AUS
+  - Flight ID: FL737_UDH
+    Departure: 2025-01-24 23:00:00 from AUS
+    Arrival: 2025-01-25 00:00:00 in DAL
+========================================
+Trip ID: 488
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL738
+    Departure: 2025-01-25 17:00:00 from DAL
+    Arrival: 2025-01-25 18:00:00 in AUS
+  - Flight ID: FL738_UDH
+    Departure: 2025-01-25 23:00:00 from AUS
+    Arrival: 2025-01-26 00:00:00 in DAL
+========================================
+Trip ID: 489
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL739
+    Departure: 2025-01-26 17:00:00 from DAL
+    Arrival: 2025-01-26 18:00:00 in AUS
+  - Flight ID: FL739_UDH
+    Departure: 2025-01-26 23:00:00 from AUS
+    Arrival: 2025-01-27 00:00:00 in DAL
+========================================
+Trip ID: 490
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL740
+    Departure: 2025-01-27 17:00:00 from DAL
+    Arrival: 2025-01-27 18:00:00 in AUS
+  - Flight ID: FL740_UDH
+    Departure: 2025-01-27 23:00:00 from AUS
+    Arrival: 2025-01-28 00:00:00 in DAL
+========================================
+Trip ID: 491
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL741
+    Departure: 2025-01-28 17:00:00 from DAL
+    Arrival: 2025-01-28 18:00:00 in AUS
+  - Flight ID: FL741_UDH
+    Departure: 2025-01-28 23:00:00 from AUS
+    Arrival: 2025-01-29 00:00:00 in DAL
+========================================
+Trip ID: 492
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL742
+    Departure: 2025-01-29 17:00:00 from DAL
+    Arrival: 2025-01-29 18:00:00 in AUS
+  - Flight ID: FL742_UDH
+    Departure: 2025-01-29 23:00:00 from AUS
+    Arrival: 2025-01-30 00:00:00 in DAL
+========================================
+Trip ID: 493
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL743
+    Departure: 2025-01-30 17:00:00 from DAL
+    Arrival: 2025-01-30 18:00:00 in AUS
+  - Flight ID: FL743_UDH
+    Departure: 2025-01-30 23:00:00 from AUS
+    Arrival: 2025-01-31 00:00:00 in DAL
+========================================
+Trip ID: 494
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL744
+    Departure: 2025-01-31 17:00:00 from DAL
+    Arrival: 2025-01-31 18:00:00 in AUS
+  - Flight ID: FL744_UDH
+    Departure: 2025-01-31 23:00:00 from AUS
+    Arrival: 2025-02-01 00:00:00 in DAL
+========================================
+Trip ID: 495
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL374
+    Departure: 2025-01-02 07:30:00 from IAH
+    Arrival: 2025-01-02 10:00:00 in MSP
+  - Flight ID: FL374_UDH
+    Departure: 2025-01-02 15:00:00 from MSP
+    Arrival: 2025-01-02 17:30:00 in IAH
+========================================
+Trip ID: 496
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL1
+    Departure: 2025-01-01 07:00:00 from JFK
+    Arrival: 2025-01-01 10:00:00 in LAX
+  - Flight ID: FL1_UDH
+    Departure: 2025-01-01 15:00:00 from LAX
+    Arrival: 2025-01-01 18:00:00 in JFK
+========================================
+Trip ID: 497
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL187
+    Departure: 2025-01-01 09:00:00 from MIA
+    Arrival: 2025-01-01 11:00:00 in ATL
+  - Flight ID: FL187_UDH
+    Departure: 2025-01-01 16:00:00 from ATL
+    Arrival: 2025-01-01 18:00:00 in MIA
+========================================
+Trip ID: 498
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL64
+    Departure: 2025-01-02 08:00:00 from ORD
+    Arrival: 2025-01-02 10:30:00 in DFW
+  - Flight ID: FL64_UDH
+    Departure: 2025-01-02 15:30:00 from DFW
+    Arrival: 2025-01-02 18:00:00 in ORD
+========================================
+Trip ID: 499
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL435
+    Departure: 2025-01-01 08:00:00 from CLT
+    Arrival: 2025-01-01 09:30:00 in DTW
+  - Flight ID: FL435_UDH
+    Departure: 2025-01-01 14:30:00 from DTW
+    Arrival: 2025-01-01 16:00:00 in CLT
+========================================
+Trip ID: 500
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL312
+    Departure: 2025-01-02 08:00:00 from DEN
+    Arrival: 2025-01-02 09:30:00 in PHX
+  - Flight ID: FL312_UDH
+    Departure: 2025-01-02 14:30:00 from PHX
+    Arrival: 2025-01-02 16:00:00 in DEN
+========================================
+Trip ID: 501
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL126
+    Departure: 2025-01-02 10:00:00 from SFO
+    Arrival: 2025-01-02 11:45:00 in SEA
+  - Flight ID: FL126_UDH
+    Departure: 2025-01-02 16:45:00 from SEA
+    Arrival: 2025-01-02 18:30:00 in SFO
+========================================
+Trip ID: 502
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL405
+    Departure: 2025-01-02 13:30:00 from MSP
+    Arrival: 2025-01-02 16:00:00 in IAH
+  - Flight ID: FL405_UDH
+    Departure: 2025-01-02 21:00:00 from IAH
+    Arrival: 2025-01-02 23:30:00 in MSP
+========================================
+Trip ID: 503
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL34
+    Departure: 2025-01-03 13:00:00 from LAX
+    Arrival: 2025-01-03 20:00:00 in JFK
+  - Flight ID: FL34_UDH
+    Departure: 2025-01-04 01:00:00 from JFK
+    Arrival: 2025-01-04 08:00:00 in LAX
+========================================
+Trip ID: 504
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL220
+    Departure: 2025-01-03 14:00:00 from ATL
+    Arrival: 2025-01-03 16:00:00 in MIA
+  - Flight ID: FL220_UDH
+    Departure: 2025-01-03 21:00:00 from MIA
+    Arrival: 2025-01-03 23:00:00 in ATL
+========================================
+Trip ID: 505
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL95
+    Departure: 2025-01-02 13:00:00 from DFW
+    Arrival: 2025-01-02 15:30:00 in ORD
+  - Flight ID: FL95_UDH
+    Departure: 2025-01-02 20:30:00 from ORD
+    Arrival: 2025-01-02 23:00:00 in DFW
+========================================
+Trip ID: 506
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL468
+    Departure: 2025-01-03 14:00:00 from DTW
+    Arrival: 2025-01-03 15:30:00 in CLT
+  - Flight ID: FL468_UDH
+    Departure: 2025-01-03 20:30:00 from CLT
+    Arrival: 2025-01-03 22:00:00 in DTW
+========================================
+Trip ID: 507
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL343
+    Departure: 2025-01-02 14:00:00 from PHX
+    Arrival: 2025-01-02 15:30:00 in DEN
+  - Flight ID: FL343_UDH
+    Departure: 2025-01-02 20:30:00 from DEN
+    Arrival: 2025-01-02 22:00:00 in PHX
+========================================
+Trip ID: 508
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL157
+    Departure: 2025-01-02 14:00:00 from SEA
+    Arrival: 2025-01-02 15:45:00 in SFO
+  - Flight ID: FL157_UDH
+    Departure: 2025-01-02 20:45:00 from SFO
+    Arrival: 2025-01-02 22:30:00 in SEA
+========================================
+Trip ID: 509
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL377
+    Departure: 2025-01-05 07:30:00 from IAH
+    Arrival: 2025-01-05 10:00:00 in MSP
+  - Flight ID: FL377_UDH
+    Departure: 2025-01-05 15:00:00 from MSP
+    Arrival: 2025-01-05 17:30:00 in IAH
+========================================
+Trip ID: 510
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL4
+    Departure: 2025-01-04 07:00:00 from JFK
+    Arrival: 2025-01-04 10:00:00 in LAX
+  - Flight ID: FL4_UDH
+    Departure: 2025-01-04 15:00:00 from LAX
+    Arrival: 2025-01-04 18:00:00 in JFK
+========================================
+Trip ID: 511
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL190
+    Departure: 2025-01-04 09:00:00 from MIA
+    Arrival: 2025-01-04 11:00:00 in ATL
+  - Flight ID: FL190_UDH
+    Departure: 2025-01-04 16:00:00 from ATL
+    Arrival: 2025-01-04 18:00:00 in MIA
+========================================
+Trip ID: 512
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL67
+    Departure: 2025-01-05 08:00:00 from ORD
+    Arrival: 2025-01-05 10:30:00 in DFW
+  - Flight ID: FL67_UDH
+    Departure: 2025-01-05 15:30:00 from DFW
+    Arrival: 2025-01-05 18:00:00 in ORD
+========================================
+Trip ID: 513
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL438
+    Departure: 2025-01-04 08:00:00 from CLT
+    Arrival: 2025-01-04 09:30:00 in DTW
+  - Flight ID: FL438_UDH
+    Departure: 2025-01-04 14:30:00 from DTW
+    Arrival: 2025-01-04 16:00:00 in CLT
+========================================
+Trip ID: 514
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL315
+    Departure: 2025-01-05 08:00:00 from DEN
+    Arrival: 2025-01-05 09:30:00 in PHX
+  - Flight ID: FL315_UDH
+    Departure: 2025-01-05 14:30:00 from PHX
+    Arrival: 2025-01-05 16:00:00 in DEN
+========================================
+Trip ID: 515
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL129
+    Departure: 2025-01-05 10:00:00 from SFO
+    Arrival: 2025-01-05 11:45:00 in SEA
+  - Flight ID: FL129_UDH
+    Departure: 2025-01-05 16:45:00 from SEA
+    Arrival: 2025-01-05 18:30:00 in SFO
+========================================
+Trip ID: 516
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL408
+    Departure: 2025-01-05 13:30:00 from MSP
+    Arrival: 2025-01-05 16:00:00 in IAH
+  - Flight ID: FL408_UDH
+    Departure: 2025-01-05 21:00:00 from IAH
+    Arrival: 2025-01-05 23:30:00 in MSP
+========================================
+Trip ID: 517
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL37
+    Departure: 2025-01-06 13:00:00 from LAX
+    Arrival: 2025-01-06 20:00:00 in JFK
+  - Flight ID: FL37_UDH
+    Departure: 2025-01-07 01:00:00 from JFK
+    Arrival: 2025-01-07 08:00:00 in LAX
+========================================
+Trip ID: 518
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL223
+    Departure: 2025-01-06 14:00:00 from ATL
+    Arrival: 2025-01-06 16:00:00 in MIA
+  - Flight ID: FL223_UDH
+    Departure: 2025-01-06 21:00:00 from MIA
+    Arrival: 2025-01-06 23:00:00 in ATL
+========================================
+Trip ID: 519
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL98
+    Departure: 2025-01-05 13:00:00 from DFW
+    Arrival: 2025-01-05 15:30:00 in ORD
+  - Flight ID: FL98_UDH
+    Departure: 2025-01-05 20:30:00 from ORD
+    Arrival: 2025-01-05 23:00:00 in DFW
+========================================
+Trip ID: 520
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL471
+    Departure: 2025-01-06 14:00:00 from DTW
+    Arrival: 2025-01-06 15:30:00 in CLT
+  - Flight ID: FL471_UDH
+    Departure: 2025-01-06 20:30:00 from CLT
+    Arrival: 2025-01-06 22:00:00 in DTW
+========================================
+Trip ID: 521
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL346
+    Departure: 2025-01-05 14:00:00 from PHX
+    Arrival: 2025-01-05 15:30:00 in DEN
+  - Flight ID: FL346_UDH
+    Departure: 2025-01-05 20:30:00 from DEN
+    Arrival: 2025-01-05 22:00:00 in PHX
+========================================
+Trip ID: 522
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL160
+    Departure: 2025-01-05 14:00:00 from SEA
+    Arrival: 2025-01-05 15:45:00 in SFO
+  - Flight ID: FL160_UDH
+    Departure: 2025-01-05 20:45:00 from SFO
+    Arrival: 2025-01-05 22:30:00 in SEA
+========================================
+Trip ID: 523
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL380
+    Departure: 2025-01-08 07:30:00 from IAH
+    Arrival: 2025-01-08 10:00:00 in MSP
+  - Flight ID: FL380_UDH
+    Departure: 2025-01-08 15:00:00 from MSP
+    Arrival: 2025-01-08 17:30:00 in IAH
+========================================
+Trip ID: 524
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL7
+    Departure: 2025-01-07 07:00:00 from JFK
+    Arrival: 2025-01-07 10:00:00 in LAX
+  - Flight ID: FL7_UDH
+    Departure: 2025-01-07 15:00:00 from LAX
+    Arrival: 2025-01-07 18:00:00 in JFK
+========================================
+Trip ID: 525
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL193
+    Departure: 2025-01-07 09:00:00 from MIA
+    Arrival: 2025-01-07 11:00:00 in ATL
+  - Flight ID: FL193_UDH
+    Departure: 2025-01-07 16:00:00 from ATL
+    Arrival: 2025-01-07 18:00:00 in MIA
+========================================
+Trip ID: 526
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL70
+    Departure: 2025-01-08 08:00:00 from ORD
+    Arrival: 2025-01-08 10:30:00 in DFW
+  - Flight ID: FL70_UDH
+    Departure: 2025-01-08 15:30:00 from DFW
+    Arrival: 2025-01-08 18:00:00 in ORD
+========================================
+Trip ID: 527
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL441
+    Departure: 2025-01-07 08:00:00 from CLT
+    Arrival: 2025-01-07 09:30:00 in DTW
+  - Flight ID: FL441_UDH
+    Departure: 2025-01-07 14:30:00 from DTW
+    Arrival: 2025-01-07 16:00:00 in CLT
+========================================
+Trip ID: 528
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL318
+    Departure: 2025-01-08 08:00:00 from DEN
+    Arrival: 2025-01-08 09:30:00 in PHX
+  - Flight ID: FL318_UDH
+    Departure: 2025-01-08 14:30:00 from PHX
+    Arrival: 2025-01-08 16:00:00 in DEN
+========================================
+Trip ID: 529
+Cost: 1000010.0
+Legs:
+  - Flight ID: FL132
+    Departure: 2025-01-08 10:00:00 from SFO
+    Arrival: 2025-01-08 11:45:00 in SEA
+  - Flight ID: FL132_UDH
+    Departure: 2025-01-08 16:45:00 from SEA
+    Arrival: 2025-01-08 18:30:00 in SFO
+========================================
